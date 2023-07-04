@@ -1,0 +1,809 @@
+Move,Type,Category,Power Modifier 1,Power,Power Modifier 2,Accuracy Modifier 1,Accuracy Modifier 2,Target,Effect
+Absorb,Grass,SPECIAL,SPECIAL,1,,SPECIAL,CHANNEL,Single Target,"The User restores HP equal to half the damage dealt, rounded down. Absorb always restores 1 HP."
+Accelerock,Rock,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,Priority +1.
+Acid,Poison,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Multiple Targets,On a Chance Dice roll of 10 decrease the Target's Special Defense by 1.
+Acid Armor,Poison,SUPPORT,,0,,ENDURANCE,NATURE,User,Increase the User’s Defense by 2.
+Acid Spray,Poison,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,Decrease the Target's Special Defense by 2.
+Acrobatics,Flying,PHYSICAL,STRENGTH,4,,DEXTERITY,ATHLETICS,Single Target,"If the User has a Held Item, remove 2 dice from the Damage Pool."
+Acupressure,Normal,SUPPORT,,0,,ENDURANCE,NATURE,User,"Increase a random Stat of the User by 2. Roll a 1d7, on a 1 - Strength, 2 - Defense, 3 - Special, 4 - Special Defense, 5 - Dexterity, 6 - Accuracy, and 7 - Evasion. Reroll the 1d7 if the increased Stat is already at +6."
+Aerial Ace,Flying,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,Aerial Ace can not be Evaded and ignores the User's Accuracy decreases.
+Aeroblast,Flying,SPECIAL,SPECIAL,4,,SPECIAL,CHANNEL,Single Target,High Critical. The User removes 1 Success from the Accuracy Roll.
+After You,Normal,SUPPORT,,0,,COOL,ETIQUETTE,Single Target,The Target will go first in the Initiative order as long as the Target stays on the Battlefield. After You can not be Evaded and ignores the User's Accuracy decreases.
+Agility,Psychic,SUPPORT,,0,,DEXTERITY,ATHLETICS,User,Increase the User’s Dexterity by 2.
+Air Cutter,Flying,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Multiple Targets,High Critical. The User removes 1 Success from the Accuracy Roll.
+Air Slash,Flying,SPECIAL,SPECIAL,3,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 8 or higher Flinch the Target. The User removes 1 Success from the Accuracy Roll.
+Ally Switch,Psychic,SUPPORT,,0,,SPECIAL,CHANNEL,Single Target,User Switcher Move.
+Amnesia,Psychic,SUPPORT,,0,,SPIRIT,CHANNEL,User,Increase the User’s Special Defense by 2.
+Anchor Shot,Steel,PHYSICAL,STRENGTH,3,,DEXTERITY,CHANNEL,Single Target,Ranged. Block.
+Ancient Power,Rock,SPECIAL,SPECIAL,2,,SPIRIT,CHANNEL,Single Target,"On a Chance Dice roll of 10 Increase the User's Strength, Dexterity, Special, Defense, and Special Defense by 1"
+Apple Acid,Grass,SPECIAL,SPECIAL,3,,SPECIAL,NATURE,Single Target,Decrease the Target’s Special Defense by 1.
+Aqua Cutter,Water,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,High Critical.
+Aqua Jet,Water,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,Priority +1.
+Aqua Ring,Water,SUPPORT,,0,,SPECIAL,NATURE,User,The User restores 1 HP at the end of the Turn. This effect last for as long as the User is on the Battlefield.
+Aqua Step,Water,PHYSICAL,STRENGTH,3,,DEXTERITY,PERFORM,Single Target,Increase the User’s Dexterity by 1.
+Aqua Tail,Water,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 8 or higher Flinch the Target. The User removes 1 Success from the Accuracy Roll.
+Arm Thrust,Fighting,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,Successive Actions.
+Armor Cannon,Fire,SPECIAL,SPECIAL,5,,SPECIAL,CHANNEL,Single Target,Decrease the User's Defense and Special Defense by 1.
+Aromatherapy,Grass,SUPPORT,,0,,SPIRIT,NATURE,User and Allies,"The User and Allies are cured from Burn, Frostbite, Paralysis, Poison or Sleep. "
+Aromatic Mist,Fairy,SUPPORT,,0,,BEAUTY,NATURE,Single Target,Increase the Target's Special Defense by 1.
+Assist,Normal,SUPPORT,,0,,CLEVER,PERFORM,Single Target,"The User performs a random move learnt by an Ally. The move uses the Accuracy roll from Assist. All effects of the copied move apply, including decreased Accuracy."
+Assurance,Dark,PHYSICAL,STRENGTH,2,,ENDURANCE,BRAWL,Single Target,Add 2 extra dice to the Damage Pool if the Target has already damaged the User this Turn.
+Astonish,Ghost,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 8 or higher Flinch the Target.
+Astral Barrage,Ghost,SPECIAL,SPECIAL,5,,DEXTERITY,CHANNEL,Multiple Targets,-
+Attack Order,Bug,PHYSICAL,STRENGTH,3,,TOUGH,NATURE,Single Target,High Critical. Ranged.
+Attract,Normal,SUPPORT,,0,,BEAUTY,ALLURE,Single Target,The Target is Infatuated. Attract fails if Target is the same gender as the User or the User is genderless.
+Aura Sphere,Fighting,SPECIAL,SPECIAL,3,,SPIRIT,CHANNEL,Single Target,Aura Sphere can not be Evaded and ignores the User's Accuracy decreases.
+Aura Wheel,Electric,PHYSICAL,STRENGTH,4,,DEXTERITY,BRAWL,Single Target,Increase the User’s Dexterity by 1. If the User is in Hangry Form Aura Wheel is considered to be Dark-Type.
+Aurora Beam,Ice,SPECIAL,SPECIAL,2,,BEAUTY,CHANNEL,Single Target,On a Chance Dice roll of 10 Decrease Target’s Strength by 1.
+Aurora Veil,Ice,SUPPORT,,0,,BEAUTY,NATURE,Battlefield,"The User and Allies will receive 2 less damage from both Physical and Special moves, and Clashes. Aurora Veil will fail if not performed under the effects of Hail. Lasts for 5 Turns, even if the Hail has ended. This effect can not decrease the damage below 1."
+Autotomize,Steel,SUPPORT,,0,,DEXTERITY,CHANNEL,User,Increase the User’s Dexterity by 2. The User’s weight is halved for as long as they are on the Battlefield.
+Avalanche,Ice,PHYSICAL,STRENGTH,2,,ENDURANCE,NATURE,Single Target,Priority -4. Add 4 extra dice to the Damage Pool if the User received damage from the Target this Turn.
+Axe Kick,Fighting,PHYSICAL,STRENGTH,5,,STRENGTH,ATHLETICS,Single Target,"On a Chance Dice roll of 8 or higher Confuse the Target. If the Accuracy Roll fails, the User receives damage equal to half of the User's Max HP, rounded down. The User removes 1 Success from the Accuracy Roll."
+Baby-Doll Eyes,Fairy,SUPPORT,,0,,CUTE,ALLURE,Single Target,Priority +1. Decrease the Target’s Strength by 1.
+Baneful Bunker,Poison,SUPPORT,,0,,ENDURANCE,NATURE,User,"Priority +4. Shield Move. Decrease any damage the User would receive from all Actions by a Physical or Special move to zero, and negate the move's effects. Negate the effects of Support moves that Target the User. Decrease to zero the set damage from a move the User would take. Baneful Bunker stops all OHKO moves. If the Target attacked using a Physical Move, the Target is Poisoned."
+Barb Barrage,Poison,PHYSICAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,Ranged. On a Chance Dice roll of 8 or higher Poison the Target. Add 2 extra dice to the Damage Pool if the Target is affected by a Status Condition.
+Barrage,Normal,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,Ranged. Successive Actions. The User removes 1 Success from the Accuracy Roll.
+Barrier,Psychic,SUPPORT,,0,,SPECIAL,CHANNEL,Single Target,Increase the User’s Defense by 2.
+Baton Pass,Normal,SUPPORT,,0,,CLEVER,ETIQUETTE,User,"User Switcher Move. All Stat increases and decreases, all effects from moves, including healing over time, damage over time, and substitutes that the User had, are transferred to the switched Ally. Status Conditions, Flinch, and Infatuation are not transferred, but Confusion is."
+Beak Blast,Flying,PHYSICAL,STRENGTH,4,,STRENGTH,CHANNEL,Single Target,"Priority -3. Ranged. Charge Move. If the User is hit by a non Ranged Physical move while Beak Blast is charging, the Pokemon that used the move is Burned."
+Beat Up,Dark,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,"Add 2 extra dice of Damage for every ally Pokémon that spends an Action to help the User perform Beat Up, up to 3 Allies may join."
+Behemoth Bash,Steel,PHYSICAL,STRENGTH,4,,ENDURANCE,BRAWL,Single Target,"If the Target is under the effects of Dynamax, add 4 extra dice to the Damage Pool."
+Behemoth Blade,Steel,PHYSICAL,STRENGTH,4,,STRENGTH,BRAWL,Single Target,"If the Target is under the effects of Dynamax, add 4 extra dice to the Damage Pool."
+Belch,Poison,SPECIAL,SPECIAL,5,,SPECIAL,CHANNEL,Single Target,"If the User has not consumed a Held Berry while the User was on the Battlefield, Belch fails. The User removes 1 Success from the Accuracy Roll."
+Belly Drum,Normal,SUPPORT,,0,,TOUGH,PERFORM,User,"The User takes damage equal to half of the User's Max HP, rounded down. Increase User's Strength by 6. Remove all Strength reductions from the User."
+Bestow,Normal,SUPPORT,,0,,COOL,ETIQUETTE,Single Target,"If Target is not holding an Item, the User gives the Target the User's Held Item. Bestow can not be Evaded and ignores the User's Accuracy decreases."
+Bide,Normal,PHYSICAL,,0,,ENDURANCE,BRAWL,Single Target,"Priority +1. Charge Move. The Target receives twice the amount of damage the User received from all Physical and Special moves while charging. The User can not Evade or Clash while charging Bide. Bide's release Action is used with Priority +1, and targets the last Pokemon that targeted the User with a Physical or Special move. Ignore the Target's Defenses. Bide can not be a Critical Hit. Bide is unaffected by STAB, Super Effective, and Resistance, Immunities still apply. Bide can not be Clashed."
+Bind,Normal,PHYSICAL,STRENGTH,1,,STRENGTH,BRAWL,Single Target,"Block. Deal 1 Neutral damage at the end of the Turn. This effect does not stack with other similar moves. Lasts for 5 Turns, unless the User is switched. The User removes 1 Success from the Accuracy Roll."
+Bite,Dark,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 8 or higher Flinch the Target.
+Bitter Blade,Fire,PHYSICAL,STRENGTH,3,,STRENGTH,ATHLETICS,Single Target,"The User restores HP equal to half the damage dealt, rounded down. Bitter Blade always restores 1 HP."
+Bitter Malice,Ghost,SPECIAL,SPECIAL,2,,TOUGH,INTIMIDATE,Single Target,On a Chance Dice roll of 8 or higher Frostbite the Target. Add 2 extra dice to the Damage Pool if the Target already has a Status Condition.
+Blast Burn,Fire,SPECIAL,SPECIAL,6,,SPECIAL,CHANNEL,Single Target,Recharge. The User removes 1 Success from the Accuracy Roll.
+Blaze Kick,Fire,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,High Critical. On a Chance Dice roll of 9 or higher Burn the Target. The User removes 1 Success from the Accuracy Roll.
+Bleakwind Storm,Flying,SPECIAL,SPECIAL,4,,SPECIAL,CHANNEL,Multiple Targets,Decrease the Targets Dexterity by 1. The User removes 2 Successes from the Accuracy Roll.
+Blizzard,Ice,SPECIAL,SPECIAL,4,,SPECIAL,CHANNEL,Multiple Targets,"On a Chance Dice roll of 10 Frostbite the Target. If Hail is in effect, Blizzard can not be Evaded, ignores the User's Accuracy decreases, and ignore Blizzard's removed successes. If Sunny Weather is in effect, the User removes 2 additional Successes from Blizzard's Accuracy Roll. The User removes 3 Successes from the Accuracy Roll."
+Block,Normal,SUPPORT,,0,,DEXTERITY,ALERT,Single Target,Block. This effect ends when the User swaps out. Block can not be Evaded and ignores the User's Accuracy decreases.
+Blue Flare,Fire,SPECIAL,SPECIAL,6,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 9 or higher Burn the Target. The User removes 2 Successes from the Accuracy Roll.
+Body Press,Fighting,PHYSICAL,VITALITY,3,,TOUGH,ATHLETICS,Single Target,-
+Body Slam,Normal,PHYSICAL,STRENGTH,3,,ENDURANCE,BRAWL,Single Target,On a Chance Dice roll of 8 or higher Paralyze the Target.
+Bolt Beak,Electric,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Add 3 extra dice to the Damage pool if the Target has not had a Turn this Turn.
+Bolt Strike,Electric,PHYSICAL,STRENGTH,6,,STRENGTH,BRAWL,Single Target,On a Chance Dice roll of 9 or higher Paralyze the Target. The User removes 2 Successes from the Accuracy Roll.
+Bone Club,Ground,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 10 Flinch the Target. The User removes 1 Success from the Accuracy Roll.
+Bone Rush,Ground,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,Succesive Actions. The User removes 1 Success from the Accuracy Roll.
+Bonemerang,Ground,PHYSICAL,STRENGTH,2,,DEXTERITY,ATHLETICS,Single Target,Ranged. Double Action. The User removes 1 Success from the Accuracy Roll.
+Boomburst,Normal,SPECIAL,SPECIAL,6,,TOUGH,PERFORM,Area,Sound Based.
+Bounce,Flying,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Charge Move. The User can not be targeted while charging Bounce. On a Chance Dice roll of 8 or higher Paralyze the Target. The User removes 1 Success from the Accuracy Roll.
+Branch Poke,Grass,PHYSICAL,STRENGTH,2,,TOUGH,BRAWL,Single Target,-
+Brave Bird,Flying,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Single Target,Recoil Move. The User receives 3 Neutral damage.
+Breaking Swipe,Dragon,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Multiple Targets,Decrease the Target's Strength by 1.
+Brick Break,Fighting,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,"If a Aurora Veil, Light Screen, or Reflect are in effect on the Target’s side of the Battlefield, remove them and add 2 extra dice to the Damage Pool."
+Brine,Water,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,Add 3 extra dice to the Damage Pool if the Target has half or less of their HP.
+Brutal Swing,Dark,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Area,-
+Bubble,Water,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Multiple Targets,On a Chance Dice roll of 10 decrease the Target's Dexterity by 1.
+Bubble Beam,Water,SPECIAL,SPECIAL,3,,DEXTERITY,CHANNEL,Single Target,On a Chance Dice roll of 10 decrease the Target’s Dexterity by 1.
+Bug Bite,Bug,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,"If the Target Pokémon is holding a Berry, the User eats the Berry and gains its effects."
+Bug Buzz,Bug,SPECIAL,SPECIAL,3,,SPECIAL,PERFORM,Single Target,Sound Based. On a Chance Dice roll of 10 decrease Target’s Special Defense by 1.
+Bulk Up,Fighting,SUPPORT,,0,,ENDURANCE,ATHLETICS,User,Increase the User’s Strength and Defense by 1.
+Bulldoze,Ground,PHYSICAL,STRENGTH,2,,STRENGTH,INTIMIDATE,Area,Decrease the Target's Dexterity by 1.
+Bullet Punch,Steel,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,Priority +1. Fist Based. 
+Bullet Seed,Grass,PHYSICAL,STRENGTH,1,,DEXTERITY,CHANNEL,Single Target,Ranged. Successive Actions.
+Burn Up,Fire,SPECIAL,SPECIAL,5,,WILL,CHANNEL,Single Target,"The User is no longer considered an Fire-Type for as long as they are on the Battlefield. (If the User's only Type was Fire-Type, the User is considered Typeless). If a non Fire-Type Pokemon attempts to perfrom Burn Up, Burn Up will fail. "
+Burning Jealousy,Fire,SPECIAL,SPECIAL,3,,CUTE,CHANNEL,Multiple Targets,"If the Target has had an Stat increase this Turn, the Target is Burned."
+Calm Mind,Psychic,SUPPORT,,0,,SPIRIT,CHANNEL,User,Increase the User’s Special and Special Defense by 1.
+Camouflage,Normal,SUPPORT,,0,,CLEVER,NATURE,User,The User changes its Type to match the Battlefield's enviroment. This effect last for as long as the Target User on the Battlefield. Refer to the Rulebook on Battlefield enviroments.
+Captivate,Normal,SUPPORT,,0,,BEAUTY,ALLURE,Multiple Targets,Decrease the Target's Special by 2 if they are from the opposite gender than the User.
+Ceaseless Edge,Dark,PHYSICAL,STRENGTH,3,,DEXTERITY,STEALTH,Single Target,"Entry Hazard. Any Pokémon that enter the Foe's Battlefield will lose 1 HP, Ceaseless Edge's effect may be stacked up to 3 times. Pokémon with the Ability Levitate and Flying-Type Pokémon are immune to this effect."
+Charge,Electric,SUPPORT,,0,,SPIRIT,NATURE,User,Double the Base Power of the next Electric-Type Physical or Special move performed by the User. Increase the User’s Special Defense 1. This effect can not stack with similiar effects.
+Charge Beam,Electric,SPECIAL,SPECIAL,2,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 4 or higher increase the User's Special by 1. The User removes 1 Success from the Accuracy Roll.
+Charm,Fairy,SUPPORT,,0,,CUTE,ALLURE,Single Target,Decrease the Target’s Strength by 2.
+Chatter,Flying,SPECIAL,SPECIAL,2,,COOL,PERFORM,Single Target,Sound Based. On a Chance Dice roll of 8 or higher Confuse the Target. 
+Chilling Reception,Ice,SUPPORT,,,,COOL,NATURE,User,User Switcher Move. Begin the effects of Hail. Last 5 Turns.
+Chilling Water,Water,SPECIAL,SPECIAL,2,,SPECIAL,CHANNEL,Single Target,Decrease the Target’s Strength by 1.
+Chip Away,Normal,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Chip Away ignores Defense and Evasion increases on the Target.
+Chloroblast,Grass,SPECIAL,SPECIAL,6,,TOUGH,ATHLETICS,Single Target,"The User receives damage equal to half of the User's Max HP, rounded down. Accuracy -1."
+Circle Throw,Fighting,PHYSICAL,STRENGTH,2,,TOUGH,ATHLETICS,Single Target,Priority -1. Target Switcher Move. The User removes 1 Success from the Accuracy Roll.
+Clamp,Water,PHYSICAL,STRENGTH,2,,STRENGTH,BRAWL,Single Target,"Block. Deal 1 Neutral damage at the end of the Turn. This effect does not stack with other similar moves. Lasts for 5 Turns, unless the User is switched. The User removes 1 Success from the Accuracy Roll."
+Clanging Scales,Dragon,SPECIAL,SPECIAL,4,,TOUGH,PERFORM,Multiple Targets,Sound Based. Decrease the User's Defense by 1.
+Clangorous Soul,Dragon,SUPPORT,,0,,TOUGH,PERFORM,User,"The User deals damage to itself equal to half of its total HP, rounded down. Increase the User’s Strength, Dexterity, Special, Defense and Special Defense by 1."
+Clear Smog,Poison,SPECIAL,SPECIAL,2,,SPIRIT,CHANNEL,Single Target,Reset all Stat increases and decreases on the Target.
+Close Combat,Fighting,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Single Target,Decrease the User’s Defense and Special Defense by 1.
+Coaching,Fighting,SUPPORT,,,,COOL,PERFORM,All Allies,Increase the target Allies Strength and Defense by 1.
+Coil,Poison,SUPPORT,,0,,TOUGH,INTIMIDATE,User,"Increase the User’s Strength, Defense and Accuracy by 1."
+Collision Course,Fighting,PHYSICAL,STRENGTH,4,,DEXTERITY,ATHLETICS,Single Target,Collision Course does an additional 2 damage Collision Course is Super Effective on the Target. 
+Comet Punch,Normal,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,Fist Based. Successive Actions.The User removes 1 Success from the Accuracy Roll.
+Comeuppance,Dark,PHYSICAL,,,,ENDURANCE,ATHLETICS,Single Target,"The Target receives damage equal to 1.5 the amount of damage the User received from the last Physical or Special move that damaged the User this Turn, rounded down. Ignore the Target's Defenses. Comeuppance can only target the Target that damaged the User last. Comeuppance can not be a Critical Hit. Comeuppance is unaffected by STAB, Super Effective, and Resistance, Immunities still apply. Comeuppance can not be Clashed."
+Confide,Normal,SUPPORT,,0,,CUTE,ALLURE,Single Target,Sound Based. Decrease the Targets' Special by 1. Confide ignores the effects of Shield Moves.
+Confuse Ray,Ghost,SUPPORT,,0,,SPIRIT,NATURE,Single Target,The Target is Confused.
+Confusion,Psychic,SPECIAL,SPECIAL,2,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 10 Confuse the Target.
+Constrict,Normal,PHYSICAL,STRENGTH,1,,STRENGTH,BRAWL,Single Target,On a Chance Dice roll of 10 lower the Target's Dexterity by 1.
+Conversion,Normal,SUPPORT,,0,,WILL,CHANNEL,User,The User changes its Type at random. Roll a 1d18 to determine the new Type.
+Conversion 2,Normal,SUPPORT,,0,,WILL,CHANNEL,User,"After being dealt damage, choose a Type Resistant to the Type of that move that just hit the User. That is the User's new Type for as long as the User stays on the Battlefield."
+Copycat,Normal,SUPPORT,,0,,,,Single Target,"Copy the last successful move that the Target performed. All effects of the copied move apply, including decreased Accuracy. Copycat will fail if the Target did not perform a move."
+Core Enforcer,Dragon,SPECIAL,SPECIAL,4,,SPECIAL,CHANNEL,Single Target,"If the Target has already used a move this Turn, remove the Target's Ability for as long as the Target stays on the Battlefield. "
+Corrosive Gas,Poison,SUPPORT,,,,SPIRIT,NATURE,Single Target,The Target’s Held Item can not be used until the Target leaves the Battlefield.
+Cosmic Power,Psychic,SUPPORT,,0,,SPECIAL,CHANNEL,User,Increase the User’s Defense and Special Defense by 1.
+Cotton Guard,Grass,SUPPORT,,0,,SPIRIT,CHANNEL,User,Increase the User’s Defense by 3.
+Cotton Spore,Grass,SUPPORT,,0,,SPIRIT,CHANNEL,Multiple Targets,Decrease the Target’s Dexterity by 2.
+Counter,Fighting,PHYSICAL,,0,,ENDURANCE,ATHLETICS,Single Target,"Priority -1. The Target receives damage equal to double the amount of damage the User received from the last Physical move that damaged the User this Turn. Ignore the Target's Defenses. Counter can only target the Target that damaged the User last. Counter can not be a Critical Hit. Counter is unaffected by STAB, Super Effective, and Resistance, Immunities still apply. Counter can not be Clashed."
+Court Change,Normal,SUPPORT,,0,,CLEVER,ETIQUETTE,Battlefield,"Swap any Barriers (i.e.Light Screen, Reflect etc.), Entry Hazards (i.e. Toxic Spikes, Sticky Web etc.) and effects on the Target’s side of the Battlefield (i.e. Tailwind, etc.) for the one’s on the User’s side."
+Covet,Normal,PHYSICAL,STRENGTH,2,,CLEVER,STEALTH,Single Target,"If the User is not holding an item, the User takes the Target's Held Item."
+Crabhammer,Water,PHYSICAL,STRENGTH,3,,STRENGTH,BRAWL,Single Target,High Critical. The User removes 1 Success from the Accuracy Roll.
+Crafty Shield,Fairy,SUPPORT,,0,,SPIRIT,NATURE,User and Allies,Priority +3. The User and Allies are protected from the effects of a Support Move. 
+Cross Chop,Fighting,PHYSICAL,STRENGTH,4,,DEXTERITY,BRAWL,Single Target,High Critical. The User removes 2 Successes from the Accuracy Roll.
+Cross Poison,Poison,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,High Critical. On a Chance Dice roll of 10 Poison the Target.
+Crunch,Dark,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 9 or higher decrease Target's Defense by 1.
+Crush Claw,Normal,PHYSICAL,STRENGTH,3,,STRENGTH,BRAWL,Single Target,On a Chance Dice roll of 6 or higher Decrease the Target's Defense by 1. The User removes 1 Success from the Accuracy Roll.
+Crush Grip,Normal,PHYSICAL,STRENGTH,1,,STRENGTH,BRAWL,Single Target,Add 1 extra dice to the Damage Pool for every Base HP the Target has above 5. Up to 9 extra dice may be added this way.
+Curse (Ghost-Type),Ghost,SUPPORT,,0,,WILL,CHANNEL,Single Target,"If the User is a Ghost-Type, the User takes damage equal to half of the User's Max HP, rounded down. The Target takes 3 Neutral damage before attempting any move. This effect last as long as the Target stays on the Battlefield. Curse can not be Evaded and ignores the User's Accuracy decreases."
+Curse (Non Ghost-Type),Ghost,SUPPORT,,0,,WILL,CHANNEL,User,"If the User is a non Ghost-Type, increase the User’s Strength and Defense by 1. Decrease the User’s Dexterity by 1."
+Cut,Normal,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,-
+Dark Pulse,Dark,SPECIAL,SPECIAL,3,,SPIRIT,CHANNEL,Single Target,On a Chance Dice roll of 9 or higher Flinch the Target.
+Dark Void,Dark,SUPPORT,,0,,SPIRIT,CHANNEL,Multiple Targets,The Target is Asleep. The User removes 5 Successes from the Accuracy Roll. 
+Darkest Lariat,Dark,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,"Ignore the Target’s Defense, and Special Defense increases."
+Dazzling Gleam,Fairy,SPECIAL,SPECIAL,3,,BEAUTY,ALLURE,Multiple Targets,-
+Decorate,Fairy,SUPPORT,,0,,BEAUTY,NATURE,Single Target,Increase the Target's Strength and Special by 2.
+Defend Order,Bug,SUPPORT,,0,,TOUGH,NATURE,User,Increase the User's Defense and Special Defense by 1.
+Defense Curl,Normal,SUPPORT,,0,,ENDURANCE,BRAWL,User,Increase the User’s Defense by 1.
+Defog,Flying,SUPPORT,,0,,SPIRIT,NATURE,Single Target,"Remove Light Screen, Reflect, Safeguard, Mist and Aurora Veil from the Target’s side of the Battlefield. Remove all Entry Hazards (Toxic Spikes, Stealth Rock, etc.), and Terrains (Misty Terrain, Electric Terrain, etc.) from both sides of the Battlefield. Pokemon affected by Defog must make an additional success on all Evade rolls to Evade a move. Defog can not be Evaded and ignores the User's Accuracy decreases."
+Destiny Bond,Ghost,SUPPORT,,0,,WILL,CHANNEL,User,"If the User faints this Turn from a Physical or Special move, the Pokémon that dealt the damage will faint at the same time. Destiny Bond fails if the User performed Destiny Bond last Turn."
+Detect,Fighting,SUPPORT,,0,,SPIRIT,ALERT,User,"Priority +4. Shield Move. Decrease any damage the User would receive from all Actions by a Physical or Special move to zero, and negate the move's effects. Negate the effects of Support moves that Target the User. Decrease to zero the set damage from a move the User would take. Detect stops all OHKO moves."
+Diamond Storm,Rock,PHYSICAL,STRENGTH,4,,DEXTERITY,CHANNEL,Multiple Targets,Ranged. On a Chance Dice roll of 6 or higher Increase the User's Defense by 2. The User removes 1 Success from the Accuracy Roll.
+Dig,Ground,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Charge Move. The User can not be targeted while charging Dig.
+Dire Claw,Poison,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,High Critical. On a Chance Dice roll of 9 or higher Paralyze the Target. On a Chance Dice roll of 9 or higher Poison the Target. On a Chance Dice roll of 9 or higher Sleep the Target. Dire Claw's Chance Dice are always rolled in the same order.
+Disable,Normal,SUPPORT,,0,,SPIRIT,CHANNEL,Single Target,"The Target's last successful move is Disabled, and can not be performed. Lasts for 5 Turns."
+Disarming Voice,Fairy,SPECIAL,SPECIAL,2,,CUTE,PERFORM,Multiple Targets,Sound Based. Disarming Voice can not be Evaded and ignores the User's Accuracy decreases. 
+Discharge,Electric,SPECIAL,SPECIAL,3,,SPECIAL,CHANNEL,Area,On a Chance Dice roll of 8 or higher Paralyze the Target.
+Dive,Water,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,Charge Move. The User can not be targeted while charging Dive. 
+Dizzy Punch,Normal,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Fist Based. On a Chance Dice roll of 9 or higher Confuse the Target.
+Doodle,Normal,SUPPORT,,,,CLEVER,PERFORM,User and Allies,The User and an Ally change their Abilities to the Ability of the Target.
+Doom Desire,Steel,SPECIAL,SPECIAL,6,,SPIRIT,ALLURE,Single Target,"Doom Desire ignores the effects of Shield Moves and cover. If the Target faints or switches out from the Battlefield, the damage will be dealt to the next Target or to one of its Allies. Doom Desire does not deal damage until the end of the next Turn. "
+Double Hit,Normal,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,Double Action. The User removes 1 Success from the Accuracy Roll.
+Double Iron Bash,Steel,PHYSICAL,SPECIAL,2,,STRENGTH,BRAWL,Single Target,Fist Based. Double Hit. On a Chance Dice roll of 8 or higher Flinch the Target. 
+Double Kick,Fighting,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,Double Action.
+Double Shock,Electric,PHYSICAL,STRENGTH,5,,WILL,BRAWL,Single Target,"The User is no longer considered an Electric-Type for as long as they are on the Battlefield. (If the User's only Type was Electric-Type, the User is considered Typeless). If a non Electric-Type Pokemon attempts to perform Double Shock, Double Shock will fail. "
+Double Slap,Normal,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,Successive Actions. The User removes 1 Success from the Accuracy Roll.
+Double Team,Normal,SUPPORT,,0,,DEXTERITY,EVASION,User,Increase the User's Evasion by 1.
+Double-Edge,Normal,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Single Target,Recoil Move. The User receives 2 Neutral damage.
+Draco Meteor,Dragon,SPECIAL,SPECIAL,6,,SPECIAL,CHANNEL,Single Target,Decrease The User’s Special by 2. The User removes 1 Success from the Accuracy Roll.
+Dragon Ascent,Flying,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Single Target,Decrease the User’s Defense and Special Defense by 1.
+Dragon Breath,Dragon,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,On a Chance Dice roll of 8 or higher Paralyze the Target.
+Dragon Claw,Dragon,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,-
+Dragon Dance,Dragon,SUPPORT,,0,,TOUGH,PERFORM,User,Increase the User’s Strength and Dexterity by 1.
+Dragon Darts,Dragon,PHYSICAL,STRENGTH,2,,DEXTERITY,CHANNEL,Single Target,Ranged. Double Action.
+Dragon Energy,Dragon,SPECIAL,SPECIAL,6,,SPECIAL,CHANNEL,Single Target,Decrease 1 dice from the Damage Pool for every missing HP the User has. Up to 5 dice may be removed this way.
+Dragon Hammer,Dragon,PHYSICAL,STRENGTH,3,,STRENGTH,BRAWL,Single Target,-
+Dragon Pulse,Dragon,SPECIAL,SPECIAL,3,,SPIRIT,CHANNEL,Single Target,-
+Dragon Rage,Dragon,SPECIAL,,0,,SPECIAL,CHANNEL,Single Target,"Dragon Rage deals 4 Dragon-Type damage. Ignoring the Target's Defences. Dragon Rage can not be a Critical Hit. Dragon Rage is unaffected by STAB, Super Effective, and Resistance, Immunities still apply. "
+Dragon Rush,Dragon,PHYSICAL,STRENGTH,4,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 9 or higher Flinch the Target. The User removes 2 Successes from the Accuracy Roll.
+Dragon Tail,Dragon,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target, Priority -6. Target Switcher Move. The User removes 1 Success from the Accuracy Roll.
+Drain Punch,Fighting,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,"Fist Based. The User restores HP equal to half the damage dealt, rounded down. Drain Punch always restores 1 HP. "
+Draining Kiss,Fairy,SPECIAL,SPECIAL,2,,CUTE,ALLURE,Single Target,"The User restores HP equal to half the damage dealt, rounded down. Draining Kiss always restores 1 HP."
+Dream Eater,Psychic,SPECIAL,SPECIAL,4,,SPECIAL,CHANNEL,Single Target,"The User restores HP equal to half the damage dealt, rounded down. Dream Eater always restores 1 HP. The Target must be Asleep, or Dream Eater will fail."
+Drill Peck,Flying,PHYSICAL,STRENGTH,3,,STRENGTH,BRAWL,Single Target,-
+Drill Run,Ground,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,High Critical. The User removes 1 Success from the Accuracy Roll.
+Drum Breating,Grass,PHYSICAL,STRENGTH,3,,COOL,PERFORM,Single Target,Decrease the Target’s Dexterity by 1.
+Dual Chop,Dragon,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,Double Action. The User removes 1 Success from the Accuracy Roll.
+Dual Wingbeat,Flying,PHYSICAL,STRENGTH,2,,TOUGH,BRAWL,Single Target,Double Action. The User removes 1 Success from the Accuracy Roll.
+Dynamax Cannon,Dragon,SPECIAL,SPECIAL,4,,SPECIAL,CHANNEL,Single Target,"If the Target is under the effects of Dynamax, add 4 Extra Dice to the Damage Pool."
+Dynamic Punch,Fighting,PHYSICAL,STRENGTH,4,,STRENGTH,BRAWL,Single Target,Fist Based. The Target is Confused. The User removes 5 Successes from the Accuracy Roll. 
+Earth Power,Ground,SPECIAL,SPECIAL,3,,WILL,CHANNEL,Single Target,On a Chance Dice roll of 10 decrease the Target’s Special Defense by 1.
+Earthquake,Ground,PHYSICAL,STRENGTH,4,,STRENGTH,CHANNEL,Area,Ranged. Earthquake can still target Pokemon that are charging the move Dig. Double the Base Power of Earthquake if the Target is charging Dig.
+Echoed Voice,Normal,SPECIAL,SPECIAL,2,,TOUGH,PERFORM,Single Target,"Sound Based. Echoed Voice can be performed multiple times in the same Round. Add 1 extra dice to the Damage Pool for every consecutive time the User performs Echoed Voice. Up to 8 extra dice may be added this way. Reset the effect if the User performs another move, Evades, Clashes with another move, or Echoed Voice fails to hit. The User may Clash with Echoed Voice, but the Damage Pool does not increase. "
+Eerie Impulse,Electric,SUPPORT,,0,,SPIRIT,NATURE,Single Target,Decrease the Target’s Special by 2.
+Eerie Spell,Psychic,SPECIAL,SPECIAL,3,,SPECIAL,INTIMIDATE,Single Target,Sound Based. Decrease the Target's Will by 1. The Target's Will can not be decreased to lower then 1 with Eerie Spell. 
+Egg Bomb,Normal,PHYSICAL,STRENGTH,4,,DEXTERITY,CHANNEL,Single Target,Ranged. The User removes 2 Successes from the Accuracy Roll.
+Electric Terrain,Electric,SUPPORT,,0,,SPIRIT,NATURE,Battlefield,"Add 1 extra dice to the Damage Pool of all Physical and Special Electric-Type moves. All Pokemon affected by this Terrain are cured from Sleep. Flying-Type Pokemon, Pokemon with the Ability Levitate, Pokemon holding an Air Ballon, and Pokemon under the effects of Magnet Rise or Telekinesis are unaffected by this Terrain. Lasts for 5 Turns."
+Electrify,Electric,SUPPORT,,0,,SPIRIT,NATURE,Single Target,The Damage from the next attack made by the Target will be Electric Type. Struggle is unaffected. Never Fail
+Electro Ball,Electric,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,Add 1 extra dice to the Damage Pool for every Dexterity point the User that surpasses the Target’s Dexterity. Up to 4 Dice might be added this way.
+Electro Drift,Electric,SPECIAL,SPECIAL,4,,DEXTERITY,ATHLETICS,Single Target,Electro Drift does an additional 2 damage if Electro Drift is Super Effective on the Target. 
+Electroweb,Electric,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Multiple Targets,Decrease the Target's Dexterity by 1. The User removes 1 Success from the Accuracy Roll.
+Embargo,Dark,SUPPORT,,0,,TOUGH,INTIMIDATE,Single Target,The Target can not use its Held Item. The Target's Trainer can not use any Items on the Target. Lasts for 5 Turns.
+Ember,Fire,SPECIAL,SPECIAL,2,,SPECIAL,CHANNEL,Single Target,Roll 1 Chance Dice Burn the Target.
+Encore,Normal,SUPPORT,,0,,COOL,ALLURE,Single Target,"Priority +3. The Target will repeat the exact same Action sequence it had last Turn. (I.e. The Target used Tackle, Evade, Clash, Leer, then nothing. The Target repeats the same Actions in the same order. If all Actions were not used in the last Turn those Actions can be used to do anything). Last 5 Turns. Encore can not be Evaded and ignores the User's Accuracy decreases."
+Endeavor,Normal,SUPPORT,,0,,WILL,CHANNEL,Single Target,"The User deals damage equal to the difference between the User's full HP and its current HP. The User can not decrease the Target's HP to lower than its own remaining HP. Ignore Target's Defenses. Endeavor can not be a Critical Hit, and is unaffected by STAB. Endeavor is not affected by Weakness, or Resistance, Immunities still apply. Endeavor can not be Clashed."
+Endure,Normal,SUPPORT,,0,,WILL,CHANNEL,User,"Priority +5. Shield Move. For the rest of the Turn Physical and Special moves can not decrease the User's HP to less then 1. Status Conditions, Weather, Recoil, and self inflicted damage can still deal damage."
+Energy Ball,Grass,SPECIAL,SPECIAL,3,,DEXTERITY,CHANNEL,Single Target,On a Chance Dice roll of 10 Decrease Target’s Special Defense by 1.
+Entrainment,Normal,SUPPORT,,0,,COOL,PERFORM,Single Target,The Target’s Ability is replaced by the User’s Ability.
+Eruption,Fire,SPECIAL,SPECIAL,6,,SPECIAL,CHANNEL,Multiple Targets,Decrease 1 dice from the Damage Pool for every missing HP the User has. Up to 5 dice may be removed this way.
+Esper Wing,Psychic,SPECIAL,SPECIAL,3,,DEXTERITY,CHANNEL,Single Target,High Critical.
+Eternabeam,Dragon,SPECIAL,SPECIAL,7,,SPECIAL,CHANNEL,Single Target,Recharge. The User removes 1 Success from the Accuracy Roll.
+Expanding Force,Psychic,SPECIAL,SPECIAL,3,,SPIRIT,CHANNEL,Single Target,Expanding Force becomes Multiple Targets and add 2 extra dice to the Damage Pool if the User is affected by Psychic Terrain.
+Explosion,Normal,PHYSICAL,STRENGTH,10,,STRENGTH,BRAWL,Area,Ranged. The User receives damage equal to its remaining HP. Ignore the User's Defences.
+Extrasensory,Psychic,SPECIAL,SPECIAL,3,,SPIRIT,CHANNEL,Single Target,On a Chance Dice roll of 10 Flinch the Target.
+Extreme Speed,Normal,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Priority +2. 
+Facade,Normal,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Add 3 extra dice to the Damage Pool if the Target is affected by a Status Condition.
+Fairy Lock,Fairy,SUPPORT,,0,,SPIRIT,NATURE,Battlefield,Block. Lasts for 1 Turn.
+Fairy Wind,Fairy,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,-
+Fake Out,Normal,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,"Priority +3. The Target is Flinched. Fake Out only work on the first Turn the User is out on the Battlefield. From the second Turn on, Fake Out fails automatically. If the User is removed from the Battlefield reset this effect."
+Fake Tears,Dark,SUPPORT,,0,,CUTE,PERFORM,Single Target,Decrease the Target’s Special Defense by 2.
+False Surrender,Dark,PHYSICAL,STRENGTH,3,,CUTE,ALLURE,Single Target,False Surrender can not be Evaded and ignores the User's Accuracy decreases.
+False Swipe,Normal,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,False Swipe can not decrease the Target's HP past 1.
+Feather Dance,Flying,SUPPORT,,0,,BEAUTY,PERFORM,Single Target,Decrease the Target’s Strength by 2.
+Feint,Normal,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,Priority +2. Feint ignores any Shielding Move effects on the Target.
+Feint Attack,Dark,PHYSICAL,STRENGTH,2,,CLEVER,STEALTH,Single Target,Feint Attack can not be Evaded and ignores the User's Accuracy decreases.
+Fell Stinger,Bug,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,If the Target faints due to damage from this attack increase the User's Strength by 2
+Fiery Dance,Fire,SPECIAL,SPECIAL,3,,BEAUTY,PERFORM,Single Target,On a Chance Dice roll of 6 or higher Increase the User’s Special by 1.
+Fiery Wrath,Dark,SPECIAL,SPECIAL,3,,SPIRIT,CHANNEL,Multiple Targets,Ranged. On a Chance Dice roll of 9 or higher Flinch the Target.
+Fillet Away,Normal,SUPPORT,,,,TOUGH,BRAWL,User,"The User takes damage equal to half of the User's Max HP, rounded down. Increase User’s Strength, Special and Dexterity by 2."
+Final Gambit,Fighting,SPECIAL,,0,,WILL,ATHLETICS,Single Target,"The User faints. The Target receives damage equal to the User’s remaining HP. Ignore the Target's Defenses. Final Gambit can not be a Critical Hit, and is unaffected by STAB. Final Gambit is not affected by Weakness, or Resistance, Immunities still apply. Final Gamnit can not be Clashed."
+Fire Blast,Fire,SPECIAL,SPECIAL,5,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 10 Burn the Target. The User removes 1 Success from the Accuracy Roll.
+Fire Fang,Fire,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,Roll 1 Chance to Flinch the Target. On a Chance Dice roll of 9 or higher Burn the Target. The User removes 1 Success from the Accuracy Roll.
+Fire Lash,Fire,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Decrease the Target’s Defense by 1.
+Fire Pledge,Fire,SPECIAL,SPECIAL,3,,WILL,NATURE,Single Target,At the end of each Turn all Pokemon on the field take 1 Fire Damage. Lasts for 5 Turns.
+Fire Punch,Fire,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Fist Based. On a Chance Dice roll of 10 Burn the Target.
+Fire Spin,Fire,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,"Block. Deal 1 Neutral damage at the end of the Turn. This effect does not stack with other similar moves. Lasts for 5 Turns, unless the User is switched. The User removes 1 Success from the Accuracy Roll."
+First Impression,Bug,PHYSICAL,STRENGTH,3,,STRENGTH,INTIMIDATE,Single Target,"Priority +2. First Impression only work on the first Turn the User is out on the Battlefield. From the second Turn on, First Impression fails automatically. If the User is removed from the Battlefield reset this effect."
+Fishious Rend,Water,PHYSICAL,STRENGTH,3,,TOUGH,BRAWL,Single Target,Add 3 extra dice to the Damage Pool if the Target has not had a Turn this Turn.
+Fissure,Ground,PHYSICAL,,0,,STRENGTH,BRAWL,Single Target,"The Target receives damage equal to the Target’s remaining HP, plus 2 damage. Ignoring the Target's Defences. Fissure can not be a Critical Hit. Fissure is unaffected by STAB, Super Effective, and Resistance, Immunities still apply. Fissure can not be a Critical Hit. Fissure is unaffected by STAB, Super Effective, and Resistance, Immunities still apply. Fissure can not be Clashed. The User removes 6 Successes from the Accuracy Roll."
+Flail,Normal,PHYSICAL,STRENGTH,1,,ENDURANCE,BRAWL,Single Target,Add 1 extra dice to the Damage Pool for every 2 HP missing from the User's Max HP. Up to 5 extra dice may be added this way.
+Flame Burst,Fire,SPECIAL,SPECIAL,3,,DEXTERITY,CHANNEL,Single Target,Deal 1 Neutral Damage against two Allies of the Target.
+Flame Charge,Fire,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,Increase the User’s Dexterity by 1.
+Flame Wheel,Fire,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 10 Burn the Target.
+Flamethrower,Fire,SPECIAL,SPECIAL,3,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 10 Burn the Target.
+Flare Blitz,Fire,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Single Target,Recoil Move. On a Chance Dice roll of 10 Burn the Target. The User receives 3 Neutral damage.
+Flash,Normal,SUPPORT,,0,,BEAUTY,CHANNEL,Single Target,Decrease the Target's Accuracy by 1.
+Flash Cannon,Steel,SPECIAL,SPECIAL,3,,BEAUTY,CHANNEL,Single Target,On a Chance Dice roll of 10 Decrease the Target’s Special Defense by 1.
+Flatter,Dark,SUPPORT,,0,,COOL,ALLURE,Single Target,Increase the Target’s Special by 1. The Target is Confused.
+Fleur Cannon,Fairy,SPECIAL,SPECIAL,6,,SPECIAL,CHANNEL,Single Target,Decrease the User’s Special by 2. The User removes 1 Success from the Accuracy Roll.
+Fling,Dark,PHYSICAL,STRENGTH,0,,DEXTERITY,ATHLETICS,Single Target,Ranged. The User throws their Held Item at the Target. Refer to the Rulebook for each Held Items effect. Fling fails if the User does not have a Held Item.
+Flip Turn,Water,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,,User Switcher Move. 
+Floral Healing,Fairy,SUPPORT,,0,,SPIRIT,NATURE,Single Target,"The Target restores 3 HP If performed under the effects of Grassy Terrain, the User restores 4 HP instead."
+Flower Shield,Fairy,SUPPORT,,0,,SPIRIT,NATURE,Battlefield,Increase the Defense of All Grass Type Pokémon on the field.
+Flower Trick,Grass,PHYSICAL,STRENGTH,3,,CUTE,BRAWL,Single Target,Flower Trick is always considered a Critical Hit. Flower Trick can not be Evaded and ignores the User's Accuracy decreases.
+Fly,Flying,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Charge Move. The User can not be targeted while charging Fly. The User removes 1 Success from the Accuracy Roll.
+Flying Press,Fighting,PHYSICAL,STRENGTH,4,,DEXTERITY,BRAWL,Single Target,"For Super Effective, Resistance, and Immunities Flying Press is a Fighting-Type move and a Flying-Type move."
+Focus Blast,Fighting,SPECIAL,SPECIAL,5,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 10 Decrease Target's Special Defense. The User removes 3 Successes from the Accuracy Roll.
+Focus Energy,Normal,SUPPORT,,0,,SPIRIT,CHANNEL,User,The User’s Physical and Special moves gain the effect High Critical. This effect last for as long as the Target stays on the Battlefield
+Focus Punch,Fighting,PHYSICAL,STRENGTH,6,,STRENGTH,BRAWL,Single Target,"Charge Move. Fist Based. The User becomes Flinched if the User is deal damage by a Physical or Special move before the Charge has finished, Focus Punch then fails.  "
+Follow Me,Normal,SUPPORT,,0,,COOL,PERFORM,User,"Priority +2. Until the end of the Turn, all Foe Pokemon's moves must Target the User."
+Force Palm,Fighting,PHYSICAL,STRENGTH,2,,STRENGTH,BRAWL,Single Target,On a Chance Dice roll of 8 or higher Paralyze the Target.
+Foresight,Normal,SUPPORT,,0,,SPIRIT,ALERT,Single Target,"The User's move can not be Evaded by the Target. If the Target is a Ghost-Type Pokemon, the Target will lose its Immunities to Fighting-Type and Normal-Type moves. Forsight can not be Evaded and ignores the User's Accuracy decreases."
+Forest's Curse,Grass,SUPPORT,,0,,WILL,NATURE,Single Target,"Add the Grass-Type to the Target's Type, if the Pokémon already has a third type, replace it with Grass-Type."
+Foul Play,Dark,PHYSICAL,,3,,CLEVER,BRAWL,Single Target,Foul Play uses the Target's Base Strength instead of the User's. The User's Strength increases and decreases still apply.
+Freeze Dry,Ice,SPECIAL,SPECIAL,3,,SPIRIT,NATURE,Single Target,On a Chance Dice roll of 10 Frostbite the Target. Water-Type Pokémon are dealt 2 extra damage.
+Freeze Shock,Ice,PHYSICAL,STRENGTH,6,,SPECIAL,CHANNEL,Single Target,Ranged. Charge Move. On a Chance Dice roll of 8 or higher Paralyze the Target. The User removes 1 Success from the Accuracy Roll.
+Freezing Glare,Ice,SPECIAL,SPECIAL,3,,TOUGH,INTIMIDATE,Single Target,One a Chance Dice roll of 10 Frostbite the Target.
+Frenzy Plant,Grass,SPECIAL,SPECIAL,6,,SPECIAL,CHANNEL,Single Target,Recharge. The User removes 1 Success from the Accuracy Roll.
+Frost Breath,Ice,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,Frost Breath is always a Critical Hit. The User removes 1 Success from the Accuracy Roll.
+Frustration,Normal,PHYSICAL,STRENGTH,0,MISSING HAPPINESS,TOUGH,BRAWL,Single Target,Add 1 extra dice to the Damage Pool for every missing point of Happiness on the User. Up to 5 extra dice may be added this way.
+Fury Attack,Normal,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,Successive Actions. The User removes 1 Success from the Accuracy Roll.
+Fury Cutter,Bug,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,"Fury Cutter can be performed multiple times in the same Round. Add 2 extra dice to the Damage Pool for every consecutive time the User performed Fury Cutter. Up to 4 extra dice may be added this way. Reset the effect if the User uses another move, Evades, Clashes with another move, or Fury Cutter fails to hit. The User may Clash with Fury Cutter, but the Damage Pool do not increase. The User removes 1 Success from the Accuracy Roll."
+Fury Swipes,Normal,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,Successive Actions. The User removes 2 Successes from the Accuracy Roll.
+Fusion Bolt,Electric,PHYSICAL,STRENGTH,4,,STRENGTH,CHANNEL,Single Target,"If the move Fusion Flare has already been used by anyone this Turn, add 4 extra dice to the Damage Pool."
+Fusion Flare,Fire,SPECIAL,SPECIAL,4,,SPECIAL,CHANNEL,Single Target,"If the move Fusion Bolt has already been used by anyone this Turn, add 4 Extra Dice to the Damage Pool."
+Future Sight,Psychic,SPECIAL,SPECIAL,5,,SPIRIT,CHANNEL,Single Target,"Future Sight ignores the effects of Shield Moves and cover. If the Target faints or switches out from the Battlefield, the damage will be dealt to the next Target or to one of its Allies. Future Sight does not deal damage until the end of the next Turn. "
+Gastro Acid,Poison,SUPPORT,,0,,SPECIAL,CHANNEL,Single Target,The Target has no Ability until the Target leaves the Battlefield.
+Gear Grind,Steel,PHYSICAL,STRENGTH,2,,STRENGTH,BRAWL,Single Target,Double Action. The User removes 1 Success from the Accuracy Roll.
+Gear Up,Steel,SUPPORT,,0,,ENDURANCE,CHANNEL,User and Allies,Increase the User's and Allies' that are Steel-Type or Electric-Type Strength and Special by 1.
+Geomancy,Fairy,SUPPORT,,0,,SPIRIT,NATURE,User,"Charge Move. Increase the User's Dexterity, Special and Special Defense by 2."
+Giga Drain,Grass,SPECIAL,SPECIAL,3,,SPECIAL,CHANNEL,Single Target,"The User restores HP equal to half the damage dealt, rounded down. Giga Drain always restores 1 HP."
+Giga Impact,Normal,PHYSICAL,STRENGTH,6,,STRENGTH,BRAWL,Single Target,Recharge. The User removes 1 Success from the Accuracy Roll.
+Gigaton Hammer,Steel,PHYSICAL,STRENGTH,6,,STRENGTH,BRAWL,Single Target,The User can not perform Gigaton Hammer next Round.
+Glacial Lance,Ice,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Multiple Targets,-
+Glaciate,Ice,SPECIAL,SPECIAL,2,,SPECIAL,CHANNEL,Multiple Targets,Decrease the Target's Dexterity by 1. The User removes 1 Success from the Accuracy Roll.
+Glaive Rush,Dragon,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Single Target,Add 2 extra dice to the Damage Pool of all Physical and Special moves that target the User. The User can not Evade. This effect last till the end of Turn.
+Glare,Normal,SUPPORT,,0,,TOUGH,INTIMIDATE,Single Target,The Target is Paralyzed.
+Grass Knot,Grass,SPECIAL,SPECIAL,1,,DEXTERITY,CHANNEL,Single Target,Add 1 extra dice to the Damage Pool for every 50 kgs. of weight on the Target. Up to 4 extra dice may be added this way.
+Grass Pledge,Grass,SPECIAL,SPECIAL,3,,WILL,NATURE,Single Target,"Decrease the Target's Dexterity by 2, Foe Pokémon that enter the Battlefield are also affected. Lasts for 5 Turns."
+Grass Whistle,Grass,SUPPORT,,0,,BEAUTY,PERFORM,Single Target,Sound Based. The Target is Asleep. The User removes 4 Successes from the Accuracy Roll.
+Grassy Glide,Grass,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,If the User is affected by Grassy Terrain Grassy Glide gains the effect Priority +1. 
+Grassy Terrain,Grass,SUPPORT,,0,,SPECIAL,NATURE,Battlefield,"Add 1 extra dice to the Damage Pool of all Physical and Special Grass-Type moves.  All Pokemon affected by this Terrain restore 1 HP at the end of Turn. Flying-Type Pokemon, Pokemon with the Ability Levitate, Pokemon holding an Air Balloon, and Pokemon under the effects of Magnet Rise or Telekinesis are unaffected by this Terrain. Lasts for 5 Turns."
+Grav Apple,Grass,PHYSICAL,STRENGTH,3,,STRENGTH,ATHLETICS,Battlefield,Ranged. Decrease the Target's Defense by 1. If the move Gravity is in effect add 3 extra dice to the Damage Pool.
+Gravity,Psychic,SUPPORT,,0,,SPECIAL,CHANNEL,Battlefield,"Increase User's, Allies, and Foes Accuracy by 1 while Gravity is in effect. Flying-Type Pokemon, Pokemon with the Ability Levitate, Pokemon holding an Air Balloon, and Pokemon under the effects of Magnet Rise or Telekinesis, lose their Immunity to Ground-Type moves and are affected by Entry Hazards, and Terrains. Lasts for 5 Turns."
+Growl,Normal,SUPPORT,,0,,TOUGH,PERFORM,Multiple Targets,Sound Based. Decrease the Target's Strength by 1. 
+Growth,Normal,SUPPORT,,0,,SPECIAL,NATURE,User,"Increase the User's Strength and Special by 1. If Sunny Weather is in effect, increase the User's Strength and Special by 2 instead."
+Grudge,Ghost,SUPPORT,,0,,WILL,CHANNEL,Single Target,"The User faints. The Target has its Will decreased to 0. Reset any effects the Target got from spending Will, including Pain Penalties."
+Guard Split,Psychic,SUPPORT,,0,,SPECIAL,CHANNEL,Single Target,"The User's Base Defense and Base Special Defense, and the Target's Base Defense and Base Special Defense are combined then spilt equally between the User and the Target, Turned up. Guard Split can not be Evaded and ignores the User's Accuracy decreases."
+Guard Swap,Psychic,SUPPORT,,0,,SPECIAL,CHANNEL,Single Target,Switch your Defense and Special Defense Increases and Decreases with your Target. Never Fail
+Guillotine,Normal,PHYSICAL,,0,,DEXTERITY,BRAWL,Single Target,"The Target receives damage equal to the Target’s remaining HP, plus 2 damage. Ignoring the Target's Defences. Guillotine can not be a Critical Hit. Guillotine is unaffected by STAB, Super Effective, and Resistance, Immunities still apply. Guillotine can not be a Critical Hit. Guillotine is unaffected by STAB, Super Effective, and Resistance, Immunities still apply. Guillotine can not be Clashed. The User removes 7 Successes from the Accuracy Roll."
+Gunk Shot,Poison,PHYSICAL,STRENGTH,5,,STRENGTH,CHANNEL,Single Target,Ranged. On a Chance Dice roll of 8 or higher Poison the Target. The User removes 2 Successes from the Accuracy Roll.
+Gust,Flying,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,"Gust can still target Pokemon that are charging the moves Fly, Bounce, and Sky Drop. Double the Base Power of Gust if the Target is charging Fly, Bounce, or Sky Drop. "
+Gyro Ball,Steel,PHYSICAL,STRENGTH,1,,CLEVER,BRAWL,Single Target,Add 1 extra dice to the Damage Pool for every Dexterity point the Target has that surpasses the User's. Up to 5 dice may be added this way. 
+Hail,Ice,SUPPORT,,0,,SPIRIT,NATURE,Battlefield,Begin the effects of Hail. Lasts for 5 Turns.
+Hammer Arm,Fighting,PHYSICAL,STRENGTH,4,,DEXTERITY,BRAWL,Single Target,Decrease the User’s Dexterity by 1. The User removes 1 Success from the Accuracy Roll.
+Harden,Normal,SUPPORT,,0,,ENDURANCE,NATURE,User,Increase the User’s Defense by 1.
+Haze,Ice,SUPPORT,,0,,SPECIAL,NATURE,Battlefield,Remove all increased and decreased Stats on all Pokemon on the Battlefield.
+Head Charge,Normal,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Single Target,Recoil Move. The User receives 2 Neutral damage.
+Head Smash,Rock,PHYSICAL,STRENGTH,6,,STRENGTH,BRAWL,Single Target,Recoil Move. The User receives 3 Neutral Damage. The User removes 2 Successes from the Accuracy Roll.
+Headbutt,Normal,PHYSICAL,STRENGTH,3,,ENDURANCE,BRAWL,Single Target,On a Chance Dice roll of 8 or higher Flinch. 
+Headlong Rush,Ground,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Single Target,Fist Based. Decrease the User’s Defense and Special Defense by 1.
+Heal Bell,Normal,SUPPORT,,0,,SPECIAL,PERFORM,User and Allies,Sound Based. The User and Allies are cured from all Status Conditions. The Allies do not need to be on the Battlefield to recieve this effect. 
+Heal Block,Psychic,SUPPORT,,0,,SPECIAL,CHANNEL,Multiple Targets,The Target can not restore any HP. Lasts for 5 Turns.
+Heal Order,Bug,SUPPORT,,0,,TOUGH,NATURE,User,The User restores 3 HP.
+Heal Pulse,Psychic,SUPPORT,,0,,WILL,CHANNEL,Single Target,The Target restores 3 HP.
+Healing Wish,Psychic,SUPPORT,,0,,WILL,CHANNEL,Single Target,"The User faints. An Ally's is switched in with the same amount of Actions performed as the User. The Ally's HP is fully restored, and is cured of all Status Conditions. "
+Heart Stamp,Psychic,PHYSICAL,STRENGTH,2,,CUTE,ALLURE,Single Target,On a Chance Dice roll of 8 or higher Flinch the Target.
+Heart Swap,Psychic,SUPPORT,,0,,CUTE,ALLURE,Single Target,The User swaps its Stat increases and decreases with the Target. Heart Swap can not be Evaded and ignores the User's Accuracy decreases.
+Heat Crash,Fire,PHYSICAL,STRENGTH,2,,STRENGTH,BRAWL,Single Target,Add 1 extra dice to the Damage Pool for every 50kgs the User's weights is above the Target's weight. Up to 4 dice may be added this way.
+Heat Wave,Fire,SPECIAL,SPECIAL,3,,DEXTERITY,CHANNEL,Multiple Targets,On a Chance Dice roll of 10 Burn the Target. The User removes 1 Success from the Accuracy Roll.
+Heavy Slam,Steel,PHYSICAL,STRENGTH,1,,ENDURANCE,BRAWL,Single Target,Add 1 extra dice for every 50 kgs. of weight above the Target's weight. Up to 4 extra dice may be added this way.
+Helping Hand,Normal,SUPPORT,,0,,DEXTERITY,PERFORM,Single Target,"Priority +5. Add 2 extra dice to the Target's next Skill check, or the Target's next Accuracy Roll and Damage Pool."
+Hex,Ghost,SPECIAL,SPECIAL,2,,SPIRIT,CHANNEL,Single Target,Add 2 extra dice to the Damage Pool if the Target is affected by a Status Condition.
+Hidden Power,Normal,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,"The User chooses a Type that's Super Effective against the Target. If the Target has a double Weakness, the User must choose that Type. "
+High Horsepower,Ground,PHYSICAL,STRENGTH,3,,TOUGH,ATHLETICS,Single Target,The User removes 1 Success from the Accuracy Roll.
+High Jump Kick,Fighting,PHYSICAL,STRENGTH,5,,DEXTERITY,BRAWL,Single Target,"If the Accuracy Roll fails, the User receives damage equal to half of the User's Max HP, rounded down. The User removes 1 Success from the Accuracy Roll."
+Hone Claws,Dark,SUPPORT,,0,,SPIRIT,NATURE,User,Increase the User’s Strength and Accuracy by 1.
+Horn Attack,Normal,PHYSICAL,,0,,DEXTERITY,BRAWL,Single Target,-
+Horn Drill,Normal,PHYSICAL,,0,,STRENGTH,BRAWL,Single Target,"The Target receives damage equal to the Target’s Remaining HP, plus 2 damage. Ignoring the Target's Defences. Horn Drill can not be a Critical Hit. Horn Drill is unaffected by STAB, Super Effective, and Resistance, Immunities still apply. Horn Drill can not be a Critical Hit. Horn Drill is unaffected by STAB, Super Effective, and Resistance, Immunities still apply. Horn Drill can not be Clashed. The User removes 7 Successes from the Accuracy Roll."
+Horn Leech,Grass,PHYSICAL,STRENGTH,3,,ENDURANCE,NATURE,Single Target,"The User restores HP equal to half the damage dealt, rounded down. Horn Leech always restores 1 HP."
+Howl,Normal,SUPPORT,,0,,COOL,INTIMIDATE,User,Increase the User’s Strength by 1.
+Hurricane,Flying,SPECIAL,SPECIAL,5,,SPECIAL,CHANNEL,Single Target,"On a Chance Dice roll of 8 or higher Confuse the Target. If Rain is in effect, Hurricane can not be Evaded, ignores the User's Accuracy decreases, and ignore Hurricane's removed successes. Hurricane can still target Pokemon that are charging the moves Fly, Bounce, and Sky Drop. The User removes 3 Successes from the Accuracy Roll."
+Hydro Cannon,Water,SPECIAL,SPECIAL,6,,SPECIAL,CHANNEL,Single Target,Recharge. The User removes 1 Success from the Accuracy Roll.
+Hydro Pump,Water,SPECIAL,SPECIAL,5,,SPECIAL,CHANNEL,User,The User removes 2 Successes from the Accuracy Roll.
+Hydro Stream,Water,SPECIAL,SPECIAL,3,,SPECIAL,CHANNEL,Single Target,Add 2 extra dice to the Damage Pool if Sunny Weather is in effect. Hydro Stream is unaffected by the effects of Sunny Weather.
+Hyper Beam,Normal,SPECIAL,SPECIAL,6,,SPECIAL,CHANNEL,Single Target,Recharge. The User removes 1 Success from the Accuracy Roll.
+Hyper Drill,Normal,PHYSICAL,STRENGTH,4,,STRENGTH,BRAWL,Single Target,"If the Target is under the effects of Protect, Detect, Spiky Shield, King's Shield, or Baneful Bunker, the Target still takes damage. "
+Hyper Fang,Normal,PHYSICAL,STRENGTH,3,,STRENGTH,BRAWL,Single Target,On a Chance Dice roll of 10 Flinch. The User removes 1 Success from the Accuracy Roll.
+Hyper Voice,Normal,SPECIAL,SPECIAL,3,,TOUGH,PERFORM,Multiple Targets,Sound Based.
+Hyperspace Fury,Dark,PHYSICAL,STRENGTH,4,,SPIRIT,NATURE,Single Target,Decrease the User's Defense by 1. Ignore the effects of any Shield Moves the Target might have used. Hyperspace Fury can not be Evaded and ignores the User's Accuracy decreases.
+Hyperspace Hole,Psychic,SPECIAL,SPECIAL,3,,SPIRIT,CHANNEL,Single Target,Ignore the effects of any Shield Moves the Target might have used. Hyperspace Hole can not be Evaded and ignores the User's Accuracy decreases.
+Hypnosis,Psychic,SUPPORT,,0,,SPIRIT,ALLURE,Single Target,The Target is Alseep. The User removes 4 Successes from the Accuracy Roll.
+Ice Ball,Ice,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,"Ice Ball can be perfromed multiple times in the same Round. Add 2 extra dice to the Damage Pool for every consecutive time the User performed Ice Ball. Up to 4 extra dice may be added this way. Reset the effect if the User performs another move, Evades, Clashes with another move, or Ice Ball fails to hit. The user may Clash with Ice Ball, but the Damage Pool does not increase. If Defense Curl was used this Turn add an extra 1 damage dice to the Damamge Pool. The User removes 1 Success from the Accuracy Roll. "
+Ice Beam,Ice,SPECIAL,SPECIAL,3,,DEXTERITY,CHANNEL,Single Target,On a Chance Dice roll of 10 Frostbite the Target.
+Ice Burn,Ice,SPECIAL,SPECIAL,6,,SPECIAL,CHANNEL,Single Target,Ranged. Charge Move. On a Chance Dice roll of 8 or higher Burn the Target. The User removes 1 Success from the Accuracy Roll.
+Ice Fang,Ice,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 10 Flinch the Target. On a Chance Dice roll of 10 Frostbite the Target. The User removes 1 Success from the Accuracy Roll.
+Ice Hammer,Ice,PHYSICAL,STRENGTH,4,,STRENGTH,BRAWL,Single Target,Decrease the User’s Dexterity by 1. The User removes 1 Success from the Accuracy Roll.
+Ice Punch,Ice,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Fist Based. On a Chance Dice roll of 10 Frostbite the Target. 
+Ice Shard,Ice,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,Priority +1. Ranged.
+Ice Spinner,Ice,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Remove the Terrain from the Battlefield.
+Icicle Crash,Ice,PHYSICAL,STRENGTH,3,,STRENGTH,BRAWL,Single Target,On a Chance Dice roll of 8 or higher Flinch the Target. The User removes 1 Success from the Accuracy Roll.
+Icicle Spear,Ice,PHYSICAL,STRENGTH,1,,DEXTERITY,CHANNEL,Single Target,Ranged. Successive Actions.
+Icy Wind,Ice,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Multiple Targets,Decrease the Target's Dexterity by 1. The User removes 1 Success from the Accuracy Roll.
+Imprison,Psychic,SUPPORT,,0,,CLEVER,CHANNEL,Battlefield,All Pokemon on the Foe's side of the Battlefield can not perform any moves that the User has learnt. This effect lasts for as long as the User stays on the Battlefield.
+Incinerate,Fire,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Multiple Targets,Destroy the Berry held by the Target.
+Infernal Parade,Ghost,SPECIAL,SPECIAL,2,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 8 or higher Burn the Target. Add 2 extra dice to the Damage Pool if the Target is affected by a Status Condition.
+Inferno,Fire,SPECIAL,SPECIAL,4,,SPECIAL,CHANNEL,Single Target,The Target is Burned. The User removes 5 Successes from the Accuracy Roll.
+Infestation,Bug,SPECIAL,SPECIAL,1,,TOUGH,NATURE,Single Target,"Block. At the end of the Turn Infestation does 1 Neutral damage. This effect does not stack with other similar moves. Lasts for 5 Turns, unless the User swaps out."
+Ingrain,Grass,SUPPORT,,0,,SPECIAL,NATURE,User,The User restores 1 HP at the end of each the Turn. The User is Blocked.
+Instruct,Psychic,SUPPORT,,0,,CLEVER,PERFORM,Single Target,"The Target repeats the last successful move that the Target performed, the repeated move uses Instruct's Accuracy Roll and does not use 1 of the Target's Actions. All effects of the repeated move apply, including decreased Accuracy. Instruct will fail if the Target did not perform a move."
+Ion Deluge,Electric,SUPPORT,,0,,SPIRIT,NATURE,Battlefield,Priority +1. Normal Type Moves will deal damage as if they were Electric Type Moves.
+Iron Defense,Steel,SUPPORT,,0,,ENDURANCE,CHANNEL,User,Increase the User’s Defense by 2.
+Iron Head,Steel,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 8 or higher Flinch the Target.
+Iron Tail,Steel,PHYSICAL,STRENGTH,4,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 8 or higher decrease the Target's Defense. The User removes 2 Successes from the Accuracy Roll.
+Jaw Lock,Dark,PHYSICAL,STRENGTH,3,,STRENGTH,BRAWL,Single Target,Both the User and the Target are Blocked.
+Jet Punch,Water,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,Priority +1. Fist Based. 
+Judgement,Normal,SPECIAL,SPECIAL,4,,SPIRIT,INTIMIDATE,Single Target,Judgement's Type always matches the User's primary Type.
+Jump Kick,Fighting,PHYSICAL,STRENGTH,4,,DEXTERITY,BRAWL,Single Target,"If the Accuracy Roll fails, the User receives damage equal to half of the User's Max HP, rounded down. "
+Jungle Healing,Grass,SUPPORT,,,,SPIRIT,NATURE,User and Allies,The User and Allies restore 2 HP. The User and Allies are cured from all Status Conditions.
+Karate Chop,Fighting,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,High Critical.
+Kinesis,Psychic,SUPPORT,,0,,SPECIAL,CHANNEL,Single Target,Decrease the Target's Accuracy. The User removes 2 Successes from the Accuracy Roll.
+King's Shield,Steel,SUPPORT,,0,,DEXTERITY,BRAWL,Single Target,"Priority +4. Shield Move. Decrease any damage the User would receive from all Actions by a Physical or Special move to zero. King's Shield stops all OHKO moves. If the Target used a Physical move, decrease the Target's Strength by 2. "
+Knock Off,Dark,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,"If the Target is holding a Held Item that can be removed, increase the Damage Pool of Knock Off by 2. The Target loses its held item."
+Kowtow Kleave,Dark,PHYSICAL,STRENGTH,3,,CLEVER,ATHLETICS,Single Target,Kowtow Kleave can not be Evaded and ignores the User's Accuracy decreases.
+Land's Wrath,Ground,PHYSICAL,STRENGTH,3,,STRENGTH,CHANNEL,Multiple Targets,Ranged.
+Laser Focus,Normal,SUPPORT,,0,,SPIRIT,ALERT,User,The User's next Physical or Special move is always a Critical Hit.
+Lash Out,Dark,PHYSICAL,STRENGTH,3,,TOUGH,BRAWL,Single Target,"If the User has had a Stat decreased this Turn, add 3 extra dice to the Damage Pool."
+Last Resort,Normal,PHYSICAL,STRENGTH,6,,SPIRIT,BRAWL,Single Target,Last Resort fails if the User has not performed all of the its moves while the the User has been on the Battlefield.
+Last Respects,Ghost,PHYSICAL,STRENGTH,2,,COOL,ETIQUETTE,Single Target,Add 2 extra dice of damage to the Damage Pool for each fainted Ally Pokemon. (Max 10 Damage Dice)
+Lava Plume,Fire,SPECIAL,SPECIAL,3,,DEXTERITY,CHANNEL,Area,On a Chance Dice roll of 8 or higher Burn the Target. 
+Leaf Blade,Grass,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,High Critical.
+Leaf Storm,Grass,SPECIAL,SPECIAL,6,,SPECIAL,CHANNEL,Single Target,Decrease the User’s Special by 2. The User removes 1 Success from the Accuracy Roll.
+Leaf Tornado,Grass,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,On a Chance Dice roll of 6 or higher Decrease the Target’s Accuracy by 1. The User removes 1 Success from the Accuracy Roll.
+Leafage,Grass,PHYSICAL,STRENGTH,2,,DEXTERITY,CHANNEL,Single Target,Ranged.
+Leech Life,Bug,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,"The User restores HP equal to half the damage dealt, rounded down. Leech Life always restores 1 HP."
+Leech Seed,Grass,SUPPORT,,0,,SPECIAL,NATURE,Single Target,"During each Turn if the Target attempts to perfrom a move, the Target takes 2 Neutral damage, and the User of Leech Seed restores 2 HP. Grass Type Pokemon are immune to Leech Seed. The User removes 1 Success from the Accuracy Roll."
+Leer,Normal,SUPPORT,,0,,TOUGH,INTIMIDATE,Multiple Targets,Decrease the Target's Defense by 1.
+Lick,Ghost,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 8 or higher Paralyze the Target.
+Life Dew,Water,SUPPORT,,0,,COOL,NATURE,User and Allies,The User and Allies restore 2 HP.
+Light of Ruin,Fairy,SPECIAL,SPECIAL,6,,SPECIAL,CHANNEL,Single Target,Recoil Move. The User receives 3 Neutral damage. The User removes 1 Success from the Accuracy Roll.
+Light Screen,Psychic,SUPPORT,,0,,SPECIAL,CHANNEL,Battlefield,"The User and Allies receive 2 less damage from Special moves, and Special based Clashes. This effect can not decrease the damage below 1. Lasts for 5 Turns. "
+Liquidation,Water,PHYSICAL,STRENGTH,3,,STRENGTH,BRAWL,Single Target,On a Chance Dice roll of 9 or higher Decrease the Target’s Defense by 1.
+Lock-On,Normal,SUPPORT,,0,,SPIRIT,ALERT,Single Target,The User's next move can not be Clashed or Evaded by the Target.
+Lovely Kiss,Normal,SUPPORT,,0,,BEAUTY,ALLURE,Single Target,The Target is Asleep. The User removes 2 Successes from the Accuracy Roll.
+Low Kick,Fighting,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,Add 1 extra dice to the Damage Pool for every 50 kgs. of weight on the Target. Up to 5 extra dice may be added this way.
+Low Sweep,Fighting,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,Decrease the Target's Dexterity by 1.
+Lucky Chant,Normal,SUPPORT,,0,,BEAUTY,PERFORM,Battlefield,The User and Allies are Immune to Critical Hits. Lasts for 5 Turns.
+Lumina Crash,Psychic,SPECIAL,SPECIAL,3,,BEAUTY,CHANNEL,Single Target,Decrease the Target's Special Defense by 2.
+Lunar Blessing,Psychic,SUPPORT,,,,SPIRIT,PERFORM,User and Allies,The User and Allies restore 2 HP. The User and Allies are cured from all Status Conditions.
+Lunar Dance,Psychic,SUPPORT,,,,SPIRIT,PERFORM,One Ally,"The User Faints. Revive one fainted Ally to half of the Ally’s HP rounded down, the revived Ally does not gain any Will back. Lunar Dance fails if there are no fainted Allies. The revived Ally is immediatly send out with the same amount of Actions used as the User."
+Lunge,Bug,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Decrease the Target’s Strength by 1.
+Luster Purge,Psychic,SPECIAL,SPECIAL,2,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 6 or higher decrease the Target's Special Defense.
+Mach Punch,Fighting,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,Priority +1. Fist Based. 
+Magic Coat,Psychic,SUPPORT,,0,,SPECIAL,CHANNEL,Single Target,"Priority +4. Redirect the effects of a Support move that would affect the User or the User's side of the Battlefield towards the Target’s. (I.e. The Target used Stealth Rock, the User performs Magic Coat, Stealth Rock will affect the Target’s side instead of the User's)."
+Magic Powder,Psychic,SUPPORT,,0,,SPECIAL,CHANNEL,Single Target,"The Target's Types are changed to Psychic-Type, for as long as the Target is on the Battlefield."
+Magic Room,Psychic,SUPPORT,,0,,BEAUTY,ETIQUETTE,Battlefield,"The User, Allies, and Foes can not use their Held Item, nor any other Items. If Magic Room is used again while the effects are already active, the effects end early. Lasts for 5 Turns."
+Magical Leaf,Grass,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,Magical Leaf can not be Evaded and ignores the User's Accuracy decreases.
+Magma Storm,Fire,SPECIAL,SPECIAL,4,,SPECIAL,CHANNEL,Single Target,"Block. At the end of the Turn Magma Storm deals 2 Neutral damage. This effect does not stack with other similar moves. Lasts for 5 Turns, unless the User is switched. The User removes 2 Successes from the Accuracy Roll."
+Magnet Bomb,Steel,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,Ranged. Never Fail.
+Magnet Rise,Electric,SUPPORT,,0,,SPIRIT,NATURE,User,The User gains Immunity against Ground-Type moves. Lasts for 5 Turns.
+Magnetic Flux,Electric,SUPPORT,,0,,SPIRIT,NATURE,User and Allies,Increase the User's and Allies' that are an Electric-Type or a Steel-Type Defense and Special Defense by 1.
+Magnitude,Ground,PHYSICAL,STRENGTH,0,,STRENGTH,CHANNEL,Area,Ranged. Roll a 1d6 Dice to determine Magnitude's Base Power. Magnitude can still target Pokemon that are charging the move Dig. Double the Base Power of Magnitude if the Target is charging Dig.
+Make It Rain,Steel,SPECIAL,SPECIAL,5,,DEXTERITY,CHANNEL,Multiple Targets,"Decrease the User’s Special by 1. The User receives Pokedollars equal to the User's Rank: Starter - 10p, Beginner - 25p, Amateur - 50p, Ace - 75p, Pro - 100p, Elite - 125p, Master - 150p."
+Mat Block,Fighting,SUPPORT,,0,,ENDURANCE,ATHLETICS,User and Allies,"Shield Move. Decrease any damage the User and Allies would receive from all Actions by a Physical or Special move to zero, and negate the move's effects. Decrease to zero the set damage from a move the User would take. Mat Block stops all OHKO moves. Mat Block only works the first Turn the User is out."
+Me First,Normal,PHYSICAL,,0,,DEXTERITY,ALERT,Single Target,"Priority +1. If the Target performed a Physical or Special move, the User copies that move. All effects of the copied move apply, including decreased Accuracy. Me First fails if the Target did not perfrom a move this Turn. Add 2 extra dice to the Damage Pool. The copied move can not be Evaded and ignores the User's Accuracy decreases."
+Mean Look,Normal,SUPPORT,,0,,TOUGH,INTIMIDATE,Single Target,Block. This effect ends when the User swaps out. Never Fail.
+Meditate,Psychic,SUPPORT,,0,,WILL,CHANNEL,User,Increase the User’s Strength by 1.
+Mega Drain,Grass,SPECIAL,SPECIAL,2,,SPECIAL,CHANNEL,Single Target,"The User restores HP equal to half the damage dealt, rounded down. Mega Drain always restores 1 HP."
+Mega Kick,Normal,PHYSICAL,STRENGTH,5,,STRENGTH,ATHLETICS,Single Target,The User removes 2 Successes from the Accuracy Roll.
+Mega Punch,Normal,PHYSICAL,STRENGTH,3,,STRENGTH,ATHLETICS,Single Target,The User removes 1 Success from the Accuracy Roll.
+Megahorn,Bug,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Single Target,The User removes 1 Success from the Accuracy Roll.
+Memento,Dark,SUPPORT,,0,,WILL,CHANNEL,Single Target,"The User faints. Decrease the Target’s Strength, Dexterity, Special, Defense and Special Defense by 2."
+Metal Burst,Steel,PHYSICAL,,0,,ENDURANCE,BRAWL,Single Target,"The Target receives damage equal to 1.5 the amount of damage the User received from the last Physical or Special move that damaged the User this Turn, rounded down. Ignore the Target's Defenses. Metal Burst can only target the Target that damaged the User last. Metal Burst can not be a Critical Hit. Metal Burst is unaffected by STAB, Super Effective, and Resistance, Immunities still apply. Metal Burst can not be Clashed."
+Metal Claw,Steel,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 10 Increase the user’s Strength by 1. The User removes 1 Success from the Accuracy Roll.
+Metal Sound,Steel,SUPPORT,,0,,TOUGH,PERFORM,Single Target,Sound Based. Decrease the Target's Special Defense by 2. The User removes 1 Success from the Accuracy Roll.
+Meteor Assault,Fighting,PHYSICAL,STRENGTH,6,,STRENGTH,BRAWL,Single Target,Recharge. The User removes 1 Success from the Accuracy Roll.
+Meteor Beam,Rock,SPECIAL,SPECIAL,5,,SPECIAL,CHANNEL,Single Target,Charge Move. While charging increase the User's Special by 1. Accuracy -1
+Meteor Mash,Steel,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Fist Based. On a Chance Dice roll of 9 or higher Increase the User’s Strength by 1. The User removes 1 Success from the Accuracy Roll.
+Metronome,Normal,SPECIAL,,0,,SPIRIT,PERFORM,Single Target,Roll a 1d6 to determine Metronome's Base Power. Roll a 1d18 to determine Metronome's Type.
+Milk Drink,Normal,SUPPORT,,0,,ENDURANCE,NATURE,User,The User restores 3 HP.
+Mimic,Normal,SUPPORT,,0,,CLEVER,PERFORM,Single Target,Replace the move Mimic with the last move the Target used until the User leaves the Battlefield. 
+Mind Blown,Fire,SPECIAL,SPECIAL,6,,SPIRIT,CHANNEL,Area,"The User receives damage equal to half of the User's Max HP, rounded down."
+Mind Reader,Normal,SUPPORT,,0,,SPIRIT,CHANNEL,Single Target,The User's next move can not be Clashed or Evaded by the Target.
+Minimize,Normal,SUPPORT,,0,,SPIRIT,CHANNEL,User,"Increase the User's Evasion by 2. If the User is targeted by the move Body Slam, Stomp, Dragon Rush, Steam Roller, Heat Crash, Heavy Slam, Flying Press, or Malicious Moonsault, the move can not be Evaded, and the move's Base Power is doubled for that Action."
+Miracle Eye,Psychic,SUPPORT,,0,,SPIRIT,ALERT,Single Target,The User ignores the Psychic-Type Immunity when targeting Dark-Type Pokemon. The User ignores the Target's Evasion increases. Miracle Eye can not be Evaded and ignores the User's Accuracy decreases.
+Mirror Coat,Psychic,SPECIAL,,0,,SPIRIT,ATHLETICS,Single Target,"Priority -1. The Target receives damage equal to double the amount of damage the User received from the last Special move that damaged the User this Turn. Ignore the Target's Defenses. Mirror Coat can only target the Target that damaged the User last. Mirror Coat can not be a Critical Hit. Mirror Coat is unaffected by STAB, Super Effective, and Resistance, Immunities still apply. Mirror Coat can not be Clashed."
+Mirror Move,Flying,SUPPORT,,0,,SPIRIT,CHANNEL,Single Target,"Copy the last successful Physical or Special move that the Target performed. All effects of the copied move apply, including decreased Accuracy. Mirror Move will fail if the Target did not perform a move on the User."
+Mirror Shot,Steel,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,On a Chance Dice roll of 8 or higher Confuse the Target. The User removes 1 Success from the Accuracy Roll.
+Mist,Ice,SUPPORT,,0,,SPECIAL,NATURE,Battlefield,The User and Allies can not have their Stats decreased. Mist does not prevent Pokémon from lowering their own Stats. Lasts for 5 Turns.
+Mist Ball,Psychic,SPECIAL,SPECIAL,2,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 6 or higher Decrease the Target's Special by 1.
+Misty Explosion,Fairy,SPECIAL,SPECIAL,4,,ENDURANCE,CHANNEL,Multiple Targets,Add 2 Extra Dice to the Damage Pool if the User is affected by Misty Terrain .The User receives damage equal to its remaining HP. Ignore the User's Defences.
+Misty Terrain,Fairy,SUPPORT,,0,,SPIRIT,NATURE,Battlefield,"All Pokemon affected by this Terrain can not be affected by a Status Condition, and Confusion Ailment. All Physical and Special Dragon-Type moves can not add their Base Power to their Damage Pool, even if the User is no affected by the Terrain. Flying-Type Pokemon, Pokemon with the Ability Levitate, and Pokemon under the effects of Magnet Rise or Telekinesis are unaffected by this Terrain. Lasts for 5 Turns. "
+Moonblast,Fairy,SPECIAL,SPECIAL,3,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 8 or higher decrease Target’s Special by 1.
+Moongeist Beam,Ghost,SPECIAL,SPECIAL,4,,SPECIAL,CHANNEL,Single Target,Moongeist Beam ignores the effects of the Target's Ability.
+Moonlight,Fairy,SUPPORT,,0,,BEAUTY,NATURE,User,"The User restores 3 HP. If Moonlight is performed during the night, or under the effects of Sunny Weather, the User restores 4 HP instead. If Moonlight is performed under the effects of Rain/Sandstorm/Hail Weather Moonlight restores 2 HP instead."
+Morning Sun,Normal,SUPPORT,,0,,ENDURANCE,NATURE,Single Target,The User restores 3 HP. If Morning Sun is performed under the effects of Sunny Weather the User restores 4 HP instead. If Morning Sun is performed under the effects of Rain/Sandstorm/Hail Morning Sun restores 2 HP instead.
+Mortal Spin,Poison,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Multiple Targets,"The User removes the effects of Blocked. The Target isPoisoned. Remove all Entry Hazards (Spikes, Stealth Rock, etc.) and Leech Seed from the User's side of the Battlefield."
+Mud Bomb,Ground,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,On a Chance Dice roll of 8 or higher Decrease the Target’s Accuracy by 1. The User removes 2 Successes from the Accuracy Roll.
+Mud Shot,Ground,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,Decrease the Target's Dexterity. The User removes 1 Success from the Accuracy Roll.
+Mud Slap,Ground,SPECIAL,SPECIAL,1,,DEXTERITY,CHANNEL,Single Target,Decrease the Target’s Accuracy by 1.
+Mud Sport,Ground,SUPPORT,,0,,CLEVER,NATURE,Battlefield,All Electric-Type moves can not add their Base Power to the Damage Pool. Lasts for 5 Turns.
+Muddy Water,Water,SPECIAL,SPECIAL,3,,DEXTERITY,CHANNEL,Multiple Targets,On a Chance Dice roll of 8 or higher decrease the Target's Accuracy by 1. The User removes 1 Success from the Accuracy Roll.
+Multi-Attack,Normal,PHYSICAL,STRENGTH,5,,DEXTERITY,BRAWL,Single Target,Multi-Attack's changes Type to match the Type of the User.
+Mystical Fire,Fire,SPECIAL,SPECIAL,2,,SPIRIT,CHANNEL,Single Target,Decrease the Target’s Special by 1.
+Mystical Power,Psychic,SPECIAL,SPECIAL,3,,SPIRIT,CHANNEL,Single Target,Increase the User's Special by 1. Accuracy -1
+Nasty Plot,Dark,SUPPORT,,0,,CLEVER,ALERT,User,Increase the User’s Special by 2.
+Natural Gift,Normal,PHYSICAL,STRENGTH,0,,DEXTERITY,NATURE,Single Target,Ranged. The User loses its Held Berry. Refer to the Rulebook for Berry effects.
+Nature Power,Normal,SPECIAL,SPECIAL,0,,SPECIAL,NATURE,Single Target,"Nature Power's Type changes depending on the Battlefield's enviroment, refer to the Rulebook on Battlefield enviroments."
+Nature's Madness,Fairy,SPECIAL,,0,,SPIRIT,NATURE,Single Target,"The User deals damage equal to half of the Target's remaining HP, Turned up. If the remaining HP of the Target is 1, Nature's Madness fails. Ignore the Target's Defenses. Nature's Madness can not be a Critical Hit, and is unaffected by STAB. Nature's Madness is not affected by Weakness, or Resistance, Immunities still apply. Nature's Madness can not be Clashed. The User removes 1 Success from the Accuracy Roll."
+Needle Arm,Grass,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 8 or higher Flinch the Target.
+Night Daze,Dark,SPECIAL,SPECIAL,3,,DEXTERITY,CHANNEL,Single Target,On a Chance Dice roll of 7 or higher decrease the Target’s Accuracy by 1.
+Night Shade,Ghost,SPECIAL,,2,,SPIRIT,CHANNEL,Single Target,"The Target receives Ghost-Type damage equal the the User's Rank. 1 damage at Starter Rank. 2 damage at Beginner Rank. 3 damage at Amateur Rank. 4 damage at Ace Rank. 5 damage at Pro Rank. Ignoring the Target’s Defense. Night Shade can not be a Critical Hit, and is unaffected by STAB. Night Shade is unaffected by Super Effective, and Resistance, Immunities still apply. Night Shade can not be Clashed."
+Night Slash,Dark,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,-
+Nightmare,Ghost,SUPPORT,,0,,WILL,CHANNEL,Single Target,"At the begining of each Turn if the Target is Asleep deal 3 Neutral Damage to the Target. Nightmare fails if the Target is awake, and its effects are removed when the Target wakes up. The affected Pokemon is Immune from the effects of Nightmare for as long as the Target stays on the Battlefield."
+No Retreat,Fighting,SUPPORT,,0,,TOUGH,ALERT,User,"Increase the User's Strength, Dexterity, Special, Defense and Special Defense by 1. The User is Blocked."
+Noble Roar,Normal,SUPPORT,,0,,TOUGH,INTIMIDATE,Single Target,Decrease the Target's Strength and Special by 1.
+Nuzzle,Electric,PHYSICAL,STRENGTH,1,,CUTE,ALLURE,Single Target,The Target is Paralyzed.
+Oblivion Wing,Flying,SPECIAL,SPECIAL,3,,SPECIAL,CHANNEL,Single Target,"High Critical. The User restores HP equal to half the damage dealt, rounded down. Oblivion Wing always restores 1 HP."
+Obstruct,Dark,SUPPORT,,0,,STRENGTH,INTIMIDATE,User,"Priority +4. Shield Move. Decrease any damage the User would receive from all Actions by a Physical or Special move to zero, and negate the move's effects. If the Target used a Non-Ranged Physical Move against the User, Decrease the Targets Defense by 2. Obstruct stops all OHKO moves."
+Octazooka,Water,SPECIAL,SPECIAL,2,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 6 or higher decrease the Target’s Accuracy by 1. The User removes 1 Success from the Accuracy Roll.
+Octolock,Fighting,SUPPORT,,0,,STRENGTH,BRAWL,Single Target,"Block. If the Target attempts to perform a move while blocked, decrease the Target's Defense and Special Defense by 1."
+Odor Sleuth,Normal,SUPPORT,,0,,SPIRIT,ALERT,Single Target,"The User's move can not be Evaded by the Target. If the Target is a Ghost-Type Pokemon, the Target will lose its Immunities to Fighting-Type and Normal-Type moves. Odor Sleuth can not be Evaded and ignores the User's Accuracy decreases."
+Ominous Wind,Ghost,SPECIAL,SPECIAL,2,,TOUGH,CHANNEL,Single Target,"On a Chance Dice roll of 10 Increase the User's Strength, Dexterity, Special, Defense, and Special Defense by 1."
+Order Up,Dragon,PHYSICAL,STRENGTH,3,,ENDURANCE,BRAWL,Single Target,"When the User is affected by a Tatsugiri using the Ability Commander, increase the User’s Stat according to the form of the Tatsugiri. Curly Form increases Strength by 1. Droopy Form increases Defense by 1. Stretchy Form increases Dexterity by 1."
+Origin Pulse,Water,SPECIAL,SPECIAL,4,,SPECIAL,CHANNEL,Single Target,The User removes 2 Successes from the Accuracy Roll.
+Outrage,Dragon,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Random Foe,Rampage. Outrage targets a random Foe.
+Overdrive,Electric,SPECIAL,SPECIAL,3,,COOL,PERFORM,Multiple Targets,Sound Based.
+Overheat,Fire,SPECIAL,SPECIAL,6,,SPECIAL,CHANNEL,Single Target,Decrease the User’s Special by 2. The User removes 1 Success from the Accuracy Roll.
+Pain Split,Normal,SUPPORT,,0,,WILL,CHANNEL,Single Target,"The User gives its Pain Penalties to the Target. The User removes any Pain Penalties on itself. The Target can not ignore the new Pain Penalties with Will, but the Target can ignore its own Pain Penalties. Pain Split can not be Evaded and ignores the User's Accuracy decreases."
+Parabolic Charge,Electric,SPECIAL,SPECIAL,2,,ENDURANCE,CHANNEL,Area,"The User restores HP equal to half the damage dealt to all Targets, rounded down."
+Parting Shot,Dark,SUPPORT,,0,,TOUGH,INTIMIDATE,Single Target,User Switcher Move. Decrease the Target’s Strength and Special by 1.
+Pay Day,Normal,PHYSICAL,STRENGTH,2,,DEXTERITY,CHANNEL,Single Target,"Ranged. The User receives Pokedollars equal to the User's Rank: Starter - 10p, Beginner - 25p, Amateur - 50p, Ace - 75p, Pro - 100p, Elite - 125p, Master - 150p."
+Payback,Dark,PHYSICAL,STRENGTH,2,,ENDURANCE,BRAWL,Single Target,Add 2 extra dice to the Damage Pool if the Target has already damaged the User this Turn.
+Peck,Flying,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,-
+Perish Song,Normal,SUPPORT,,0,,BEAUTY,PERFORM,Area,"Sound Based. The User, Allies, and Foes are effected by Perish Song. Add a Perish Song counter to the Target at the end of Turn. If a Target obtains 3 counters, the Target faints. This effect is removed if the Target leaves the Battlefield."
+Petal Blizzard,Grass,PHYSICAL,STRENGTH,3,,STRENGTH,NATURE,Area,-
+Petal Dance,Grass,SPECIAL,SPECIAL,5,,SPECIAL,PERFORM,Random Foe,Rampage. Petal Dance targets a random Foe.
+Phantom Force,Ghost,PHYSICAL,STRENGTH,3,,STRENGTH,BRAWL,Single Target,Charge Move. The User can not be targeted while charging Phantom Force. Phantom Force ignores the effects of Shield Moves. 
+Photon Geyser (Physical),Psychic,PHYSICAL,STRENGTH,4,,DEXTERITY,CHANNEL,Single Target,"Photon Geyser can use either Strength or Special as both Accuracy and Damage. If Photon Geyser is Strength based, Photon Geyser makes contact and is Physical. If Photon Geyser is Special based, Photon Geyser is ranged and is Special. Photon Geyser ignores the effects of the Target's Ability."
+Photon Geyser (Special),Psychic,SPECIAL,SPECIAL,4,,DEXTERITY,CHANNEL,Single Target,"Photon Geyser can use either Strength or Special as both Accuracy and Damage. If Photon Geyser is Strength based, Photon Geyser makes contact and is Physical. If Photon Geyser is Special based, Photon Geyser is ranged and is Special. Photon Geyser ignores the effects of the Target's Ability."
+Pin Missile,Bug,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,Ranged. Successive Actions.
+Plasma Fists,Electric,PHYSICAL,STRENGTH,4,,DEXTERITY,BRAWL,Single Target,"Fist Based. For as long as the User stays on the Battlefield, All Normal-Type moves of the User will be considered Electric-Type. "
+Play Nice,Normal,SUPPORT,,0,,CUTE,ALLURE,Single Target,Decrease the Target's Strength by 1. Play Nice can not be Evaded and ignores the User's Accuracy decreases.
+Play Rough,Fairy,PHYSICAL,STRENGTH,3,,TOUGH,BRAWL,Single Target,On a Chance Dice roll of 10 decrease the Target's Strength. The User removes 1 Success from the Accuracy Roll.
+Pluck,Flying,PHYSICAL,STRENGTH,2,,CLEVER,ALERT,Single Target,"If the Target is holding a Berry, the User consumes it and gains its effects."
+Poison Fang,Poison,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 6 or higher Badly Poison the Target.
+Poison Gas,Poison,SUPPORT,,0,,SPECIAL,CHANNEL,Multiple Targets,The Target is Poisoned. The User removes 1 Success from the Accuracy Roll.
+Poison Jab,Poison,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 8 or higher Poison the Target.
+Poison Powder,Poison,SUPPORT,,0,,SPECIAL,CHANNEL,Single Target,The Target is Poisoned. Grass-Type Pokemon are Immune to Poison Powder. The User removes 2 Successes from the Accuracy Roll. 
+Poison Sting,Poison,PHYSICAL,STRENGTH,1,,DEXTERITY,CHANNEL,Single Target,Ranged. On a Chance Dice roll of 8 or higher Poison the Target.
+Poison Tail,Poison,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,High Critical. On a Chance Dice roll of 10 Poison the Target.
+Pollen Puff,Bug,SPECIAL,SPECIAL,3,,SPECIAL,CHANNEL,Single Target,"If Pollen Puff is used against an Ally, the Ally will restore 3 HP instead of taking damage."
+Poltergeist,Ghost,PHYSICAL,STRENGTH,3,,CLEVER,STEALTH,Single Target,If the Target does not have a Held Item Poltergeist fails. The User removes 1 Success from the Accuracy Roll.
+Population Bomb,Normal,PHYSICAL,STRENGTH,1,,COOL,ALLURE,Single Target,"Successive Action. Population Bomb uses half an Action to activate. If the move ends on a half Action, Turn the Action bar up. Population Bomb can be performed up to 10 Times in a single Turn, by spending 5 Actions. Accuracy -1."
+Pounce,Bug,PHYSICAL,STRENGTH,2,,DEXTERITY,STEALTH,Single Target,Decrease the Target’s Dexterity by 1.
+Pound,Normal,PHYSICAL,STRENGTH,2,,STRENGTH,BRAWL,Single Target,-
+Powder,Bug,SUPPORT,,0,,SPIRIT,NATURE,Single Target,"Priority +1. When the Target performs a Fire-Type move, the Target rolls 3 Neutral damage dice hurting themselves instead. The Target's move fails to activate, and the Target's Action is still used. Grass-Type Pokemon are Immune to Powder."
+Powder Snow,Ice,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Multiple Targets,On a Chance Dice roll of 10 Frostbite the Target.
+Power Gem,Rock,SPECIAL,SPECIAL,3,,COOL,CHANNEL,Single Target,-
+Power Shift,Normal,SUPPORT,,,,CLEVER,NATURE,User,Swap the User’s Base Strength with the User's Base Defense. Swap the User’s Base Special with the User's Base Special Defense.
+Power Split,Psychic,SUPPORT,,0,,SPECIAL,CHANNEL,Single Target,"The User's Base Strength and Base Special, and the Target's Base Strength and Base Special are combined then spilt equally between the User and the Target, Turned up. Power Split can not be Evaded and ignores the User's Accuracy decreases."
+Power Swap,Psychic,SUPPORT,,0,,SPECIAL,CHANNEL,Single Target,The User's Strength and Special increases and decreases are swapped with the Target's Strength and Special increases and decreases. Power Swap can not be Evaded and ignores the User's Accuracy decreases.
+Power Trick,Psychic,SUPPORT,,0,,SPIRIT,NATURE,User,The User’s Base Strength is swapped with the User's Defense. The User’s Base Special is swapped with the User's Base Special Defense.
+Power Trip,Dark,PHYSICAL,STRENGTH,1,,SPIRIT,BRAWL,Single Target,"Add 1 extra dice to the Damage Pool of Power Trip for every Stat increase the User has. Up to 10 dice may be added this way. (Ie. The User's Defense, Accuracy, and Strength were all increased by 1, add 3 extra dice to the Damage Pool)."
+Power Whip,Grass,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Single Target,The User removes 1 Success from the Accuracy Roll.
+Power-up Punch,Fighting,PHYSICAL,STRENGTH,2,,STRENGTH,ATHLETICS,Single Target,Fist Based. Increase the User's Strength by 1. 
+Precipice Blades,Ground,PHYSICAL,STRENGTH,5,,STRENGTH,CHANNEL,Multiple Targets,Ranged. The User removes 2 Successes from the Accuracy Roll.
+Present,Normal,SUPPORT,STRENGTH,3,,CUTE,ALLURE,Single Target,Ranged. On a Chance Dice roll of 9 or higher restore 2 HP to the Target instead of dealing damage. The User removes 1 Success from the Accuracy Roll.
+Prismatic Laser,Psychic,SPECIAL,SPECIAL,6,,SPECIAL,CHANNEL,Single Target,Recharge.
+Protect,Normal,SUPPORT,,0,,WILL,CHANNEL,User,"Priority +5. Shield Move. Decrease any damage the User would receive from all Actions by a Physical or Special move to zero, and negate the move's effects. Negate the effects of Support moves that Target the User. Decrease to zero the set damage from a move the User would take. Protect stops all OHKO moves."
+Psybeam,Psychic,SPECIAL,SPECIAL,2,,SPIRIT,CHANNEL,Single Target,On a Chance Dice roll of 10 Confuse the Target.
+Psyblade,Psychic,PHYSICAL,STRENGTH,3,,STRENGTH,BRAWL,Single Target,"Add 2 extra dice to the Damage Pool, if the User is affected by Electric Terrain."
+Psych Up,Normal,SUPPORT,,0,,SPIRIT,CHANNEL,Single Target,"The User copies the Target's Stat increases. Remove any previous increases, and decreases on the User. Psych Up is unaffected by Shield Moves. Psych Up can not be Evaded and ignores the User's Accuracy decreases."
+Psychic,Psychic,SPECIAL,SPECIAL,3,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 10 decrease the Target’s Special Defense by 1.
+Psychic Fangs,Psychic,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,"Remove the effects of Light Screen, Reflect, and Aurora Veil from the Target’s side of the Battlefield."
+Psychic Terrain,Psychic,SUPPORT,,0,,SPECIAL,CHANNEL,Battlefield,"Add 1 extra dice to the Damage Pool of all Physical and Special Psychic-Type moves. All Single Target moves with Positive Priority used by a Pokemon affected by Psychic Terrain will fail. Flying-Type Pokemon, Pokemon with the Ability Levitate, Pokemon holding an Air Balloon, and Pokemon under the effects of Magnet Rise or Telekinesis are unaffected by this Terrain. Lasts for 5 Turns."
+Psycho Boost,Psychic,SPECIAL,SPECIAL,6,,SPECIAL,CHANNEL,Single Target,Decrease User’s Special by 2. The User removes 1 Success from the Accuracy Roll.
+Psycho Cut,Psychic,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,High Critical.
+Psycho Shift,Psychic,SUPPORT,,0,,CLEVER,CHANNEL,Single Target,The User’s gives the Target any Status Conditions the User currently has. The User is cured from the Status Conditions.
+Psyshield Bash,Psychic,SPECIAL,SPECIAL,3,,SPIRIT,CHANNEL,Single Target,Increase the User’s Defense by 1.
+Psyshock,Psychic,SPECIAL,SPECIAL,3,,DEXTERITY,CHANNEL,Single Target,Psyshcok is resisted with the Target’s Defense instead of the Target's Special Defense.
+Psystrike,Psychic,SPECIAL,SPECIAL,4,,DEXTERITY,CHANNEL,Single Target,Psystrike is resisted with the Target’s Defense instead of the Target's Special Defense.
+Psywave,Psychic,SPECIAL,,2,,SPIRIT,CHANNEL,Single Target,"The Target receives Psychic-Type damage equal the the User's Rank. 1 damage at Starter Rank. 2 damage at Beginner Rank. 3 damage at Amateur Rank. 4 damage at Ace Rank. 5 damage at Pro Rank. 6 damage at Elite. 7 damage at Master. Ignoring the Target’s Defense. Psywave can not be a Critical Hit, and is unaffected by STAB. Psywave is unaffected by Super Effective, and Resistance, Immunities still apply. Psywave can not be Clashed."
+Punishment,Dark,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,"Add 1 extra dice to the Damage Pool for every Stat increase the Target has. Up to 7 extra dice may be added this way. (Ie. The Target's Defense, Accuracy, and Strength were all increased by 1, add 3 extra dice to the Damage Pool)."
+Purify,Poison,SUPPORT,,0,,SPECIAL,NATURE,Single Target,The Target restores 3 HP if the Target has a Status Condition. The Target is cured from a Status Condition.
+Pursuit,Dark,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,"If the Target is switching or attempting to run away. Add 2 extra dice to the Damage Pool, Priority +1, and Pursuit can not be Evaded and ignores the User's Accuracy decreases."
+Pyro Ball,Fire,PHYSICAL,STRENGTH,5,,STRENGTH,ATHLETICS,Single Target,On a Chance Dice roll of 10 Burn the Target. The User removes 1 Success from the Accuracy Roll.
+Quash,Dark,SUPPORT,,0,,TOUGH,INTIMIDATE,Single Target,"For as long as the Target stays on the Battlefield, the Target will go last in the Initiative order."
+Quick Attack,Normal,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,Priority +1. 
+Quick Guard,Fighting,SUPPORT,,0,,DEXTERITY,ALERT,User and Allies,Priority +3. Shield Move. Quick Guard will only protect against moves with Positive Priority. Decrease any damage the User and Allies would receive from a Physical or Special move to zero. Negate the effects of support moves that Target the User and Allies. Decrease to zero the set damage from a move the User would take. Quick Guard stops all OHKO moves.
+Quiver Dance,Bug,SUPPORT,,0,,BEAUTY,PERFORM,User,"Increase the User's Dexterity, Special and Special Defense by 1."
+Rage,Normal,PHYSICAL,STRENGTH,1,,ENDURANCE,INTIMIDATE,Single Target,"If the User receives damage from any source during this Turn, including damage from moves, Clashing, Status Effects, Confusion, and Weather, increase the User's Strength by 1."
+Rage Fist,Ghost,PHYSICAL,STRENGTH,2,,TOUGH,ATHLETICS,Single Target,"Fist Based. Add 2 extra dice to the Damage Pool for every hit the User has taken. (Max 12 Dice). Hits from Clashing, Confusion, and Critical Fails count towards the total extra dice. Switching Pokemon does not reset the counter. "
+Rage Powder,Bug,SUPPORT,,0,,TOUGH,INTIMIDATE,User,"Priority +2. During this Turn, all Physical and Special moves from any Foe must Target the User. Multiple Targets moves, and Area moves are unaffected. Grass-Type Pokemon are Immune to Rage Powder."
+Raging Bull,Normal,PHYSICAL,STRENGTH,3,,TOUGH,INTIMIDATE,Single Target,"Remove the effects of Light Screen, Reflect, and Aurora Veil from the Target’s side of the Battlefield. Raging Bull's Type changes based on the breed of Tauros. Kantonian is Normal, Combat is Fighting, Blaze is Fire, and Aqua is Water. If another Pokemon performs Raging Bull, the typing remains Normal."
+Raging Fury,Fire,PHYSICAL,STRENGTH,5,,STRENGTH,INTIMIDATE,Random Foe,Rampage. Raging Fury targets a random Foe.
+Rain Dance,Water,SUPPORT,,0,,SPIRIT,NATURE,Battlefield,Begin the effects of Rain. Lasts for 5 Turns.
+Rapid Spin,Normal,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,"Remove all Entry Hazards (Spikes, Stealth Rock, etc.) and Leech seed from the User’s side of the Battlefield. Increase the User’s Dexterity by 1."
+Razor Leaf,Grass,PHYSICAL,STRENGTH,2,,DEXTERITY,CHANNEL,Multiple Targets,Ranged. High Critical.
+Razor Shell,Water,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 10 decrease the Target’s Defense by 1.
+Razor Wind,Normal,SPECIAL,SPECIAL,3,,DEXTERITY,CHANNEL,Multiple Targets,High Critical. Charge Move.
+Recover,Normal,SUPPORT,,0,,SPIRIT,NATURE,User,The User restores 3 HP.
+Recycle,Normal,SUPPORT,,0,,CLEVER,NATURE,User,"The User regains a Held Item, such as a Berry, that the User had previously consumed while the User was on the Battlefield."
+Reflect,Psychic,SUPPORT,,0,,SPECIAL,CHANNEL,Battlefield,"The User and Allies receive 2 less damage from Physical moves, and Physical based Clashes. This effect can not decrease the damage below 1. Lasts for 5 Turns. "
+Reflect Type,Normal,SUPPORT,,0,,SPIRIT,CHANNEL,Single Target,"The User is the same Type or Types as the Target. Reflect Type fails if the Target has no Type. This effect last for as long as the User is on the Battlefield, or Reflect Type is used again. Reflect Type can not be Evaded and ignores the User's Accuracy decreases."
+Refresh,Normal,SUPPORT,,0,,WILL,CHANNEL,User,"The User is cured from Poison, Burn or Paralysis. "
+Relic Song,Normal,SPECIAL,SPECIAL,3,,SPECIAL,PERFORM,Multiple Targets,"On a Chance Dice roll of 10 Sleep the Target. Relic Song changes the User's form to Aria Form if the User is in Pirouette Form, or the User's form to Pirouette Form if the User is in Aria Form. Aria Form and Pirouette Form share Aria Form's Max HP, Max Will, Base Stat increases, moves, Status Conditons, Status Ailments, Stat increases, Stat decreases, Skills and all other effects."
+Rest,Psychic,SUPPORT,,0,,ENDURANCE,NATURE,User,The User restores 5 HP. The User is affected by Sleep for 2 Turns. The User is cured of all Status Conditions other than Asleep. Rest fails if the User can not be affect by Sleep. 
+Retaliate,Normal,PHYSICAL,STRENGTH,3,,STRENGTH,BRAWL,Single Target,Add 3 extra dice to the Damage Pool if an Ally fainted during this or the last Turn. This effect can only be used once per Ally.
+Return,Normal,PHYSICAL,STRENGTH,0,HAPPINESS,COOL,ALLURE,Single Target,Add 1 extra dice to the Damage Pool of Return for every point of Happiness on the User.
+Revelation Dance,Normal,SPECIAL,SPECIAL,3,,DEXTERITY,PERFORM,Single Target,The damage Type of Revelation Dance always matches the User's primary Type.
+Revenge,Fighting,PHYSICAL,STRENGTH,2,,ENDURANCE,ATHLETICS,Single Target,Priority -4. Add 3 Extra Dice to the Damage Pool if the User has already received damage this Turn.
+Reversal,Fighting,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,Add 1 extra dice to the Damage Pool for every 2 HP missing from the User's Max HP.  Up to 5 extra dice may be added this way.
+Revival Blessing,Normal,SUPPORT,,,,SPIRIT,ETIQUETTE,One Ally,"Revive one fainted Ally to half of the Ally’s HP rounded down, the revived Ally does not gain any Will back. Revival Blessing fails if there are no fainted Allies. A Pokemon can only use Revival Blessing once per Battle."
+Rising Voltage,Electric,SPECIAL,SPECIAL,3,,SPECIAL,CHANNEL,Single Target,"Add 3 extra dice to the Damage Pool, if the User is affected by Electric Terrain."
+Roar,Normal,SUPPORT,,0,,TOUGH,INTIMIDATE,Single Target,Sound Based. Priority -6. Target Switcher Move. 
+Roar of Time,Dragon,SPECIAL,SPECIAL,6,,SPECIAL,CHANNEL,Single Target,The User removes 1 Success from the Accuracy Roll.
+Rock Blast,Rock,PHYSICAL,STRENGTH,1,,DEXTERITY,CHANNEL,Single Target,Ranged. Succesive Actions. The User removes 1 Success from the Accuracy Roll.
+Rock Climb,Normal,PHYSICAL,STRENGTH,3,,STRENGTH,ATHLETICS,Single Target,On a Chance Dice roll of 9 or higher Confuse the Target. The User removes 1 Success from the Accuracy Roll.
+Rock Polish,Rock,SUPPORT,,0,,DEXTERITY,CHANNEL,User,Increase the User’s Dexterity by 2.
+Rock Slide,Rock,PHYSICAL,STRENGTH,3,,STRENGTH,CHANNEL,Multiple Targets,Ranged. On a Chance Dice roll of 8 or higher Flinch the Target. The User removes 1 Success from the Accuracy Roll.
+Rock Smash,Fighting,PHYSICAL,STRENGTH,2,,STRENGTH,BRAWL,Single Target,On a Chance Dice roll of 6 or higher Decrease Target's Defense by 1.
+Rock Throw,Rock,PHYSICAL,STRENGTH,2,,DEXTERITY,CHANNEL,Single Target,Ranged. The User removes 1 Success from the Accuracy Roll.
+Rock Tomb,Rock,PHYSICAL,STRENGTH,2,,STRENGTH,CHANNEL,Single Target,Ranged. Decrease the Target's Dexterity by 1. The User removes 1 Success from the Accuracy Roll.
+Rock Wrecker,Rock,PHYSICAL,STRENGTH,6,,STRENGTH,CHANNEL,Single Target,Ranged. Recharge. The User removes 1 Success from the Accuracy Roll.
+Role Play,Psychic,SUPPORT,,0,,CLEVER,PERFORM,Single Target,The User changes its Ability to the Ability of the Target. Role Play can not be Evaded and ignores the User's Accuracy decreases.
+Rolling Kick,Fighting,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 8 or higher Flinch the Target. The User removes 1 Success from the Accuracy Roll.
+Rollout,Rock,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,"Rollout can be used multiple times in the same Round. Add 2 extra dice to the Damage Pool for every consecutive time the User performs Rollout. Up to 4 dice may be added this way. Reset the effect if the User performs another move, Evades, Clashes with another move, or Rollout fails to hit. The User may Clash with Rollout, but the Damage Pool does not increase. If Defense Curl was used this Turn add an extra 1 damage dice to the Damage Pool. The User removes 1 Success from the Accuracy Roll. "
+Roost,Flying,SUPPORT,,0,,SPIRIT,NATURE,User,"The User restores 3 HP. Until the User attempts to perform another move the User is no longer a Flying-Type, and becomes a Normal-Type."
+Rototiller,Ground,SUPPORT,,0,,STRENGTH,NATURE,Battlefield,"Increase all Grass-Type Pokémon's Strength and Special by 1, including the Foes. Flying-Type Pokemon, Pokemon with the Ability Levitate, and Pokemon under the effects of Magnet Rise or Telekinesis are unaffected by Rototiller."
+Round,Normal,SPECIAL,SPECIAL,2,,SPECIAL,PERFORM,Single Target,"If an Ally Pokemon can perform Round this Turn, the Ally may perform their Action to perform Round after the User, ignoring the Inititiave order. Add 3 Extra Dice to the Damage Pool of the User, if the Ally used an Action to perform Round. "
+Ruination,Dark,SPECIAL,,0,,SPECIAL,CHANNEL,Single Target,"The User deals damage equal to half of the Target's remaining HP, Turned up. If the remaining HP of the Target is 1, Ruination fails. Ignore the Target's Defenses. Ruination can not be a Critical Hit, and is unaffected by STAB. Ruination is not affected by Weakness, or Resistance, Immunities still apply. Ruination can not be Clashed. The User removes 1 Success from the Accuracy Roll."
+Sacred Fire,Fire,PHYSICAL,STRENGTH,4,,SPIRIT,CHANNEL,Single Target,On a Chance Dice roll of 6 or higher Burn the Target. The User removes 1 Success from the Accuracy Roll.
+Sacred Sword,Fighting,PHYSICAL,STRENGTH,3,,STRENGTH,ETIQUETTE,Single Target,Ignore any Increases to the Target's Defense and Evasion.
+Safeguard,Normal,SUPPORT,,0,,SPIRIT,CHANNEL,Battlefield,"The User and Allies are Immune to Status Conditions (Burn. Poison, Sleep, Frostbite, Paralysis), and Confusion (Self caused Confusion is not prevented). Previously inflicted Status Conditions remain. Lasts for 5 Turns. "
+Salt Cure,Rock,PHYSICAL,STRENGTH,2,,CLEVER,CHANNEL,Single Target,"Range. Deal 1 Neutral damage at the end of the Turn. This effect does not stack with other similar moves. Steel-Type and Water-Type Pokemon take an additional 1 Neutral damage at the end of Turn. This effect does not stack with other similar moves.  Lasts for 5 Turns, unless the User swaps out. "
+Sand Attack,Ground,SUPPORT,,0,,DEXTERITY,CHANNEL,Single Target,Decrease the Target's Accuracy by 1.
+Sand Tomb,Ground,PHYSICAL,STRENGTH,2,,DEXTERITY,CHANNEL,Single Target,"Ranged. Block. Deal 1 Neutral damage at the end of the Turn. This effect does not stack with other similar moves. Lasts for 5 Turns, unless the User is switched. The User removes 1 Success from the Accuracy Roll."
+Sandsear Storm,Ground,SPECIAL,SPECIAL,4,,SPECIAL,CHANNEL,Multiple Targets,On a Chance Dice roll of 9 or higher Burn the Target. The User removes 2 Successes from the Accuracy Roll.
+Sandstorm,Rock,SUPPORT,,0,,SPIRIT,NATURE,Battlefield,Begin the effects of Sandstorm. Lasts for 5 Turns.
+Scald,Water,SPECIAL,SPECIAL,3,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 8 or higher Burn the Target.
+Scale Shot,Dragon,PHYSICAL,STRENGTH,1,,DEXTERITY,CHANNEL,Single Target,"Ranged. Successive Action. Decrease the User's Defense by 1, and increase the User's Dexterity by 1. The User removes 1 Success from the Accuracy Roll."
+Scary Face,Normal,SUPPORT,,0,,TOUGH,INTIMIDATE,Single Target,Decrease the Target’s Dexterity by 2.
+Scorching Sands,Ground,SPECIAL,SPECIAL,3,,DEXTERITY,CHANNEL,Multiple Targets,"If the Target has had a Stat increase this Turn, the Target is Burned."
+Scratch,Normal,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,-
+Screech,Normal,SUPPORT,,0,,TOUGH,PERFORM,Single Target,Sound Based. Decrease the Target's Defense by 2. The User removes 1 Success from the Accuracy Roll.
+Searing Shot,Fire,SPECIAL,SPECIAL,5,,SPECIAL,CHANNEL,Multiple Targets,On a Chance Dice roll of 8 or higher Burn the Target.
+Secret Power,Normal,PHYSICAL,STRENGTH,3,,SPIRIT,BRAWL,Single Target,The Target is affected differently depending on the Battlefield's enviroment. Refer to the Rulebook on Battlefield enviroments.
+Secret Sword,Fighting,SPECIAL,SPECIAL,3,,SPECIAL,STEALTH,Single Target,Secret Sword is resisted with the Target’s Defense instead of the Target's Special Defense.
+Seed Bomb,Grass,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Ranged.
+Seed Flare,Grass,SPECIAL,SPECIAL,5,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 7 or higher Decrease the Target's Special Defense by 2. The User removes 1 Success from the Accuracy Roll.
+Seismic Toss,Fighting,PHYSICAL,,,,STRENGTH,ATHLETICS,Single Target,"The Target receives Fighting-Type damage equal the the User's Rank. 1 damage at Starter Rank. 2 damage at Beginner Rank. 3 damage at Amateur Rank. 4 damage at Ace Rank. 5 damage at Pro Rank. 6 damage at Elite. 7 damage at Master. Ignoring the Target’s Defense. Seismic Toss can not be a Critical Hit, and is unaffected by STAB. Seismic Toss is unaffected by Super Effective, and Resistance, Immunities still apply. Seismic Toss can not be Clashed."
+Self Destruct,Normal,PHYSICAL,STRENGTH,8,,STRENGTH,BRAWL,Area,Ranged. The User receives damage equal to its remaining HP. Ignore the User's Defences.
+Shadow Ball,Ghost,SPECIAL,SPECIAL,3,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 9 or higher decrease Target's Special Defense by 1.
+Shadow Bone,Ghost,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 9 or higher Decrease the Target’s Defense by 1.
+Shadow Claw,Ghost,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,High Critical.
+Shadow Force,Ghost,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Single Target,Charge Move. The User can not be targeted while charging Shadow Force. Shadow Force ignores the effects of Shield Moves. Damage dealt by Shadow Force can not be restored as long as the Target stays on the Battlefield.
+Shadow Punch,Ghost,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,Fist Based. Shadow Punch can not be Evaded and ignores the User's Accuracy decreases. 
+Shadow Sneak,Ghost,PHYSICAL,STRENGTH,2,,CLEVER,STEALTH,Single Target,Priority +1.
+Sharpen,Normal,SUPPORT,,0,,DEXTERITY,BRAWL,User,Increase the User’s Strength by 1.
+Shed Tail,Normal,SUPPORT,,,,CLEVER,NATURE,User,"The User receives 4 Neutral damage and places a Substitute with 2 HP on the Battlefield with the User's Defenses. The User switches with an Ally, and the Ally is protected by the Substitute. If the Substitute's HP is depleted, it disappears and the Ally can be targeted again. The Substitute can only be affected by Physical and Special moves, additonal effects do not affect the Substitute."
+Sheer Cold,Ice,SPECIAL,,0,,SPECIAL,CHANNEL,Single Target,"The Target receives damage equal to the Target’s remaining HP, plus 2 damage. Ignoring the Target's Defences. Sheer Cold can not be a Critical Hit. Sheer Cold is unaffected by STAB, Super Effective, and Resistance, Immunities still apply. Sheer Cold can not be a Critical Hit. Sheer Cold is unaffected by STAB, Super Effective, and Resistance, Immunities still apply. Sheer Cold can not be Clashed. The User removes 7 Successes from the Accuracy Roll."
+Shell Side Arm (Physical),Poison,PHYSICAL,STRENGTH,3,,STRENGTH,CHANNEL,Single Target,"On a Chance Dice roll of 9 or higher Poison the Target. Shell Side Arm can use either Strength or Special as both Accuracy and Damage. If Shell Side Arm is Strength based, Shell Side Arm makes contact and is Physical. If Shell Side Arm is Special based, Shell Side Arm is ranged and is Special."
+Shell Side Arm (Special),Poison,SPECIAL,SPECIAL,3,,SPECIAL,CHANNEL,Single Target,"On a Chance Dice roll of 9 or higher Poison the Target. Shell Side Arm can use either Strength or Special as both Accuracy and Damage. If Shell Side Arm is Strength based, Shell Side Arm makes contact and is Physical. If Shell Side Arm is Special based, Shell Side Arm is ranged and is Special."
+Shell Smash,Normal,SUPPORT,,0,,STRENGTH,BRAWL,User,"Increase the User's Strength, Special, Dexterity by 2. Decrease the User's Defense and Special Defense by 1."
+Shell Trap,Fire,SPECIAL,SPECIAL,6,,ENDURANCE,STEALTH,Single Target,"Priority -3. If the User received damage from a Physical move this Turn, Shell Trap can be performed. Shell Trap can not target Allies, and can only target the Foe that hit the User last.  The Target can not Evade or Clash Shel Trap, other Pokemon may still Clash Shell Trap for the Target.
+"
+Shelter,Normal,SUPPORT,,,,ENDURANCE,ATHLETICS,User,Increase the User's Defense by 2.
+Shift Gear,Steel,SUPPORT,,0,,DEXTERITY,CHANNEL,User,Increase the User’s Strength by 1 and Dexterity by 2.
+Shock Wave,Electric,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,Shock Wave can not be Evaded and ignores the User's Accuracy decreases.
+Shore Up,Ground,SUPPORT,,0,,SPIRIT,NATURE,User,"The User restores 3 HP. If Sandstorm is in effect, the User restores 4 HP."
+Signal Beam,Bug,SPECIAL,SPECIAL,3,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 10 Confuse the Target.
+Silk Trap,Bug,SUPPORT,,,,ENDURANCE,ALERT,User,"Priority +5. Shield Move. Decrease any damage the User would receive from all Actions by a Physical or Special move to zero, and negate the move's effects. Negate the effects of Support moves that Target the User. Decrease to zero the set damage from a move the User would take. If the Target was using a Non-Ranged Physical move, decrease the Target's Dexterity by 1. Silk Trap stops all OHKO moves."
+Silver Wind,Bug,SPECIAL,SPECIAL,2,,BEAUTY,CHANNEL,Single Target,On a Chance Dice roll of 10 Increase User's Strength. Dexterity. Special. Defense. Special Defense.
+Simple Beam,Normal,SUPPORT,,0,,SPIRIT,NATURE,Single Target,The Target's Ability is Simple.
+Sing,Normal,SUPPORT,,0,,CUTE,PERFORM,Single Target,Sound Based. The Target is Asleep. The User removes 4 Successes from the Accuracy Roll.
+Sketch,Normal,SUPPORT,,0,,CLEVER,PERFORM,Single Target,Permanently copy the move the Target used last. Once Copied Sketch disappears.
+Skill Swap,Psychic,SUPPORT,,0,,CLEVER,PERFORM,Single Target,The User's Ability is swapped with the Target's Ability. Skill Swap can not be Evaded and ignores the User's Accuracy decreases.
+Skitter Smack,Bug,PHYSICAL,STRENGTH,3,,DEXTERITY,STEALTH,Single Target,Decrease the Target’s Special by 1. The User removes 1 Success from the Accuracy Roll.
+Skull Bash,Normal,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Single Target,Charge. Increase the User’s Defense by 1.
+Sky Attack,Flying,PHYSICAL,STRENGTH,6,,STRENGTH,BRAWL,Single Target,High Critical. Charge Move. On a Chance Dice roll of 8 or higher Flinch the Target. The User removes 1 Success from the Accuracy Roll.
+Sky Drop,Flying,PHYSICAL,STRENGTH,2,,STRENGTH,ATHLETICS,Single Target,"Charge Move. The Target is Flinched while the User is charging. The User and Target can not be targeted while charging Sky Drop. The User and Target may still be targeted by Gust, Thunder, Twister, Sky Uppercut, Hurricane, and Smack Down. Flying-Type Pokémon are immune to the damage of Sky Drop. Lifting a Target is restricted by the Strength of the User, refer to the Rulebook for Strength limits. If Gravity is in effect Sky Drop fails."
+Sky Uppercut,Fighting,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,"Sky Uppercut can still target Pokemon that are charging the moves Fly, Bounce, and Sky Drop. The User removes 1 Success from the Accuracy Roll."
+Slack Off,Normal,SUPPORT,,0,,ENDURANCE,NATURE,User,The User restores 3 HP.
+Slam,Normal,PHYSICAL,STRENGTH,3,,STRENGTH,BRAWL,Single Target,The User removes 2 Successes from the Accuracy Roll.
+Slash,Normal,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,High Critical.
+Sleep Powder,Grass,SUPPORT,,0,,SPECIAL,NATURE,Single Target,The Target is Asleep. Grass-Type Pokemon are Immune to Sleep Powder. The User removes 2 Successes from the Accuracy Roll.
+Sleep Talk,Normal,SUPPORT,,0,,,,Random Foe,"While this User is Asleep, Sleep Talk uses one of the User's moves at random. Sleep Talk fails if the User is awake."
+Sludge,Poison,SPECIAL,SPECIAL,2,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 8 or higher Poison the Target.
+Sludge Bomb,Poison,SPECIAL,SPECIAL,3,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 8 or higher Poison the Target.
+Sludge Wave,Poison,SPECIAL,SPECIAL,3,,SPECIAL,CHANNEL,Area,On a Chance Dice roll of 10 Poison the Target.
+Smack Down,Rock,PHYSICAL,STRENGTH,2,,DEXTERITY,CHANNEL,Single Target,"Ranged. The Target is no longer Immune to Ground-Type moves. The Target can be affected by Entry Hazards, and Terrains. Smack Down can still target Pokemon that are charging the moves Fly, Bounce, and Sky Drop."
+Smart Strike,Steel,PHYSICAL,STRENGTH,3,,CLEVER,BRAWL,Single Target,Never Fail.
+Smelling Salts,Normal,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Add 2 extra dice to the Damage Pool if the Target is Paralyzed. The Target is cured from Paralysis.
+Smog,Poison,SPECIAL,SPECIAL,1,,SPIRIT,CHANNEL,Single Target,On a Chance Dice roll of 7 or higher Poison the Target. The User removes 3 Successes from the Accuracy Roll.
+Smokescreen,Normal,SUPPORT,,0,,SPECIAL,CHANNEL,Single Target,Decrease the Target's Accuracy by 1
+Snap Trap,Grass,PHYSICAL,STRENGTH,2,,CLEVER,STEALTH,Single Target,"Block. Deal 1 Neutral damage at the end of the Turn. This effect does not stack with other similar moves. Lasts for 5 Turns, unless the User is switched."
+Snarl,Dark,SPECIAL,SPECIAL,2,,TOUGH,INTIMIDATE,Multiple Targets,Sound Based. Decrease the Target's Special by 1. The User removes 1 Success from the Accuracy Roll.
+Snatch,Dark,SUPPORT,,0,,CLEVER,STEALTH,Single Target,"Priority +4. When a Pokémon (including an Ally) perfroms a Status move that adds a positive effect to a Pokemon (Ie. Substitute, Bulk Up, Lucky Chant, Ingrain, Etc), the User of Snatch gains the effects instead of the move's original User. The original User still uses an Action, and the move fails. Snatch can not be Evaded and ignores the User's Accuracy decreases."
+Snipe Shot,Water,SPECIAL,SPECIAL,3,,DEXTERITY,CHANNEL,Single Target,High Critical. Ignore any effects from moves or Abilities that would prevent Snipe Shot from targeting a Target.
+Snore,Normal,SPECIAL,SPECIAL,2,,SPECIAL,PERFORM,Single Target,On a Chance Dice roll of 8 or higher Flinch the Target. Snore fails if the User is awake.
+Snowscape,Ice,SUPPORT,,,,SPIRIT,NATURE,Battlefield,Begin the effects of Hail. Lasts for 5 Turns.
+Soak,Water,SUPPORT,,0,,SPECIAL,CHANNEL,Single Target,"The Target's Types are changed to Water-Type, for as long as the Target is on the Battlefield."
+Soft Boiled,Normal,SUPPORT,,0,,SPIRIT,NATURE,User,The User restores 3 HP.
+Solar Beam,Grass,SPECIAL,SPECIAL,5,,SPECIAL,CHANNEL,Single Target,"Charge Move. If Sunny Weather is in effect, skip Solar Beam's Charge Action. If Rain/Sandstorm/Hail are in effect Solar Beam has a Base Power of 2 instead of 5."
+Solar Blade,Grass,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Single Target,"Charge Move. If Sunny Weather is in effect, skip Solar Blade's Charge Action. If Rain/Sandstorm/Hail are in effect Solar Blade has a Base Power of 2 instead of 5."
+Sonic Boom,Normal,SPECIAL,,0,,SPECIAL,CHANNEL,Single Target,"Sonic Boom deals 2 Normal-Type damage. Ignoring the Target's Defences. Sonic Boom can not be a Critical Hit. Sonic Boom is unaffected by STAB, Super Effective, and Resistance, Immunities still apply. Sonic Boom can not be a Critical Hit. Sonic Boom is unaffected by STAB, Super Effective, and Resistance, Immunities still apply. Sonic Boom can not be Clashed. The User removes 1 Success from the Accuracy Roll."
+Spacial Rend,Dragon,SPECIAL,SPECIAL,4,,SPECIAL,CHANNEL,Single Target,High Critical. The User removes 1 Success from the Accuracy Roll.
+Spark,Electric,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 8 or higher Paralyze the Target.
+Sparkling Aria,Water,SPECIAL,SPECIAL,3,,BEAUTY,PERFORM,Area,"Sound Based. If the Target is Burned, the Target ignores the damage of Sparkling Aria. The Target is cured of Burn."
+Spectral Thief,Ghost,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,"Before the User deals damage, remove all of the Target's Stat increases, and increase the User's Stat with the same increases that were removed from the Target. Decreased Stats remain on the Target."
+Speed Swap,Psychic,SUPPORT,,0,,SPECIAL,CHANNEL,Single Target,The User's Dexterity increases and decreases are swapped with the Target's Dexterity increases and decreases. Speed Swap can not be Evaded and ignores the User's Accuracy decreases.
+Spicy Extract,Grass,SUPPORT,,,,TOUGH,NATURE,Single Target,"Decrease the Target’s Defense by 2, and increase the Target’s Strength by 2. Spicy Extract can not be Evaded and ignores the User's Accuracy decreases."
+Spider Web,Bug,SUPPORT,,0,,SPIRIT,STEALTH,Battlefield,Block.
+Spike Cannon,Normal,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,Ranged. Successive Actions.
+Spikes,Ground,SUPPORT,,0,,CLEVER,NATURE,Battlefield,"Entry Hazard. Foe Pokémon that enter the Battlefield take 1 Neutral damage, this effect stacks up to 3 times. Flying-Type Pokemon, Pokemon with the Ability Levitate, Pokemon holding an Air Ballon, and Pokemon under the effects of Magnet Rise or Telekinesis are unaffected by Spikes."
+Spiky Shield,Grass,SUPPORT,,0,,ENDURANCE,NATURE,User,"Priority +4. Shield Move. Decrease any damage the User would receive from all Actions by a Physical or Special move to zero, and deal 2 neutral Damage to the attacker if it used a non Ranged Physical move. Spiky Shield stops all OHKO moves."
+Spin Out,Steel,PHYSICAL,STRENGTH,4,,DEXTERITY,BRAWL,Single Target,Decrease the User’s Dexterity by 2.
+Spirit Break,Fairy,PHYSICAL,STRENGTH,2,,TOUGH,INTIMIDATE,Single Target,Decrease the Target's Special by 1.
+Spirit Shackle,Ghost,PHYSICAL,STRENGTH,3,,DEXTERITY,STEALTH,Single Target,Block.
+Spit Up,Normal,SPECIAL,SPECIAL,4,,ENDURANCE,NATURE,Single Target,Spit Up’s Base Power is multiplied by the amount times the User has used Stockpile. The User loses all the effects of Stockpile. Spit Up fails if the User is not affected by Stockpile.
+Spite,Ghost,SUPPORT,,0,,WILL,INTIMIDATE,Single Target,"Decrease the Target's Will by 3, Spite can not decrease a Target’s Will past 1. Reset any effects the Target got from spending Will, including Pain Penalties."
+Splash,Normal,SUPPORT,,0,,DEXTERITY,BRAWL,User,-
+Spore,Grass,SUPPORT,,0,,SPECIAL,NATURE,Single Target,The Target is Asleep. Grass-Type Pokemon are Immune.
+Spotlight,Normal,SUPPORT,,0,,COOL,PERFORM,Single Target,Priority +3. The Target redirects all moves from the Target's Foe's Pokemon to Target of Spotlight instead of the intended Targets.
+Springtide Storm,Fairy,SPECIAL,SPECIAL,4,,SPECIAL,CHANNEL,Multiple Targets,On a Chance Dice roll of 8 or higher decrease the Target’s Strength by 1. The User removes 2 Successes from the Accuracy Roll. 
+Stealth Rock,Rock,SUPPORT,,0,,CLEVER,STEALTH,Battlefield,"Entry Hazard. Foe Pokémon that enter the Battlefield take 1 Rock-Type damage, This effect does not stack with itself."
+Steam Eruption,Water,SPECIAL,SPECIAL,4,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 8 or higher Burn the Target. The User removes 1 Success from the Accuracy Roll.
+Steamroller,Bug,PHYSICAL,STRENGTH,2,,ENDURANCE,BRAWL,Single Target,On a Chance Dice roll of 8 or higher Flinch the Target.
+Steel Beam,Steel,SPECIAL,SPECIAL,6,,SPECIAL,CHANNEL,Single Target,"The User receives damage equal to half of the User's Max HP, rounded down."
+Steel Roller,Steel,PHYSICAL,STRENGTH,5,,STRENGTH,NATURE,Single Target,Remove the effects of all Terrains. If there is no Terrain in effect Steel Roller fails. 
+Steel Wing,Steel,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 10 Increase the User’s Defense by 1. The User removes 1 Success from the Accuracy Roll.
+Sticky Web,Bug,SUPPORT,,0,,SPIRIT,NATURE,Battlefield,"Entry Hazard. Decrease the Dexterity of the Foe Pokémon that enter the Battlefield by 1. Flying-Type Pokemon, Pokemon with the Ability Levitate, Pokemon holding an Air Balloon, and Pokemon under the effects of Magnet Rise or Telekinesis are unaffected by this Sticky Web."
+Stockpile,Normal,SUPPORT,,0,,SPIRIT,NATURE,User,Increase the User’s Defense and Special Defense by 1.
+Stomp,Normal,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 8 or higher Flinch the Target.
+Stomping Tantrum,Ground,PHYSICAL,STRENGTH,3,,STRENGTH,BRAWL,Single Target,Add 3 extra dice to the Damage Pool if the User's last Accuracy Roll failed.
+Stone Axe,Rock,PHYSICAL,STRENGTH,3,,STRENGTH,BRAWL,Single Target,High Critical. Set up the effects of Stealth Rock.
+Stone Edge,Rock,PHYSICAL,STRENGTH,4,,STRENGTH,CHANNEL,Single Target,Ranged. High Critical. The User removes 2 Successes from the Accuracy Roll.
+Stored Power,Psychic,SPECIAL,SPECIAL,1,,DEXTERITY,CHANNEL,Single Target,Add 1 Extra Dice to the Damage Pool for each Increased point on the user’s Attributes. (i.e. Clefairy has 1 increased Point in Defense and 1 in Special. Stored Power will have 2 Extra Dice on the Damage Pool). Up to 7 Dice may be added this way.
+Storm Throw,Fighting,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,If the Accuracy Roll is successful Storm Throw becomes a Critical Hit.
+Strange Steam,Fairy,SPECIAL,SPECIAL,3,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 9 or higher Confuse the Target. The User removes 1 Success from the Accuracy Roll.
+Strength,Normal,PHYSICAL,STRENGTH,3,,STRENGTH,BRAWL,Single Target,-
+Strength Sap,Grass,SUPPORT,,0,,SPIRIT,NATURE,Single Target,Decrease the Target's Strength by 1. The User restores HP equal to the Target's Strength before Strength Sap's Strength decrease. 
+String Shot,Bug,SUPPORT,,0,,SPIRIT,NATURE,Multiple Targets,Decrease the Target's Dexterity by 2.
+Struggle Bug,Bug,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Multiple Targets,Decrease the Target's Special by 1.
+Stuff Cheeks,Normal,SUPPORT,,0,,CLEVER,NATURE,User,The User consumes its Held Berry and gains the Held Berry's effects. Increase User’s Defense by 2.
+Stun Spore,Grass,SUPPORT,,0,,SPECIAL,NATURE,Single Target,The Target is Paralyzed. Grass-Type Pokemon are Immune to Stun Spore. The User removes 2 Successes from the Accuracy Roll.
+Submission,Fighting,PHYSICAL,STRENGTH,3,,STRENGTH,ATHLETICS,Single Target,Recoil Move. The User receives 2 Neutral damage. The User removes 2 Successes from the Accuracy Roll.
+Substitute,Normal,SUPPORT,,0,,CLEVER,STEALTH,User,"The User receives 2 Neutral damage and places a Substitute with 3 HP on the Battlefield with the User's Defenses. If the Substitute's HP is depleted, it disappears and the Ally can be targeted again. The Substitute can only be affected by Physical and Special moves, additonal effects do not affect the Substitute. "
+Sucker Punch,Dark,PHYSICAL,STRENGTH,3,,DEXTERITY,STEALTH,Single Target,"Priority +1. Sucker Punch can only be used after the Target rolls a Physical or Special move. The Target can not Evade or Clash Sucker Punch, other Pokemon may still Clash Sucker Punch for the Target."
+Sunny Day,Fire,SUPPORT,,0,,SPIRIT,NATURE,Battlefield,Begin the effects of Sunny Weather. Lasts for 5 Turns.
+Sunsteel Strike,Steel,PHYSICAL,STRENGTH,4,,STRENGTH,BRAWL,Single Target,Sunsteel Strike ignores the effects of the Target's Ability.
+Super Fang,Normal,SUPPORT,,0,,DEXTERITY,BRAWL,Single Target,"The User deals damage equal to half of the Target's remaining HP, Turned up. If the remaining HP of the Target is 1, Super Fang fails. Ignore the Target's Defenses. Super Fang can not be a Critical Hit, and is unaffected by STAB. Super Fang is not affected by Weakness, or Resistance, Immunities still apply. Super Fang can not be Clashed. The User removes 1 Success from the Accuracy Roll."
+Superpower,Fighting,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Single Target,Decrease the User’s Strength and Defense by 1.
+Supersonic,Normal,SUPPORT,,0,,TOUGH,CHANNEL,Single Target,Sound Based. The Target is Confused. The User removes 4 Successes from the Accuracy Roll.
+Surf,Water,SPECIAL,SPECIAL,3,,DEXTERITY,CHANNEL,Area,Add 2 extra damage dice to the Damage Pool if the Target is charging the move Dive.
+Swagger,Normal,SUPPORT,,0,,TOUGH,INTIMIDATE,Single Target,Increase the Target's Strength by 2. The Target is Confused. The User removes 1 Success from the Accuracy Roll.
+Swallow,Normal,SUPPORT,,0,,ENDURANCE,NATURE,User,The User restores 1 HP if the User is under the effects of one Stockpile. The User restores 3 HP if the User is under the effects of two Stockpiles. The User restores 5 HP if the User is under the effects of three Stockpiles. The User loses all the effects of Stockpile. Swallow fails if the User is not affected by Stockpile.
+Sweet Kiss,Fairy,SUPPORT,,0,,CUTE,ALLURE,Single Target,The Target is Confused. The User removes 2 Successes from the Accuracy Roll.
+Sweet Scent,Normal,SUPPORT,,0,,SPECIAL,NATURE,Multiple Targets,Decrease the Target's Evasion by 2.
+Swift,Normal,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Multiple Targets,Swift can not be Evaded and ignores the User's Accuracy decreases.
+Switcheroo,Dark,SUPPORT,,0,,SPIRIT,STEALTH,Single Target,"The User and the Target switch their Held Items. If only one Pokémon is holding an Item, the other Pokemon receives nothing."
+Swords Dance,Normal,SUPPORT,,0,,DEXTERITY,PERFORM,User,Increase the User’s Strength by 2.
+Synchronoise,Psychic,SPECIAL,SPECIAL,5,,SPECIAL,PERFORM,Area,"Sound Based. Synchronoise can only damage Allies and Foes that share at least one Type with the User. If the User has multiple Types, any Allies and Foes that has any of those types will be damaged. "
+Synthesis,Grass,SUPPORT,,0,,BEAUTY,NATURE,User,The User restores 3 HP. If Synthesis is performed under the effects of Sunny Weather the User restores 4 HP instead. If Synthesis is performed under the effects of Rain/Sandstorm/Hail Synthesis restores 2 HP instead.
+Tackle,Normal,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,-
+Tail Glow,Bug,SUPPORT,,0,,SPIRIT,NATURE,User,Increase the User’s Special by 3.
+Tail Slap,Normal,PHYSICAL,STRENGTH,1,,STRENGTH,BRAWL,User,Successive Actions. The User removes 1 Success from the Accuracy Roll.
+Tail Whip,Normal,SUPPORT,,0,,CUTE,PERFORM,Multiple Targets,Decrease the Target’s Defense by 1.
+Tailwind,Flying,SUPPORT,,0,,SPIRIT,NATURE,Battlefield,Increase the User's and Allies' Dexterity by 2. Lasts for 5 Turns.
+Take Down,Normal,PHYSICAL,STRENGTH,3,,STRENGTH,BRAWL,Single Target,Recoil Move. The User receives 2 Neutral damage. The User removes 1 Success from the Accuracy Roll.
+Take Hearts,Psychic,SPECIAL,SPECIAL,2,,CUTE,ALLURE,Single Target,The Ally is cured from all Status Conditions. Increase the Ally's Strength and Defense by 1.
+Tar Shot,Rock,SUPPORT,,0,,SPECIAL,CHANNEL,Single Target,Decrease the Target’s Dexterity by 1. Physical and Special Fire-Type moves deal Super Effective damage against the Target as long as the Target stays on the Battlefield.
+Taunt,Dark,SUPPORT,,0,,CUTE,INTIMIDATE,Single Target,The Target can not perform Support moves for the next 5 Turns.
+Tearful Look,Normal,SUPPORT,,0,,CUTE,ALLURE,Single Target,Decrease Target’s Strength and Special by 1. Tearful Look can not be Evaded and ignores the User's Accuracy decreases.
+Teatime,Normal,SUPPORT,,0,,SPIRIT,ETIQUETTE,Area,The Target consumes its Held Berry without gaining the Held Berry's effects.
+Techno Blast,Normal,SPECIAL,SPECIAL,5,,SPECIAL,CHANNEL,Single Target,"Techno Blast's Type will change to: Fire, Ice, Water, or Electric depending on the Driver the User has as a Held Item. Techno Blast fails if the User is not Genesect."
+Teeter Dance,Normal,SUPPORT,,0,,DEXTERITY,PERFORM,Area,The Target is Confused.
+Telekinesis,Psychic,SUPPORT,,0,,SPECIAL,CHANNEL,Single Target,The Target is Immune to Ground-Type moves. While effected by Telekinesis the Target can not Evade. Telekinesis can not be Evaded and ignores the User's Accuracy decreases. Lasts for 2 Turns. 
+Teleport,Psychic,SUPPORT,,0,,SPECIAL,CHANNEL,Single Target,User Switcher Move.
+Tera Blast (Physical),Normal,PHYSICAL,STRENGTH,3,,SPIRIT,NATURE,Single Target,"If the User has Terastallized, the User can add either the User's Strength or Special to the Damage Pool of Tera Blast. If Tera Blast uses Strength, Tera Blast makes contact and is Physical. If Tera Blast is Special based, Tera Blast is ranged and is Special. The Typing of Tera Blast changes to the Type the User has Terastallized into, if the User has not Terastallized, Tera Blast is Normal."
+Tera Blast (Special),Normal,SPECIAL,SPECIAL,3,,SPIRIT,NATURE,Single Target,"If the User has Terastallized, the User can add either the User's Strength or Special to the Damage Pool of Tera Blast. If Tera Blast uses Strength, Tera Blast makes contact and is Physical. If Tera Blast is Special based, Tera Blast is ranged and is Special. The Typing of Tera Blast changes to the Type the User has Terastallized into, if the User has not Terastallized, Tera Blast is Normal."
+Terrain Pulse,Normal,SPECIAL,SPECIAL,2,,SPIRIT,NATURE,Single Target,Add 2 extra dice to the Damage Pool if there is a Terrain in effect. Terrain Pulse’s Type changes to match the Type of the Terrain.
+Thief,Dark,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,The User steals the Target's Held Item.
+Thousand Arrows,Ground,PHYSICAL,STRENGTH,3,,STRENGTH,CHANNEL,Multiple Targets,"Ranged. Thousand Arrows can target Flying-Type Pokemon, Pokemon with the Ability Levitate, Pokemon holding an Air Ballon, and Pokemon under the effects of Magnet Rise or Telekinesis . If the Target is Immune to Ground-Type moves, the Target loses its Immunity to Ground-Type moves until they leave the Battlefield."
+Thousand Waves,Ground,PHYSICAL,STRENGTH,3,,SPECIAL,BRAWL,Multiple Targets,Ranged. Block.
+Thrash,Normal,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Random Foe,Rampage. Thrash targets a random Foe.
+Throat Chop,Dark,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,The Target can not perform any Sound Based moves for as long as they stay on the Battlefield.
+Thunder,Electric,SPECIAL,SPECIAL,5,,SPECIAL,CHANNEL,Single Target,"On a Chance Dice roll of 8 or higher Paralyze the Target. If Rain is in effect, Thunder can not be Evaded, ignores the User's Accuracy decreases, and ignore Thunder's removed successes. If Sunny Weather is in effect, the User removes 2 additional Successes from Thunder's Accuracy Roll. Thunder can still target Pokemon that are charging the moves Fly, Bounce, and Sky Drop. The User removes 3 Successes from the Accuracy Roll."
+Thunder Cage,Electric,SPECIAL,SPECIAL,3,,DEXTERITY,STEALTH,Single Target,"Deal 1 Neutral damage at the end of the Turn. This effect does not stack with other similar moves. Lasts for 5 Turns, unless the User is switched."
+Thunder Fang,Electric,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 10 Flinch the Target. On a Chance Dice roll of 10 Paralyze the Target. The User removes 1 Success from the Accuracy Roll.
+Thunder Punch,Electric,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Fist Based. On a Chance Dice roll of 10 Paralyze the Target. 
+Thunder Shock,Electric,SPECIAL,SPECIAL,2,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 10 Paralyze the Target.
+Thunder Wave,Electric,SUPPORT,,0,,SPIRIT,NATURE,Single Target,The Target is Paralyzed. Ground-Type Pokemon are Immune. The User removes 1 Success from the Accuracy Roll. 
+Thunderbolt,Electric,SPECIAL,SPECIAL,3,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 10 Paralyze the Target.
+Thunderous Kick,Fighting,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Decrease the Target's Physical Defense by 1
+Tickle,Normal,SUPPORT,,0,,CUTE,ALLURE,Single Target,Decrease the Target’s Strength and Defense by 1.
+Tidy Up,Normal,SUPPORT,,,,BEAUTY,ETIQUETTE,User,"Increase the User’s Strength and Dexterity by 1. Remove all Entry Hazards (Spikes, Stealth Rock, etc.) and any Substitutes from both sides of the Battlefield."
+Topsy-Turvy,Dark,SUPPORT,,0,,CLEVER,NATURE,Single Target,"If the Target has any increased Stats, they become decreases instead. If the Target has any decreased Stats, they become increases instead. Topsy-Turvy can not be Evaded and ignores the User's Accuracy decreases."
+Torch Song,Fire,SPECIAL,SPECIAL,3,,SPECIAL,PERFORM,Single Target,Increase the User’s Special by 1.
+Torment,Dark,SUPPORT,,0,,TOUGH,INTIMIDATE,Single Target,"The Target can not perform the same moves the Target used during the last Turn, this includes moves used for Clashing. Struggle is not affected. Lasts for 5 Rounds."
+Toxic,Poison,SUPPORT,,0,,SPECIAL,CHANNEL,Single Target,"The Target is Badly Poisoned. If the User is a Poison-Type, Toxic can not be Evaded, ignores the User's Accuracy decreases, and ignore Toxic's removed success. The User removes 1 Success from the Accuracy Roll. "
+Toxic Spikes,Poison,SUPPORT,,0,,CLEVER,STEALTH,Battlefield,"Entry Hazard. The Foe Pokémon that enter the Battlefield are Poisoned. If the effects of Toxic Spikes are already on the Battlefield and Toxic Spikes is used again, any Foe Pokemon that enter the Battlefield become Badly Poisoned instead. When a Poison Type Pokemon enters the Battlefield, and is affected by Toxic Spikes, remove Toxic Spikes from that Pokemon’s side of the Battlefield. Flying-Type Pokemon, Pokemon with the Ability Levitate, Pokemon holding an Air Balloon, and Pokemon under the effects of Magnet Rise or Telekinesis are unaffected by Toxic Spikes."
+Toxic Thread,Poison,SUPPORT,,0,,DEXTERITY,CHANNEL,Single Target,The Target is Poisoned. Decrease the Target's Dexterity by 1.
+Trailblaze,Grass,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,Increase the User’s Dexterity by 1.
+Transform,Normal,SUPPORT,,0,,WILL,CHANNEL,User,"The User transforms into a copy of the Target with the same Ability, Stats, Stat increases, Stat decreases, and Moves. Remove all Stat increases and decreases from the User. The User's HP stays the same. The User keeps all Status Conditions, and Ailments the User had before the User transformed. This effect last for as long as the User is on the Battlefield."
+Tri Attack,Normal,SPECIAL,SPECIAL,3,,DEXTERITY,CHANNEL,Single Target,On a Chance Dice roll of 9 or higher Paralyze the Target. On a Chance Dice roll of 9 or higher Apply Burn to the Target. On a Chance Dice roll of 9 or higher Frostbite the Target. Tri Attack's Chance Dice are always rolled in the same order.
+Trick,Psychic,SUPPORT,,0,,CUTE,ALLURE,Single Target,The User's Held Item is swapped with the Target's Held Item.
+Trick Room,Psychic,SUPPORT,,0,,CLEVER,ETIQUETTE,Battlefield,"Invert the Initiative order. If Trick Room is used again while the effects are already active, the effects end early. Lasts for 5 Turns."
+Trick-or-Treat,Ghost,SUPPORT,,0,,WILL,ALLURE,Single Target,"Add the Ghost-Type to the Target's Type. (Ie. Meowth will be Normal/Ghost, Charizard will be Fire/Flying/Ghost) If the Pokémon already has a third type, replace it with Ghost."
+Triple Arrow,Fighting,PHYSICAL,STRENGTH,3,,DEXTERITY,STEALTH,Single Target,High Critical. On a Chance Dice roll of 8 or higher Flinch the Target. On a Chance Dice roll of 6 or higher decrease the Target’s Defense by 1.
+Triple Axel,Ice,PHYSICAL,STRENGTH,1,,STRENGTH,PERFORM,Single Target,Triple Action. Every Action after the first success gains 1 extra damage dice to the Damage Pool.  Accuracy -1
+Triple Dive,Water,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,Triple Action.
+Triple Kick,Fighting,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,Successive Actions. Add 1 Extra Dice to the Damage Pool to the last kick performed. The User removes 1 Success from the Accuracy Roll.
+Trop Kick,Grass,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Decrease Target’s Strength by 1.
+Trump Card,Normal,SPECIAL,SPECIAL,2,,WILL,CHANNEL,Single Target,"Add 1 extra dice to the Damage Roll if the User is at half Will, rounded down. Add 8 extra dice to the Damage Pool if the User's Will is at 0. Trump Card can not be Evaded and ignores the User's Accuracy decreases."
+Twin Beam,Psychic,SPECIAL,SPECIAL,2,,SPIRIT,CHANNEL,Single Target,Double Action.
+Twineedle,Bug,PHYSICAL,STRENGTH,1,,DEXTERITY,BRAWL,Single Target,Ranged. Double Action. On a Chance Dice roll of 9 or higher Poison the Target.
+Twister,Dragon,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Multiple Targets,"On a Chance Dice roll of 9 or higher Flinch the Targets. Twister can still target Pokemon that are charging the moves Fly, Bounce, and Sky Drop. Double the Base Power of Twister if the Target is charging Fly, Bounce, or Sky Drop. "
+U-Turn,Bug,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,User Switcher Move.
+Uproar,Normal,SPECIAL,SPECIAL,3,,TOUGH,CHANNEL,Random Foe,Sound Based. All Pokémon on the Battlefield can not be affected by Sleep. If a Pokémon is Asleep that Pokemon will wake up. Lasts for 1 Turn.
+V-Create,Fire,PHYSICAL,STRENGTH,7,,STRENGTH,BRAWL,Single Target,"Decrease the User's Dexterity, Defense, and Special Defense by 1. The User removes 1 Success from the Accuracy Roll."
+Vacuum Wave,Fighting,SPECIAL,SPECIAL,2,,SPIRIT,CHANNEL,Single Target,Priority +1.
+Venom Drench,Poison,SUPPORT,,0,,SPECIAL,CHANNEL,Multiple Targets,"If the Target is effected by Poison, or Badly Poison, decrease the Target's Strength, Special and Dexterity by 1."
+Venoshock,Poison,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,"Add 3 Extra Dice to the Damage Pool If the Target is effected by Poison, or Badly Poisoned."
+Vice Grip,Normal,PHYSICAL,STRENGTH,2,,STRENGTH,BRAWL,Single Target,-
+Victory Dance,Fighting,SUPPORT,,,,COOL,PERFORM,User,"Increase the User's Strength, Dexterity, and Defense by 1."
+Vine Whip,Grass,PHYSICAL,STRENGTH,2,,STRENGTH,BRAWL,Single Target,-
+Vital Throw,Fighting,PHYSICAL,STRENGTH,2,,DEXTERITY,ALERT,Single Target,Priority -1. Vital Throw can not be Evaded and ignores the User's Accuracy decreases.
+Volt Switch,Electric,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,User Switcher Move.
+Volt Tackle,Electric,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Single Target,Recoil Move. On a Chance Dice roll of 10 Paralyze the Target. The User receives 3 Neutral damage. 
+Wake-Up Slap,Fighting,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Add 3 extra dice to the Damage Pool if the Target is Asleep. The Target immediately wakes up.
+Water Gun,Water,SPECIAL,SPECIAL,2,,SPECIAL,CHANNEL,Single Target,-
+Water Pledge,Water,SPECIAL,SPECIAL,3,,WILL,NATURE,Single Target,All Chance Dice are rolled twice. Lasts for 5 Turns.
+Water Pulse,Water,SPECIAL,SPECIAL,2,,SPIRIT,CHANNEL,Single Target,On a Chance Dice roll of 8 or higher Confuse the Target.
+Water Shuriken,Water,PHYSICAL,STRENGTH,1,,DEXTERITY,CHANNEL,Single Target,Priority +1. Ranged. Successive Actions.
+Water Sport,Water,SUPPORT,,0,,SPECIAL,CHANNEL,Battlefield,All Fire-Type moves can not add their Base Power to the Damage Pool. Lasts for 5 Turns.
+Water Spout,Water,SPECIAL,SPECIAL,6,,SPECIAL,CHANNEL,Multiple Targets,Decrease 1 dice from the Damage Pool for every missing HP the User has. Up to 5 dice may be removed this way.
+Waterfall,Water,PHYSICAL,STRENGTH,3,,STRENGTH,BRAWL,Single Target,On a Chance Dice roll of 8 or higher Flinch the Target.
+Wave Crash,Water,SPECIAL,STRENGTH,5,,ENDURANCE,BRAWL,Single Target,Recoil Move. The User receives 3 Neutral damage. 
+Weather Ball,Normal,SPECIAL,SPECIAL,2,,SPECIAL,NATURE,Single Target,Add 2 extra dice to the Damage Roll if a Weather is in effect. Weather Ball's Typing changes based on the Weather. Weather Ball's Type is Fire under the effects of Sunny Weather. Weather Ball's Type is Water under the effects of Rain. Weather Ball's Type is Ice under the effects of Hail. Weather Ball's Type is Rock under the effects of Sandstorm. Weather Ball's Type is Normal under the effects of all other Weathers.
+Whirlpool,Water,SPECIAL,SPECIAL,2,,DEXTERITY,CHANNEL,Single Target,"Block. Deal 1 Neutral damage at the end of the Turn. This effect does not stack with other similar moves. Add 2 extra damage dice to the Damage Pool if the Target is charging the move Dive. Lasts for 5 Turns, unless the user swaps out. The User removes 1 Success from the Accuracy Roll."
+Whirlwind,Normal,SUPPORT,,0,,DEXTERITY,NATURE,Single Target,Priority -6. Target Switcher Move. Whirlwind can not be Evaded and ignores the User's Accuracy decreases.
+Wicked Blow,Dark,PHYSICAL,STRENGTH,3,,STRENGTH,BRAWL,Single Target,Fist Based. Wicked Blow is always a Critical Hit. 
+Wide Guard,Rock,SUPPORT,,0,,ENDURANCE,BRAWL,User and Allies,"Priority +3. Shield Move. Decrease any damage the User and Allies would receive from all Actions by a Physical or Special Multiple Targets, and Area move to zero."
+Wild Charge,Electric,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,Recoil Move. The User receives 2 Neutral damage. 
+Wildbolt Storm,Electric,SPECIAL,SPECIAL,4,,SPECIAL,CHANNEL,Single Target,On a Chance Dice roll of 9 or higher Paralyze the Target. The User removes 2 Successes from the Accuracy Roll.
+Will-O-Wisp,Fire,SUPPORT,,0,,SPIRIT,NATURE,Single Target,The Target is Burned. The User removes 1 Success from the Accuracy Roll.
+Wing Attack,Flying,PHYSICAL,STRENGTH,2,,DEXTERITY,BRAWL,Single Target,-
+Wish,Normal,SUPPORT,,0,,WILL,CHANNEL,User,"The User restores 3 HP. The User will gain the effects of Wish at the start of the next Turn. If the User faints or is swapped before Wish's effects activate, the swapped Pokemon will restore 3 HP at the start of the next Turn instead."
+Withdraw,Water,SUPPORT,,0,,ENDURANCE,BRAWL,User,Increase the User's Defense by 1.
+Wonder Room,Psychic,SUPPORT,,0,,COOL,ETIQUETTE,Battlefield,"Defense will be calculated with Insight instead of Vitality, Special Defense will be calculated with Vitality instead of Insight. If Wonder Room is used again while the effects are already active, the effects end early. Lasts for 5 Turns."
+Wood Hammer,Grass,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Single Target,Recoil Move. The User receives 3 Neutral damage. 
+Work Up,Normal,SUPPORT,,0,,STRENGTH,ATHLETICS,User,Increase the User’s Strength and Special by 1.
+Worry Seed,Grass,SUPPORT,,0,,SPECIAL,NATURE,Single Target,The Target’s Ability is Insomnia as long as the Target is on the Battlefield.
+Wrap,Normal,PHYSICAL,STRENGTH,1,,STRENGTH,BRAWL,Single Target,"Block. Deal 1 Neutral damage at the end of the Turn. This effect does not stack with other similar moves. Lasts for 5 Turns, unless the User is switched. The User removes 1 Success from the Accuracy Roll."
+Wring Out,Normal,PHYSICAL,STRENGTH,5,,STRENGTH,BRAWL,Single Target,Decrease 1 dice from the Damage Pool for every missing HP on the Target. Up to 4 Dice may be removed this way.
+X-Scissor,Bug,PHYSICAL,STRENGTH,3,,STRENGTH,BRAWL,Single Target,-
+Yawn,Normal,SUPPORT,,0,,CLEVER,ALLURE,Single Target,The Target is Asleep if the Target is not removed from the Battlefield by the end of the next Turn. Yawn can not be Evaded and ignores the User's Accuracy decreases.
+Zap Cannon,Electric,SPECIAL,SPECIAL,5,,SPECIAL,CHANNEL,Single Target,The Target is Paralyzed. The User removes 5 Successes from the Accuracy Roll.
+Zen Headbutt,Psychic,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 9 or higher Flinch the Target. The User removes 1 Success from the Accuracy Roll.
+Zing Zap ,Electric,PHYSICAL,STRENGTH,3,,DEXTERITY,BRAWL,Single Target,On a Chance Dice roll of 10 Flinch the Target.

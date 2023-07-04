@@ -1,0 +1,1208 @@
+Number,Species,Type 1,Type 2,Base HP,Base Str,Dot Str,Base Dex,Dot Dex,Base End,Dot End,Base Sp,Dot Sp,Base Spirit,Dot Spirit,ABILITY 1,ABILITY 2,H.ABILITY,Evolves From,Evolution Method,Height,Weight
+1,Bulbasaur,Grass,Poison,4,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Overgrow,,Chlorophyll,,,0.7,6.9
+2,Ivysaur,Grass,Poison,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Overgrow,,Chlorophyll,Bulbasaur,Amateur Rank,1,13
+3,Venusaur,Grass,Poison,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Overgrow,,Chlorophyll,Ivysaur,Ace Rank,2,100
+3,Mega Venusaur,Grass,Poison,8,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Thick Fat,,,,,2.4,155.5
+4,Charmander,Fire,,3,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,Blaze,,Solar Power,,,0.6,8.5
+5,Charmeleon,Fire,,5,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Blaze,,Solar Power,Charmander,Amateur Rank,1.1,19
+6,Charizard,Fire,Flying,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Blaze,,Solar Power,Charmeleon,Ace Rank,1.7,90.5
+6,Mega Charizard X,Fire,Dragon,7,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Tough Claws,,,,,1.7,110.5
+6,Mega Charizard Y,Fire,Flying,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Drought,,,,,1.7,100.5
+7,Squirtle,Water,,4,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Torrent,,Rain Dish,,,0.5,9
+8,Wartortle,Water,,5,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Torrent,,Rain Dish,Squirtle,Amateur Rank,1,22.5
+9,Blastoise,Water,,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Torrent,,Rain Dish,Wartortle,Ace Rank,1.6,85.5
+9,Mega Blastoise,Water,,7,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Mega Launcher,,,,,1.6,101.1
+10,Caterpie,Bug,,4,1,⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Shield Dust,,Run Away,,,0.3,2.9
+11,Metapod,Bug,,5,1,⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Shed Skin,,,Caterpie,Beginner Rank,0.7,9.9
+12,Butterfree,Bug,Flying,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Compound Eyes,,Tinted Lens,Metapod,Amateur Rank,1.1,32
+12,Mega Butterfree,Bug,Flying,6,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Compound Eyes,,,,,1.1,32
+13,Weedle,Bug,Poison,4,1,⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Shield Dust,,Run Away,,,0.3,3.2
+14,Kakuna,Bug,Poison,4,1,⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Shed Skin,,,Weedle,Beginner Rank,0.6,10
+15,Beedrill,Bug,Poison,6,3,⬤⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,Swarm,,Sniper,Kakuna,Amateur Rank,1,29.5
+15,Mega Beedrill,Bug,Poison,6,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,1,⬤,1,⬤,3,⬤⬤⬤,Adaptability,,,,,1.4,40.5
+16,Pidgey,Normal,Flying,4,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Keen Eye,Tangled Feet,Big Pecks,,,0.3,1.8
+17,Pidgeotto,Normal,Flying,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Keen Eye,Tangled Feet,Big Pecks,Pidgey,Amateur Rank,1.1,30
+18,Pidgeot,Normal,Flying,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Keen Eye,Tangled Feet,Big Pecks,Pidgeotto,Ace Rank,1.5,39.5
+18,Mega Pidgeot,Normal,Flying,8,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,No Guard,,,,,2.2,50.5
+19,Rattata,Normal,,3,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Run Away,Guts,Hustle,,,0.3,3.5
+19,Alolan Rattata,Dark,Normal,3,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Gluttony,Hustle,Thick Fat,,,0.3,3.8
+20,Raticate,Normal,,5,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Run Away,Guts,Hustle,Rattata,Amateur Rank,0.7,18.5
+20,Alolan Raticate,Dark,Normal,7,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,3,⬤⬤⬤,Gluttony,Hustle,Thick Fat,Rattata-Alolan,Amateur Rank,0.7,25.5
+21,Spearow,Normal,Flying,4,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Keen Eye,,Sniper,,,0.3,2
+22,Fearow,Normal,Flying,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Keen Eye,,Sniper,Spearow,Amateur Rank,1.2,38
+23,Ekans,Poison,,3,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,2,⬤⬤,Intimidate,Shed Skin,Unnerve,,,2,6.9
+24,Arbok,Poison,,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Intimidate,Shed Skin,Unnerve,Ekans,Amateur Rank,3.5,65
+25,Pikachu,Electric,,3,2,⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,Static,,Lightning Rod,,Max Friendship,0.4,6
+25,Mega Pikachu,Electric,,3,3,⬤⬤⬤,4,⬤⬤⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,Transistor,,,,,0.4,12
+26,Raichu,Electric,,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Static,,Lightning Rod,Pikachu,Thunder Stone,0.8,30
+26,Alolan Raichu,Electric,Psychic,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Surge Surfer,,,Pikachu,Thunder Stone,0.7,21
+27,Sandshrew,Ground,,5,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,1,⬤,Sand Veil,,Sand Rush,,,0.6,12
+27,Alolan Sandshrew,Ice,Steel,5,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,1,⬤,Snow Cloak,,Slush Rush,,,0.7,40
+28,Sandslash,Ground,,7,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Sand Veil,,Sand Rush,Sandshrew,Amateur Rank,1,29.5
+28,Alolan Sandslash,Ice,Steel,7,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,1,⬤,2,⬤⬤,Snow Cloak,,Slush Rush,Sandshrew,Ice Stone,1.2,55
+29,Nidoran♀,Poison,,5,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Poison Point,Rivalry,Hustle,,,0.4,7
+30,Nidorina,Poison,,7,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Poison Point,Rivalry,Hustle,Nidoran♀,Amateur Rank,0.8,20
+31,Nidoqueen,Poison,Ground,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Poison Point,Rivalry,Sheer Force,Nidorina,Moon Stone,1.3,60
+32,Nidoran♂,Poison,,4,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Poison Point,Rivalry,Hustle,,,0.5,9
+33,Nidorino,Poison,,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Poison Point,Rivalry,Hustle,Nidoran♂,Amateur Rank,0.9,19.5
+34,Nidoking,Poison,Ground,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Poison Point,Rivalry,Sheer Force,Nidorino,Moon Stone,1.4,62
+35,Clefairy,Fairy,,7,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Cute Charm,Magic Guard,Friend Guard,,Max Friendship,0.6,7.5
+36,Clefable,Fairy,,9,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Cute Charm,Magic Guard,Unaware,Clefairy,Moon Stone,1.3,40
+37,Vulpix,Fire,,3,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,Flash Fire,,Drought,,,0.6,9.9
+37,Alolan Vulpix,Ice,,3,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,Snow Cloak,,Snow Warning,,,0.6,9.9
+38,Ninetales,Fire,,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Flash Fire,,Drought,Vulpix,Fire Stone,1.1,19.9
+38,Alolan Ninetales,Ice,Fairy,7,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Snow Cloak,,Snow Warning,Vulpix-Alolan,Ice Stone,1.1,19.9
+39,Jigglypuff,Normal,Fairy,11,2,⬤⬤,1,⬤,1,⬤,2,⬤⬤,1,⬤,Cute Charm,Competitive,Friend Guard,,Max Friendship,0.5,5.5
+40,Wigglytuff,Normal,Fairy,14,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Cute Charm,Competitive,Frisk,Jigglypuff,Moon Stone,1,12
+41,Zubat,Poison,Flying,4,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Inner Focus,,Infiltrator,,,0.8,7.5
+42,Golbat,Poison,Flying,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Inner Focus,,Infiltrator,Zubat,Amateur Rank,1.6,55
+43,Oddish,Grass,Poison,4,2,⬤⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Chlorophyll,,Run Away,,,0.5,5.4
+44,Gloom,Grass,Poison,6,2,⬤⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Chlorophyll,,Stench,Oddish,Amateur Rank,0.8,8.6
+45,Vileplume,Grass,Poison,7,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Chlorophyll,,Effect Spore,Gloom,Leaf Stone,1.2,18.6
+46,Paras,Bug,Grass,3,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Effect Spore,Dry Skin,Damp,,,0.3,5.4
+47,Parasect,Bug,Grass,6,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Effect Spore,Dry Skin,Damp,Paras,Amateur Rank,1,29.5
+48,Venonat,Bug,Poison,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Compound Eyes,Tinted Lens,Run Away,,,1,30
+49,Venomoth,Bug,Poison,7,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Shield Dust,Tinted Lens,Wonder Skin,Venonat,Ace Rank,1.5,12.5
+50,Diglett,Ground,,1,2,⬤⬤,3,⬤⬤⬤,1,⬤,1,⬤,2,⬤⬤,Sand Veil,Arena Trap,Sand Force,,,0.2,0.8
+50,Alolan Diglett,Ground,Steel,1,2,⬤⬤,3,⬤⬤⬤,1,⬤,1,⬤,2,⬤⬤,Sand Veil,Tangling Hair,Sand Force,,,0.2,1
+51,Dugtrio,Ground,,3,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Sand Veil,Arena Trap,Sand Force,Diglett,Amateur Rank,0.7,33.3
+51,Alolan Dugtrio,Ground,Steel,3,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Sand Veil,Tangling Hair,Sand Force,Diglett-Alolan,Amateur Rank,0.7,66.6
+52,Meowth,Normal,,4,2,⬤⬤,3,⬤⬤⬤,1,⬤,1,⬤,1,⬤,Pickup,Technician,Unnerve,,,0.4,4.2
+52,Alolan Meowth,Dark,,4,1,⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,1,⬤,Pickup,Technician,Rattled,,,0.4,4.2
+52,Galarian Meowth,Steel,,5,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Pickup,Tough Claws,Unnerve,,,0.4,7.5
+52,Mega Meowth,Normal,Steel,4,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Good as Gold,,,,,1.4,4.2
+53,Persian,Normal,,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Limber,Technician,Unnerve,Meowth,Amateur Rank,1,32
+53,Alolan Persian,Dark,,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Fur Coat,Technician,Rattled,Meowth-Alolan,Max Friendship,1.1,33
+54,Psyduck,Water,,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Damp,Cloud Nine,Swift Swim,,,0.8,19.6
+55,Golduck,Water,,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Damp,Cloud Nine,Swift Swim,Psyduck,Ace Rank,1.7,76.6
+56,Mankey,Fighting,,4,3,⬤⬤⬤,2,⬤⬤,1,⬤,1,⬤,2,⬤⬤,Vital Spirit,Anger Point,Defiant,,,0.5,28
+57,Primeape,Fighting,,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Vital Spirit,Anger Point,Defiant,Mankey,Amateur Rank,1,32
+58,Growlithe,Fire,,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Intimidate,Flash Fire,Justified,,,0.7,19
+58,Hisuian Growlithe,Fire,Rock,6,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Intimidate,Flash Fire,Rock Head,,,0.8,22.7
+59,Arcanine,Fire,,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Intimidate,Flash Fire,Justified,Growlithe,Fire Stone,1.9,155
+59,Hisuian Arcanine,Fire,Rock,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Intimidate,Flash Fire,Rock Head,Growlithe,Fire Stone,2,168
+60,Poliwag,Water,,4,2,⬤⬤,3,⬤⬤⬤,1,⬤,1,⬤,1,⬤,Water Absorb,Damp,Swift Swim,,,0.6,12.4
+61,Poliwhirl,Water,,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Water Absorb,Damp,Swift Swim,Poliwag,Amateur Rank,1,20
+62,Poliwrath,Water,Fighting,9,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Water Absorb,Damp,Swift Swim,Poliwhirl,Water Stone,1.3,54
+63,Abra,Psychic,,2,1,⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,Synchronize,Inner Focus,Magic Guard,,,0.9,19.5
+64,Kadabra,Psychic,,4,1,⬤,3,⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,2,⬤⬤,Synchronize,Inner Focus,Magic Guard,Abra,Amateur Rank,1.3,56.5
+65,Alakazam,Psychic,,5,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Synchronize,Inner Focus,Magic Guard,Kadabra,Link Cable,1.5,48
+65,Mega Alakazam,Psychic,,5,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Trace,,,,,1.2,48
+66,Machop,Fighting,,7,3,⬤⬤⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Guts,No Guard,Steadfast,,,0.8,19.5
+67,Machoke,Fighting,,8,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Guts,No Guard,Steadfast,Machop,Amateur Rank,1.5,70.5
+68,Machamp,Fighting,,9,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Guts,No Guard,Steadfast,Machoke,Link Cable,1.6,130
+68,Mega Machamp,Fighting,,9,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Iron Fist,,,,,1.6,130
+69,Bellsprout,Grass,Poison,5,3,⬤⬤⬤,1,⬤,1,⬤,2,⬤⬤,1,⬤,Chlorophyll,,Gluttony,,,0.7,4
+70,Weepinbell,Grass,Poison,6,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Chlorophyll,,Gluttony,Bellsprout,Amateur Rank,1,6.4
+71,Victreebel,Grass,Poison,8,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Chlorophyll,,Gluttony,Weepinbell,Leaf Stone,1.7,15.5
+72,Tentacool,Water,Poison,4,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,Clear Body,Liquid Ooze,Rain Dish,,,0.9,45.5
+73,Tentacruel,Water,Poison,8,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Clear Body,Liquid Ooze,Rain Dish,Tentacool,Ace Rank,1.6,55
+74,Geodude,Rock,Ground,4,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,1,⬤,Rock Head,Sturdy,Sand Veil,,,0.4,20
+74,Alolan Geodude,Rock,Electric,4,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,1,⬤,Magnet Pull,Sturdy,Galvanize,,,0.4,20.3
+75,Graveler,Rock,Ground,5,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Rock Head,Sturdy,Sand Veil,Geodude,Amateur Rank,1,105
+75,Alolan Graveler,Rock,Electric,5,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Magnet Pull,Sturdy,Galvanize,Geodude-Alolan,Amateur Rank,1,110
+76,Golem,Rock,Ground,8,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,Rock Head,Sturdy,Sand Veil,Graveler,Link Cable,1.4,300
+76,Alolan Golem,Rock,Electric,8,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,Magnet Pull,Sturdy,Galvanize,Graveler-Alolan,Link Cable,1.7,316
+77,Ponyta,Fire,,5,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Run Away,Flash Fire,Flame Body,,,1,30
+77,Galarian Ponyta,Psychic,,5,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Run Away,Pastel Veil,Anticipation,,,0.8,24
+78,Rapidash,Fire,,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Run Away,Flash Fire,Flame Body,Ponyta,Ace Rank,1.7,95
+78,Galarian Rapidash,Psychic,Fairy,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Run Away,Pastel Veil,Anticipation,Ponyta-Galarian,Ace Rank,1.7,80
+79,Slowpoke,Water,Psychic,9,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Oblivious,Own Tempo,Regenerator,,,1.2,36
+79,Galarian Slowpoke,Psychic,,9,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Gluttony,Own Tempo,Regenerator,,,1.2,36
+80,Slowbro,Water,Psychic,9,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Oblivious,Own Tempo,Regenerator,Slowpoke,Ace Rank,1.6,78.5
+80,Galarian Slowbro,Poison,Psychic,9,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Quick Draw,Own Tempo,Regenerator,Slowpoke-Galarian,Galarica Cuff,1.6,70.5
+80,Mega Slowbro,Water,Psychic,9,3,⬤⬤⬤,1,⬤,5,⬤⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Shell Armor,,,,,2,120
+81,Magnemite,Electric,Steel,2,1,⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Magnet Pull,Sturdy,Analytic,,,0.3,6
+82,Magneton,Electric,Steel,5,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,Magnet Pull,Sturdy,Analytic,Magnemite,Ace Rank,1,60
+83,Farfetch'd,Normal,Flying,5,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Keen Eye,Inner Focus,Defiant,,,0.8,15
+83,Galarian Farfetch'd,Fighting,,5,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Steadfast,,Scrappy,,,0.8,42
+84,Doduo,Normal,Flying,3,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,1,⬤,Run Away,Early Bird,Tangled Feet,,,1.4,39.2
+85,Dodrio,Normal,Flying,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Run Away,Early Bird,Tangled Feet,Doduo,Ace Rank,1.8,85.2
+86,Seel,Water,,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Thick Fat,Hydration,Ice Body,,,1.1,90
+87,Dewgong,Water,Ice,9,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Thick Fat,Hydration,Ice Body,Seel,Ace Rank,1.7,120
+88,Grimer,Poison,,8,3,⬤⬤⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Stench,Sticky Hold,Poison Touch,,,0.9,30
+88,Alolan Grimer,Poison,Dark,8,3,⬤⬤⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Poison Touch,Gluttony,Power of Alchemy,,,0.7,42
+89,Muk,Poison,,10,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Stench,Sticky Hold,Poison Touch,Grimer,Ace Rank,1.2,30
+89,Alolan Muk,Poison,Dark,10,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Poison Touch,Gluttony,Power of Alchemy,Grimer-Alolan,Ace Rank,1,52
+90,Shellder,Water,,3,2,⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,Shell Armor,Skill Link,Overcoat,,,0.3,4
+91,Cloyster,Water,Ice,5,3,⬤⬤⬤,2,⬤⬤,5,⬤⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Shell Armor,Skill Link,Overcoat,Shellder,Water Stone,1.5,132.5
+92,Gastly,Ghost,Poison,3,1,⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,Levitate,,,,,1.3,0.1
+93,Haunter,Ghost,Poison,4,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Levitate,,,Gastly,Amateur Rank,1.6,0.1
+94,Gengar,Ghost,Poison,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Levitate,Cursed Body,,Haunter,Link Cable,1.5,40.5
+94,Mega Gengar,Ghost,Poison,6,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Shadow Tag,,,,,1.4,40.5
+95,Onix,Rock,Ground,3,2,⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,1,⬤,2,⬤⬤,Rock Head,Sturdy,Weak Armor,,,8.8,210
+96,Drowzee,Psychic,,6,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,3,⬤⬤⬤,Insomnia,Forewarn,Inner Focus,,,1,32.4
+97,Hypno,Psychic,,8,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Insomnia,Forewarn,Inner Focus,Drowzee,Amateur Rank,1.6,75.6
+98,Krabby,Water,,3,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,1,⬤,1,⬤,Hyper Cutter,Shell Armor,Sheer Force,,,0.4,6.5
+99,Kingler,Water,,5,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Hyper Cutter,Shell Armor,Sheer Force,Krabby,Amateur Rank,1.3,60
+99,Mega Kingler,Water,Steel,5,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Tough Claws,,,,,1.3,60
+100,Voltorb,Electric,,4,1,⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Soundproof,Static,Aftermath,,,0.5,10.4
+100,Hisuian Voltorb,Electric,Grass,4,1,⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Soundproof,Static,Aftermath,,,0.5,13
+101,Electrode,Electric,,6,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Soundproof,Static,Aftermath,Voltorb,Ace Rank,1.2,66.6
+101,Hisuian Electrode,Electric,Grass,6,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Soundproof,Static,Aftermath,Voltorb-Hisuian,Leaf Stone,1.2,71
+102,Exeggcute,Grass,Psychic,6,1,⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Chlorophyll,,Harvest,,,0.4,2.5
+103,Exeggutor,Grass,Psychic,9,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Chlorophyll,,Harvest,Exeggcute,Leaf Stone,2,120
+104,Alolan Exeggutor,Grass,Dragon,9,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Frisk,,Harvest,Exeggcute,Leaf Stone,10.9,415.6
+104,Cubone,Ground,,5,2,⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,Rock Head,Lightning Rod,Battle Armor,,,0.4,6.5
+105,Marowak,Ground,,6,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Rock Head,Lightning Rod,Battle Armor,Cubone,Amateur Rank,1,45
+105,Alolan Marowak,Fire,Ghost,6,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Cursed Body,Lightning Rod,Rock Head,Cubone,Amateur Rank,1,34
+106,Hitmonlee,Fighting,,5,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,3,⬤⬤⬤,Limber,Reckless,Unburden,Tyrogue,Amateur Rank,1.5,49.8
+107,Hitmonchan,Fighting,,5,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,Keen Eye,Iron Fist,Inner Focus,Tyrogue,Amateur Rank,1.4,50.2
+108,Lickitung,Normal,,9,2,⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Own Tempo,Oblivious,Cloud Nine,,,1.2,65.5
+109,Koffing,Poison,,4,2,⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Levitate,Neutralizing Gas,Stench,,,0.6,1
+110,Weezing,Poison,,6,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Levitate,Neutralizing Gas,Stench,Koffing,Ace Rank,1.2,9.5
+110,Galarian Weezing,Poison,Fairy,6,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Levitate,Neutralizing Gas,Misty Surge,Koffing,Ace Rank,3,16
+111,Rhyhorn,Ground,Rock,8,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,1,⬤,Lightning Rod,Rock Head,Reckless,,,1,115
+112,Rhydon,Ground,Rock,10,4,⬤⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,Lightning Rod,Rock Head,Reckless,Rhyhorn,Pro Rank,1.9,120
+113,Chansey,Normal,,25,1,⬤,2,⬤⬤,1,⬤,1,⬤,3,⬤⬤⬤,Natural Cure,Serene Grace,Healer,Happiny,Oval Stone,1.1,34.6
+114,Tangela,Grass,,6,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,1,⬤,Chlorophyll,Leaf Guard,Regenerator,,,1,35
+115,Kangaskhan,Normal,,10,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,Early Bird,Scrappy,Inner Focus,,,2.2,80
+115,Mega Kangaskhan,Normal,,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Parental Bond,,,,,2.2,100
+116,Horsea,Water,,3,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,Swift Swim,Sniper,Damp,,,0.4,8
+117,Seadra,Water,,5,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Poison Point,Sniper,Damp,Horsea,Ace Rank,1.2,25
+118,Goldeen,Water,,4,2,⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Swift Swim,Water Veil,Lightning Rod,,,0.6,15
+119,Seaking,Water,,8,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Swift Swim,Water Veil,Lightning Rod,Goldeen,Ace Rank,1.3,39
+120,Staryu,Water,,3,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Illuminate,Natural Cure,Analytic,,,0.8,34.5
+121,Starmie,Water,Psychic,6,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Illuminate,Natural Cure,Analytic,Staryu,Water Stone,1.1,80
+122,Mr. Mime,Psychic,Fairy,4,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Soundproof,Filter,Technician,Mime.Jr,Ace Rank,1.3,54.5
+122,Galarian Mr. Mime,Ice,Psychic,5,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Vital Spirit,Screen Cleaner,Ice Body,Mime.Jr,Ace Rank,1.4,56.8
+123,Scyther,Bug,Flying,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Swarm,Technician,Steadfast,,,1.5,56
+124,Jynx,Ice,Psychic,6,2,⬤⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,Oblivious,Forewarn,Dry Skin,Smoochum,Ace Rank,1.4,40.6
+125,Electabuzz,Electric,,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Static,,Vital Spirit,Elekid,Ace Rank,1.1,30
+126,Magmar,Fire,,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Flame Body,,Vital Spirit,Magby,Ace Rank,1.3,44.5
+127,Pinsir,Bug,,6,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Hyper Cutter,Mold Breaker,Moxie,,,1.5,55
+127,Pinsir-Mega,Bug,Flying,6,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Aerilate,,,,,1.7,59
+128,Tauros,Normal,,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,Intimidate,Anger Point,Sheer Force,,,1.4,88.4
+128,Combat Breed Tauros,Fighting,,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,Intimidate,Anger Point,Cud Chew,,,1.4,115
+128,Blaze Breed Tauros,Fighting,Fire,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,Intimidate,Anger Point,Cud Chew,,,1.4,85
+128,Aqua Breed Tauros,Fighting,Water,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,Intimidate,Anger Point,Cud Chew,,,1.4,110
+129,Magikarp,Water,,2,1,⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,1,⬤,Swift Swim,,Rattled,,,0.9,10
+130,Gyarados,Water,Flying,9,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Intimidate,,Moxie,Magikarp,Amateur Rank,6.5,235
+130,Mega Gyarados,Water,Dark,9,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,Mold Breaker,,,,,6.5,305
+131,Lapras,Water,Ice,13,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Water Absorb,Shell Armor,Hydration,,,2.5,220
+131,Mega Lapras,Water,Dragon,13,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Liquid Voice,,,,,2.5,220
+132,Ditto,Normal,,4,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Limber,,Imposter,,,0.3,4
+133,Eevee,Normal,,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Run Away,Adaptability,Anticipation,,,0.3,6.5
+133,Mega Eevee,Normal,,5,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Normalize,,,,,0.3,6.5
+134,Vaporeon,Water,,13,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Water Absorb,,Hydration,Eevee,Water Stone,1,29
+135,Jolteon,Electric,,6,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Volt Absorb,,Quick Feet,Eevee,Thunder Stone,0.8,24.5
+136,Flareon,Fire,,6,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Flash Fire,,Guts,Eevee,Fire Stone,0.9,25
+137,Porygon,Normal,,6,2,⬤⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Trace,Download,Analytic,,,0.8,36.5
+138,Omanyte,Rock,Water,3,1,⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Swift Swim,Shell Armor,Weak Armor,,,0.4,7.5
+139,Omastar,Rock,Water,7,2,⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Swift Swim,Shell Armor,Weak Armor,Omanyte,Ace Rank,1,35
+140,Kabuto,Rock,Water,3,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Swift Swim,Battle Armor,Weak Armor,,,0.5,11.5
+141,Kabutops,Rock,Water,6,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Swift Swim,Battle Armor,Weak Armor,Kabuto,Ace Rank,1.3,40.5
+142,Aerodactyl,Rock,Flying,8,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Rock Head,Pressure,Unnerve,,,1.8,59
+142,Mega Aerodactyl,Rock,Flying,8,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Tough Claws,,,,,2.1,79
+143,Snorlax,Normal,,16,3,⬤⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Immunity,Thick Fat,Gluttony,Munchlax,Max Friendship,2.1,460
+143,Mega Snorlax,Normal,Ground,16,4,⬤⬤⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Thick Fat,,,,,,
+144,Articuno,Ice,Flying,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Pressure,,Snow Cloak,,,1.7,55.4
+144,Galarian Articuno,Psychic,Flying,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Competitive,,,,,1.7,50.9
+145,Zapdos,Electric,Flying,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Pressure,,Static,,,1.6,52.6
+145,Galarian Zapdos,Fighting,Flying,9,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Defiant,,,,,1.6,58.2
+146,Moltres,Fire,Flying,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Pressure,,Flame Body,,,2,60
+146,Galarian Moltres,Dark,Flying,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Berserk,,,,,2,66
+147,Dratini,Dragon,,4,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Shed Skin,,Marvel Scale,,,1.8,3.3
+148,Dragonair,Dragon,,6,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Shed Skin,,Marvel Scale,Dratini,Ace Rank,4,16.5
+149,Dragonite,Dragon,Flying,9,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Inner Focus,,Multiscale,Dragonair,Elite Rank,2.2,210
+150,Mewtwo,Psychic,,10,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Pressure,,Unnerve,,,2,122
+150,Mega Mewtwo X,Psychic,Fighting,10,5,⬤⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Steadfast,,,,,2.3,127
+150,Mega Mewtwo Y,Psychic,,10,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,5,⬤⬤⬤⬤⬤,4,⬤⬤⬤⬤,Insomnia,,,,,1.5,33
+151,Mew,Psychic,,10,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Synchronize,,,,,0.4,4
+152,Chikorita,Grass,,4,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Overgrow,,Leaf Guard,,,0.9,6.4
+153,Bayleef,Grass,,6,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Overgrow,,Leaf Guard,Chikorita,Amateur Rank,1.2,15.8
+154,Meganium,Grass,,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Overgrow,,Leaf Guard,Bayleef,Ace Rank,1.8,100.5
+155,Cyndaquil,Fire,,3,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,Blaze,,Flash Fire,,,0.5,7.9
+156,Quilava,Fire,,5,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Blaze,,Flash Fire,Cyndaquil,Beginner Rank,0.9,19
+157,Typhlosion,Fire,,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Blaze,,Flash Fire,Quilava,Ace Rank,1.7,79.5
+157,Hisuian Typhlosion,Fire,Ghost,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Blaze,,Frisk,Quilava,Ace Rank,1.6,69.8
+158,Totodile,Water,,5,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Torrent,,Sheer Force,,,0.6,9.5
+159,Croconaw,Water,,6,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Torrent,,Sheer Force,Totodile,Amateur Rank,1.1,25
+160,Feraligatr,Water,,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Torrent,,Sheer Force,Croconaw,Ace Rank,2.3,88.8
+161,Sentret,Normal,,3,2,⬤⬤,1,⬤,1,⬤,1,⬤,2,⬤⬤,Run Away,Keen Eye,Frisk,,,0.8,6
+162,Furret,Normal,,8,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Run Away,Keen Eye,Frisk,Sentret,Beginner Rank,1.8,32.5
+163,Hoothoot,Normal,Flying,6,1,⬤,2,⬤⬤,1,⬤,1,⬤,2,⬤⬤,Insomnia,Keen Eye,Tinted Lens,,,0.7,21.2
+164,Noctowl,Normal,Flying,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Insomnia,Keen Eye,Tinted Lens,Hoothoot,Amateur Rank,1.6,40.8
+165,Ledyba,Bug,Flying,4,1,⬤,2,⬤⬤,1,⬤,1,⬤,3,⬤⬤⬤,Swarm,Early Bird,Rattled,,,1,10.8
+166,Ledian,Bug,Flying,5,1,⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Swarm,Early Bird,Iron Fist,Ledyba,Amateur Rank,1.4,35.6
+167,Spinarak,Bug,Poison,4,2,⬤⬤,1,⬤,1,⬤,1,⬤,1,⬤,Swarm,Insomnia,Sniper,,,0.5,8.5
+168,Ariados,Bug,Poison,7,3,⬤⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Swarm,Insomnia,Sniper,Spinarak,Amateur Rank,1.1,33.5
+169,Crobat,Poison,Flying,8,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Inner Focus,,Infiltrator,Golbat,Max Friendship,1.8,75
+170,Chinchou,Water,Electric,7,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,Volt Absorb,Illuminate,Water Absorb,,,0.5,12
+171,Lanturn,Water,Electric,12,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Volt Absorb,Illuminate,Water Absorb,Chinchou,Amateur Rank,1.2,22.5
+172,Pichu,Electric,,2,1,⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Static,,Lightning Rod,,,0.3,2
+173,Cleffa,Fairy,,5,1,⬤,1,⬤,1,⬤,2,⬤⬤,2,⬤⬤,Cute Charm,Magic Guard,Friend Guard,,,0.3,3
+174,Igglybuff,Normal,Fairy,9,1,⬤,1,⬤,1,⬤,1,⬤,1,⬤,Cute Charm,Competitive,Friend Guard,,,0.3,1
+175,Togepi,Fairy,,3,1,⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Hustle,Serene Grace,Super Luck,,,0.3,1.5
+176,Togetic,Fairy,Flying,5,1,⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Hustle,Serene Grace,Super Luck,Togepi,Max Friendship,0.6,3.2
+177,Natu,Psychic,Flying,4,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Synchronize,Early Bird,Magic Bounce,,,0.2,2
+178,Xatu,Psychic,Flying,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Synchronize,Early Bird,Magic Bounce,Natu,Amateur Rank,1.5,15
+179,Mareep,Electric,,5,1,⬤,1,⬤,1,⬤,2,⬤⬤,2,⬤⬤,Static,,Plus,,,0.6,7.8
+180,Flaaffy,Electric,,7,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Static,,Plus,Mareep,Beginner Rank,0.8,13.3
+181,Ampharos,Electric,,9,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Static,,Plus,Flaaffy,Ace Rank,1.4,61.5
+181,Mega Ampharos,Electric,Dragon,9,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Mold Breaker,,,,,1.4,61.5
+182,Bellossom,Grass,,7,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Chlorophyll,,Healer,Gloom,Sun Stone,0.4,5.8
+183,Marill,Water,Fairy,7,1,⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Thick Fat,Huge Power,Sap Sipper,Azurill,Max Friendship,0.4,8.5
+184,Azumarill,Water,Fairy,10,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Thick Fat,Huge Power,Sap Sipper,Marill,Amateur Rank,0.8,28.5
+185,Sudowoodo,Rock,,7,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,Sturdy,Rock Head,Rattled,Bonsly,Amateur Rank,1.2,38
+186,Politoed,Water,,9,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Water Absorb,Damp,Drizzle,Poliwhirl,King's Rock,1.1,33.9
+187,Hoppip,Grass,Flying,3,1,⬤,2,⬤⬤,1,⬤,1,⬤,2,⬤⬤,Chlorophyll,Leaf Guard,Infiltrator,,,0.4,0.5
+188,Skiploom,Grass,Flying,5,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Chlorophyll,Leaf Guard,Infiltrator,Hoppip,Amateur Rank,0.6,1
+189,Jumpluff,Grass,Flying,7,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Chlorophyll,Leaf Guard,Infiltrator,Skiploom,Ace Rank,0.8,3
+190,Aipom,Normal,,5,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Run Away,Pickup,Skill Link,,,0.8,11.5
+191,Sunkern,Grass,,3,1,⬤,1,⬤,1,⬤,1,⬤,1,⬤,Chlorophyll,Solar Power,Early Bird,,,0.3,1.8
+192,Sunflora,Grass,,6,3,⬤⬤⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Chlorophyll,Solar Power,Early Bird,Sunkern,Sun Stone,0.8,8.5
+193,Yanma,Bug,Flying,5,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Speed Boost,Compound Eyes,Frisk,,,1.2,38
+194,Wooper,Water,Ground,5,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Damp,Water Absorb,Unaware,,,0.4,8.5
+194,Paldean Wooper,Poison,Ground,5,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Poison Point,Water Absorb,Unaware,,,0.4,11
+195,Quagsire,Water,Ground,9,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Damp,Water Absorb,Unaware,Wooper,Amateur Rank,1.4,75
+196,Espeon,Psychic,,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Synchronize,,Magic Bounce,Eevee,Max Friendship,0.9,26.5
+197,Umbreon,Dark,,9,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,Synchronize,,Inner Focus,Eevee,Max Friendship,1,27
+198,Murkrow,Dark,Flying,6,3,⬤⬤⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,Insomnia,Super Luck,Prankster,,,0.5,2.1
+199,Slowking,Water,Psychic,9,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Oblivious,Own Tempo,Regenerator,Slowpoke,King's Rock,2,79.5
+199,Galarian Slowking,Poison,Psychic,9,2,⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Curious Medicine,Own Tempo,Regenerator,Slowpoke-Galarian,Galarica Wreath,1.8,79.5
+200,Misdreavus,Ghost,,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Levitate,,,,,0.7,1
+201,Unown,Psychic,,4,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Levitate,,,,,0.5,5
+202,Wobbuffet,Psychic,,19,1,⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Shadow Tag,,Telepathy,Wynaut,Beginner Rank,1.3,28.5
+203,Girafarig,Normal,Psychic,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Inner Focus,Early Bird,Sap Sipper,,,1.5,41.5
+204,Pineco,Bug,,5,2,⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,1,⬤,Sturdy,,Overcoat,,,0.6,7.2
+205,Forretress,Bug,Steel,7,3,⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,Sturdy,,Overcoat,Pineco,Ace Rank,1.2,125.8
+206,Dunsparce,Normal,,10,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Serene Grace,Run Away,Rattled,,,1.5,14
+207,Gligar,Ground,Flying,6,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,Hyper Cutter,Sand Veil,Immunity,,,1.1,64.8
+208,Steelix,Steel,Ground,7,3,⬤⬤⬤,1,⬤,5,⬤⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,Rock Head,Sturdy,Sheer Force,Onix,Metal Coat,9.2,400
+208,Mega Steelix,Steel,Ground,7,4,⬤⬤⬤⬤,1,⬤,5,⬤⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Sand Force,,,,,10.5,740
+209,Snubbull,Fairy,,6,3,⬤⬤⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Intimidate,Run Away,Rattled,,,0.6,7.8
+210,Granbull,Fairy,,9,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Intimidate,Quick Feet,Rattled,Snubbull,Amateur Rank,1.4,48.7
+211,Qwilfish,Water,Poison,6,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Poison Point,Swift Swim,Intimidate,,,0.5,3.9
+211,Hisuian Qwilfish,Dark,Poison,6,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Poison Point,Swift Swim,Intimidate,,,0.5,3.9
+212,Scizor,Bug,Steel,7,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Swarm,Technician,Light Metal,Scyther,Metal Coat,1.8,118
+212,Mega Scizor,Bug,Steel,7,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Technician,,,,,2,125
+213,Shuckle,Bug,Rock,2,1,⬤,1,⬤,5,⬤⬤⬤⬤⬤,1,⬤,5,⬤⬤⬤⬤⬤,Sturdy,Gluttony,Contrary,,,0.6,20.5
+214,Heracross,Bug,Fighting,8,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,Swarm,Guts,Moxie,,,1.5,54
+214,Mega Heracross,Bug,Fighting,8,5,⬤⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,Skill Link,,,,Mega Stone,1.7,62.5
+215,Sneasel,Dark,Ice,5,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,3,⬤⬤⬤,Inner Focus,Keen Eye,Pickpocket,,,0.9,28
+215,Hisuian Sneasel,Fighting,Poison,5,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,3,⬤⬤⬤,Inner Focus,Keen Eye,Pickpocket,,,0.9,27
+216,Teddiursa,Normal,,6,3,⬤⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Pickup,Quick Feet,Honey Gather,,,0.6,8.8
+217,Ursaring,Normal,,9,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Guts,Quick Feet,Unnerve,Teddiursa,Ace Rank,1.8,125.8
+218,Slugma,Fire,,4,1,⬤,1,⬤,1,⬤,2,⬤⬤,1,⬤,Magma Armor,Flame Body,Weak Armor,,,0.7,35
+219,Magcargo,Fire,Rock,6,2,⬤⬤,1,⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Magma Armor,Flame Body,Weak Armor,Slugma,Ace Rank,0.8,55
+220,Swinub,Ice,Ground,5,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Oblivious,Snow Cloak,Thick Fat,,,0.4,6.5
+221,Piloswine,Ice,Ground,10,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Oblivious,Snow Cloak,Thick Fat,Swinub,Ace Rank,1.1,55.8
+222,Corsola,Water,Rock,6,2,⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Hustle,Natural Cure,Regenerator,,,0.6,5
+222,Galarian Corsola,Ghost,,6,2,⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Weak Armor,,Curse Body,,,0.6,0.5
+223,Remoraid,Water,,3,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Hustle,Sniper,Moody,,,0.6,12
+224,Octillery,Water,,7,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Suction Cups,Sniper,Moody,Remoraid,Amateur Rank,0.9,28.5
+225,Delibird,Ice,Flying,4,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Vital Spirit,Hustle,Insomnia,,,0.9,16
+226,Mantine,Water,Flying,8,1,⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Swift Swim,Water Absorb,Water Veil,Mantyke,Own a Remoraid,2.1,220
+227,Skarmory,Steel,Flying,6,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,1,⬤,2,⬤⬤,Keen Eye,Sturdy,Weak Armor,,,1.7,50.5
+228,Houndour,Dark,Fire,4,2,⬤⬤,2,⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,Early Bird,Flash Fire,Unnerve,,,0.6,10.8
+229,Houndoom,Dark,Fire,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Early Bird,Flash Fire,Unnerve,Houndour,Amateur Rank,1.4,35
+229,Mega Houndoom,Dark,Fire,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Solar Power,,,,,1.9,49.5
+230,Kingdra,Water,Dragon,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Swift Swim,Sniper,Damp,Seadra,Dragon Scale,1.8,152
+231,Phanpy,Ground,,9,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Pickup,,Sand Veil,,,0.5,33.5
+232,Donphan,Ground,,9,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,Sturdy,,Sand Veil,Phanpy,Amateur Rank,1.1,120
+233,Porygon2,Normal,,8,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Trace,Download,Analytic,Porygon,Upgrade,0.6,32.5
+234,Stantler,Normal,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Intimidate,Frisk,Sap Sipper,,,1.4,71.2
+235,Smeargle,Normal,,5,1,⬤,3,⬤⬤⬤,1,⬤,1,⬤,2,⬤⬤,Own Tempo,Technician,Moody,,,1.2,58
+236,Tyrogue,Fighting,,3,1,⬤,1,⬤,1,⬤,1,⬤,1,⬤,Guts,Steadfast,Vital Spirit,,,0.7,21
+237,Hitmontop,Fighting,,5,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,Intimidate,Technician,Steadfast,Tyrogue,Amateur Rank,1.4,48
+238,Smoochum,Ice,Psychic,4,1,⬤,2,⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,Oblivious,Forewarn,Hydration,,,0.4,6
+239,Elekid,Electric,,4,2,⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,Static,,Vital Spirit,,,0.6,23.5
+240,Magby,Fire,,4,3,⬤⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,Flame Body,,Vital Spirit,,,0.7,21.4
+241,Miltank,Normal,,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,Thick Fat,Scrappy,Sap Sipper,,,1.2,75.5
+242,Blissey,Normal,,25,1,⬤,2,⬤⬤,1,⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Natural Cure,Serene Grace,Healer,Chansey,Max Friendship,1.5,46.8
+243,Raikou,Electric,,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Pressure,,Volt Absorb,,,1.9,178
+244,Entei,Fire,,11,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Pressure,,Flash Fire,,,2.1,198
+245,Suicune,Water,,10,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Pressure,,Water Absorb,,,2,187
+246,Larvitar,Rock,Ground,5,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Guts,,Sand Veil,,,0.6,72
+247,Pupitar,Rock,Ground,7,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Shed Skin,,,Larvitar,Ace Rank,1.2,152
+248,Tyranitar,Rock,Dark,10,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Sand Stream,,Unnerve,Pupitar,Elite Rank,2,202
+248,Mega Tyranitar,Rock,Dark,10,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Sand Stream,,,,,2.5,255
+249,Lugia,Psychic,Flying,10,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Pressure,,Multiscale,,,5.2,216
+250,Ho-Oh,Fire,Flying,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Pressure,,Regenerator,,,3.8,199
+251,Celebi,Psychic,Grass,10,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Natural Cure,,,,,0.6,5
+252,Treecko,Grass,,4,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,Overgrow,,Unburden,,,0.5,5
+253,Grovyle,Grass,,5,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Overgrow,,Unburden,Treecko,Amateur Rank,0.9,21.6
+254,Sceptile,Grass,,7,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Overgrow,,Unburden,Grovyle,Ace Rank,1.7,52.2
+254,Mega Sceptile,Grass,Dragon,7,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Lightning Rod,,,,,1.9,55.2
+255,Torchic,Fire,,4,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,Blaze,,Speed Boost,,,0.4,2.5
+256,Combusken,Fire,Fighting,6,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Blaze,,Speed Boost,Torchic,Amateur Rank,0.9,19.5
+257,Blaziken,Fire,Fighting,8,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Blaze,,Speed Boost,Combusken,Ace Rank,1.9,52
+257,Mega Blaziken,Fire,Fighting,8,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Speed Boost,,,,,1.9,52
+258,Mudkip,Water,,5,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Torrent,,Damp,,,0.4,7.6
+259,Marshtomp,Water,Ground,7,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Torrent,,Damp,Mudkip,Amateur Rank,0.7,28
+260,Swampert,Water,Ground,10,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Torrent,,Damp,Marshtomp,Ace Rank,1.5,81.9
+260,Mega Swampert,Water,Ground,10,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Swift Swim,,,,,1.9,102
+261,Poochyena,Dark,,3,2,⬤⬤,1,⬤,1,⬤,1,⬤,1,⬤,Run Away,Quick Feet,Rattled,,,0.5,13.6
+262,Mightyena,Dark,,7,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Intimidate,Quick Feet,Moxie,Poochyena,Amateur Rank,1,37
+263,Zigzagoon,Normal,,3,1,⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Pickup,Gluttony,Quick Feet,,,0.4,17.5
+263,Galarian Zigzagoon,Dark,Normal,3,1,⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Pickup,Gluttony,Quick Feet,,,0.4,17.5
+264,Linoone,Normal,,7,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Pickup,Gluttony,Quick Feet,Zigzagoon,Amateur Rank,0.5,32.5
+264,Galarian Linoone,Dark,Normal,7,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Pickup,Gluttony,Quick Feet,Zigzagoon-Galarian,Amateur Rank,0.5,32.5
+265,Wurmple,Bug,,4,2,⬤⬤,1,⬤,1,⬤,1,⬤,1,⬤,Shield Dust,,Run Away,,,0.3,3.6
+266,Silcoon,Bug,,5,1,⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Shed Skin,,,Wurmple,Beginner Rank,0.6,10
+267,Beautifly,Bug,Flying,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Swarm,,Rivalry,Silcoon,Amateur Rank,1,28.4
+268,Cascoon,Bug,,5,1,⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Shed Skin,,,Wurmple,Beginner Rank,0.7,11.5
+269,Dustox,Bug,Poison,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Shield Dust,,Compound Eyes,Cascoon,Amateur Rank,1.2,31.6
+270,Lotad,Water,Grass,4,1,⬤,1,⬤,1,⬤,1,⬤,2,⬤⬤,Swift Swim,Rain Dish,Own Tempo,,,0.5,2.6
+271,Lombre,Water,Grass,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Swift Swim,Rain Dish,Own Tempo,Lotad,Beginner Rank,1.2,32.5
+272,Ludicolo,Water,Grass,8,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Swift Swim,Rain Dish,Own Tempo,Lombre,Water Stone,1.5,55
+273,Seedot,Grass,,4,1,⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Chlorophyll,Early Bird,Pickpocket,,,0.5,4
+274,Nuzleaf,Grass,Dark,7,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Chlorophyll,Early Bird,Pickpocket,Seedot,Beginner Rank,1,28
+275,Shiftry,Grass,Dark,9,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Chlorophyll,Early Bird,Pickpocket,Nuzleaf,Leaf Stone,1.3,59.6
+276,Taillow,Normal,Flying,4,2,⬤⬤,3,⬤⬤⬤,1,⬤,1,⬤,1,⬤,Guts,,Scrappy,,,0.3,2.3
+277,Swellow,Normal,Flying,6,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Guts,,Scrappy,Taillow,Amateur Rank,0.7,19.8
+278,Wingull,Water,Flying,4,1,⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,1,⬤,Keen Eye,Hydration,Rain Dish,,,0.6,9.5
+279,Pelipper,Water,Flying,6,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Keen Eye,Drizzle,Rain Dish,Wingull,Amateur Rank,1.2,28
+280,Ralts,Psychic,Fairy,2,1,⬤,1,⬤,1,⬤,2,⬤⬤,1,⬤,Synchronize,Trace,Telepathy,,,0.4,6.6
+281,Kirlia,Psychic,Fairy,3,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,Synchronize,Trace,Telepathy,Ralts,Amateur Rank,0.8,20.2
+282,Gardevoir,Psychic,Fairy,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Synchronize,Trace,Telepathy,Kirlia,Ace Rank,1.6,48.4
+282,Mega Gardevoir,Psychic,Fairy,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Pixilate,,,,,1.6,48.4
+283,Surskit,Bug,Water,4,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,Swift Swim,,Rain Dish,,,0.5,1.7
+284,Masquerain,Bug,Flying,7,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Intimidate,,Unnerve,Surskit,Amateur Rank,0.8,3.6
+285,Shroomish,Grass,,6,1,⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Effect Spore,Poison Heal,Quick Feet,,,0.4,4.5
+286,Breloom,Grass,Fighting,6,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Effect Spore,Poison Heal,Technician,Shroomish,Amateur Rank,1.2,39.2
+287,Slakoth,Normal,,6,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Truant,,,,,0.8,24
+288,Vigoroth,Normal,,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Vital Spirit,,,Slakoth,Amateur Rank,1.4,46.5
+289,Slaking,Normal,,15,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Truant,,,Vigoroth,Ace Rank,2,130.5
+290,Nincada,Bug,Ground,3,2,⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,1,⬤,Compound Eyes,,Run Away,,,0.5,5.5
+291,Ninjask,Bug,Flying,6,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Speed Boost,,Infiltrator,Nincada,Amateur Rank,0.8,12
+292,Shedinja,Bug,Ghost,0,3,⬤⬤⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Wonder Guard,,,Nincada,Amateur Rank,0.8,1.2
+293,Whismur,Normal,,6,2,⬤⬤,1,⬤,1,⬤,2,⬤⬤,1,⬤,Soundproof,,Rattled,,,0.6,16.3
+294,Loudred,Normal,,8,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Soundproof,,Scrappy,Whismur,Amateur Rank,1,40.5
+295,Exploud,Normal,,10,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Soundproof,,Scrappy,Loudred,Ace Rank,1.5,84
+296,Makuhita,Fighting,,7,2,⬤⬤,1,⬤,1,⬤,1,⬤,1,⬤,Thick Fat,Guts,Sheer Force,,,1,86.4
+297,Hariyama,Fighting,,14,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Thick Fat,Guts,Sheer Force,Makuhita,Amateur Rank,2.3,253.8
+298,Azurill,Normal,Fairy,5,1,⬤,1,⬤,1,⬤,1,⬤,1,⬤,Thick Fat,Huge Power,Sap Sipper,,Max Friendship,0.2,2
+299,Nosepass,Rock,,3,2,⬤⬤,1,⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Sturdy,Magnet Pull,Sand Force,,,1,97
+300,Skitty,Normal,,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,Cute Charm,Normalize,Wonder Skin,,,0.6,11
+301,Delcatty,Normal,,7,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Cute Charm,Normalize,Wonder Skin,Skitty,Moon Stone,1.1,32.6
+302,Sableye,Dark,Ghost,5,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Keen Eye,Stall,Prankster,,,0.5,11
+302,Mega Sableye,Dark,Ghost,5,3,⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Magic Bounce,,,,,0.5,161
+303,Mawile,Steel,Fairy,5,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Hyper Cutter,Intimidate,Sheer Force,,,0.6,11.5
+303,Mega Mawile,Steel,Fairy,5,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Huge Power,,,,,1,23.5
+304,Aron,Steel,Rock,5,2,⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,1,⬤,Sturdy,Rock Head,Heavy Metal,,,0.4,60
+305,Lairon,Steel,Rock,6,3,⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,Sturdy,Rock Head,Heavy Metal,Aron,Ace Rank,0.9,120
+306,Aggron,Steel,Rock,7,3,⬤⬤⬤,2,⬤⬤,5,⬤⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,Sturdy,Rock Head,Heavy Metal,Lairon,Pro Rank,2.1,360
+306,Mega Aggron,Steel,,7,4,⬤⬤⬤⬤,2,⬤⬤,5,⬤⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Filter,,,,,2.2,395
+307,Meditite,Fighting,Psychic,3,1,⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Pure Power,,Telepathy,,,0.6,11.2
+308,Medicham,Fighting,Psychic,6,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Pure Power,,Telepathy,Meditite,Ace Rank,1.3,31.5
+308,Mega Medicham,Fighting,Psychic,6,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Pure Power,,,,,1.3,31.5
+309,Electrike,Electric,,4,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Static,Lightning Rod,Minus,,,0.6,15.2
+310,Manectric,Electric,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Static,Lightning Rod,Minus,Electrike,Amateur Rank,1.5,40.2
+311,Mega Manectric,Electric,,7,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Intimidate,,,,,1.8,44
+311,Plusle,Electric,,6,2,⬤⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,Plus,,Lightning Rod,,,0.4,4.2
+312,Minun,Electric,,6,1,⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Minus,,Volt Absorb,,,0.4,4.2
+313,Volbeat,Bug,,6,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Illuminate,Swarm,Prankster,,,0.7,17.7
+314,Illumise,Bug,,6,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Oblivious,Tinted Lens,Prankster,,,0.6,17.7
+315,Roselia,Grass,Poison,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Natural Cure,Poison Point,Leaf Guard,Budew,Max Friendship,0.3,2
+316,Gulpin,Poison,,7,1,⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Liquid Ooze,Sticky Hold,Gluttony,,,0.4,10.3
+317,Swalot,Poison,,10,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Liquid Ooze,Sticky Hold,Gluttony,Gulpin,Amateur Rank,1.7,80
+318,Carvanha,Water,Dark,4,3,⬤⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Rough Skin,,Speed Boost,,,0.8,20.8
+319,Sharpedo,Water,Dark,7,4,⬤⬤⬤⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,Rough Skin,,Speed Boost,Carvanha,Ace Rank,1.8,88.8
+319,Mega Sharpedo,Water,Dark,7,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Strong Jaw,,,,,2.5,130.3
+320,Wailmer,Water,,13,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Water Veil,Oblivious,Pressure,,,2,130
+321,Wailord,Water,,17,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Water Veil,Oblivious,Pressure,Wailmer,Ace Rank,14.5,398
+322,Numel,Fire,Ground,6,2,⬤⬤,1,⬤,1,⬤,2,⬤⬤,2,⬤⬤,Oblivious,Simple,Own Tempo,,,0.7,24
+323,Camerupt,Fire,Ground,7,3,⬤⬤⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Magma Armor,Solid Rock,Anger Point,Numel,Ace Rank,1.9,220
+323,Mega Camerupt,Fire,Ground,7,4,⬤⬤⬤⬤,1,⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Sheer Force,,,,,2.5,320.5
+324,Torkoal,Fire,,7,3,⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,White Smoke,Drought,Shell Armor,,,0.5,80.4
+325,Spoink,Psychic,,6,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,Thick Fat,Own Tempo,Gluttony,,,0.7,30.6
+326,Grumpig,Psychic,,8,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Thick Fat,Own Tempo,Gluttony,Spoink,Ace Rank,0.9,71.5
+327,Spinda,Normal,,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Own Tempo,Tangled Feet,Contrary,,,1.1,5
+328,Trapinch,Ground,,4,3,⬤⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Hyper Cutter,Arena Trap,Sheer Force,,,0.7,15
+329,Vibrava,Ground,Dragon,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Levitate,,,Trapinch,Ace Rank,1.1,15.3
+330,Flygon,Ground,Dragon,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Levitate,,,Vibrava,Pro Rank,2,82
+331,Cacnea,Grass,,5,3,⬤⬤⬤,1,⬤,1,⬤,3,⬤⬤⬤,1,⬤,Sand Veil,,Water Absorb,,,0.4,51.3
+332,Cacturne,Grass,Dark,7,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Sand Veil,,Water Absorb,Cacnea,Ace Rank,1.3,77.4
+333,Swablu,Normal,Flying,4,1,⬤,2,⬤⬤,2,⬤⬤,1,⬤,3,⬤⬤⬤,Natural Cure,,Cloud Nine,,,0.4,1.2
+334,Altaria,Dragon,Flying,7,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Natural Cure,,Cloud Nine,Swablu,Ace Rank,1.1,20.6
+334,Mega Altaria,Dragon,Fairy,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Pixilate,,,,,1.5,20.6
+335,Zangoose,Normal,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Immunity,,Toxic Boost,,,1.3,40.3
+336,Seviper,Poison,,7,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Shed Skin,,Infiltrator,,,2.7,52.5
+337,Lunatone,Rock,Psychic,9,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Levitate,,,,,1,168
+338,Solrock,Rock,Psychic,9,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Levitate,,,,,1.2,154
+339,Barboach,Water,Ground,5,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Oblivious,Anticipation,Hydration,,,0.4,1.9
+340,Whiscash,Water,Ground,11,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Oblivious,Anticipation,Hydration,Barboach,Ace Rank,0.9,23.6
+341,Corphish,Water,,4,3,⬤⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,1,⬤,Hyper Cutter,Shell Armor,Adaptability,,,0.6,11.5
+342,Crawdaunt,Water,Dark,6,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Hyper Cutter,Shell Armor,Adaptability,Corphish,Ace Rank,1.1,32.8
+343,Baltoy,Ground,Psychic,4,1,⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Levitate,,,,,0.5,21.5
+344,Claydol,Ground,Psychic,6,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,Levitate,,,Baltoy,Ace Rank,1.5,108
+345,Lileep,Rock,Grass,6,1,⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Suction Cups,,Storm Drain,,,1,23.8
+346,Cradily,Rock,Grass,8,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Suction Cups,,Storm Drain,Lileep,Ace Rank,1.5,60.4
+347,Anorith,Rock,Bug,4,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Battle Armor,,Swift Swim,,,0.7,12.5
+348,Armaldo,Rock,Bug,7,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Battle Armor,,Swift Swim,Anorith,Ace Rank,1.5,68.2
+349,Feebas,Water,,2,1,⬤,3,⬤⬤⬤,1,⬤,1,⬤,2,⬤⬤,Swift Swim,Oblivious,Adaptability,,,0.6,7.4
+350,Milotic,Water,,9,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Marvel Scale,Competitive,Cute Charm,Feebas,Prism Scale,6.2,162
+351,Castform,Normal,,7,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Forecast,,,,,0.3,0.8
+352,Kecleon,Normal,,6,3,⬤⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,Color Change,,Protean,,,1,22
+353,Shuppet,Ghost,,4,3,⬤⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Insomnia,Frisk,Cursed Body,,,0.6,2.3
+354,Banette,Ghost,,6,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Insomnia,Frisk,Cursed Body,Shuppet,Ace Rank,1.1,12.5
+354,Mega Banette,Ghost,,6,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Prankster,,,,,1.2,13
+355,Duskull,Ghost,,2,1,⬤,1,⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,Levitate,,Frisk,,,0.8,15
+356,Dusclops,Ghost,,4,2,⬤⬤,1,⬤,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,Pressure,,Frisk,Duskull,Ace Rank,1.6,30.6
+357,Tropius,Grass,Flying,9,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Chlorophyll,Solar Power,Harvest,,,2,100
+358,Chimecho,Psychic,,7,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Levitate,,,Chingling,Max Friendship,0.6,1
+359,Absol,Dark,,6,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Pressure,Super Luck,Justified,,,1.2,47
+359,Mega Absol,Dark,,6,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Magic Bounce,,,,,1.2,49
+360,Wynaut,Psychic,,9,1,⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Shadow Tag,,Telepathy,,,0.6,14
+361,Snorunt,Ice,,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Inner Focus,Ice Body,Moody,,,0.7,16.8
+362,Glalie,Ice,,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Inner Focus,Ice Body,Moody,Snorunt,Pro Rank,1.5,256.5
+362,Mega Glalie,Ice,,8,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Refrigerate,,,,,2.1,350.2
+363,Spheal,Ice,Water,7,1,⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Thick Fat,Ice Body,Oblivious,,,0.8,39.5
+364,Sealeo,Ice,Water,9,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Thick Fat,Ice Body,Oblivious,Spheal,Ace Rank,1.1,87.6
+365,Walrein,Ice,Water,11,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Thick Fat,Ice Body,Oblivious,Sealeo,Pro Rank,1.4,150.6
+366,Clamperl,Water,,3,2,⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Shell Armor,,Rattled,,,0.4,52.5
+367,Huntail,Water,,5,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Swift Swim,,Water Veil,Clamperl,Deep Sea Tooth,1.7,27
+368,Gorebyss,Water,,5,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Swift Swim,,Hydration,Clamperl,Deep Sea Scale,1.8,22.6
+369,Relicanth,Water,Rock,10,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,Swift Swim,Rock Head,Sturdy,,,1,23.4
+370,Luvdisc,Water,,4,1,⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Swift Swim,,Hydration,,,0.6,8.7
+371,Bagon,Dragon,,4,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,Rock Head,,Sheer Force,,,0.6,42.1
+372,Shelgon,Dragon,,6,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Rock Head,,Overcoat,Bagon,Ace Rank,1.1,110.5
+373,Salamence,Dragon,Flying,9,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Intimidate,,Moxie,Shelgon,Pro Rank,1.5,102.6
+373,Mega Salamence,Dragon,Flying,4,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Aerilate,,,,,1.8,112.6
+374,Beldum,Steel,Psychic,6,2,⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,Clear Body,,Light Metal,,,0.6,95.2
+375,Metang,Steel,Psychic,8,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Clear Body,,Light Metal,Beldum,Amateur Rank,1.2,202.5
+376,Metagross,Steel,Psychic,8,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Clear Body,,Light Metal,Metang,Pro Rank,1.6,550
+376,Mega Metagross,Steel,Psychic,8,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Tough Claws,,,,,2.5,942.9
+377,Regirock,Rock,,8,3,⬤⬤⬤,2,⬤⬤,5,⬤⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Clear Body,,Sturdy,,,1.7,230
+378,Regice,Ice,,8,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,5,⬤⬤⬤⬤⬤,Clear Body,,Ice Body,,,1.8,175
+379,Registeel,Steel,,8,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Clear Body,,Light Metal,,,1.9,205
+380,Latias,Dragon,Psychic,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Levitate,,,,,1.4,40
+380,Mega Latias,Dragon,Psychic,8,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Levitate,,,,,1.8,52
+381,Latios,Dragon,Psychic,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Levitate,,,,,2,60
+381,Mega Latios,Dragon,Psychic,8,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Levitate,,,,,2.3,70
+382,Kyogre,Water,,10,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Drizzle,,,,,4.5,352
+382,Primal Kyogre,Water,,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,5,⬤⬤⬤⬤⬤,4,⬤⬤⬤⬤,Primordial Sea,,,,,9.8,430
+383,Groudon,Ground,,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Drought,,,,,3.5,950
+383,Primal Groudon,Ground,,10,5,⬤⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Desolate Land,,,,,5,999.7
+384,Rayquaza,Dragon,Flying,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Air Lock,,,,,7,206.5
+384,Mega Rayquaza,Dragon,Flying,10,5,⬤⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,5,⬤⬤⬤⬤⬤,3,⬤⬤⬤,Delta Stream,,,,,10.8,392
+385,Jirachi,Steel,Psychic,10,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Serene Grace,,,,,0.3,1.1
+386,Normal Forme Deoxys,Psychic,,5,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,Pressure,,,,,1.7,60
+386,Attack Forme Deoxys,Psychic,,5,5,⬤⬤⬤⬤⬤,4,⬤⬤⬤⬤,1,⬤,5,⬤⬤⬤⬤⬤,1,⬤,Pressure,,,,,1.7,60
+386,Defense Forme Deoxys,Psychic,,5,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,Pressure,,,,,1.7,60
+386,Speed Forme Deoxys,Psychic,,5,3,⬤⬤⬤,5,⬤⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Pressure,,,,,1.7,60
+387,Turtwig,Grass,,5,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Overgrow,,Shell Armor,,,0.4,10.2
+388,Grotle,Grass,,7,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Overgrow,,Shell Armor,Turtwig,Amateur Rank,1.1,97
+389,Torterra,Grass,Ground,9,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Overgrow,,Shell Armor,Grotle,Ace Rank,2.2,310
+390,Chimchar,Fire,,4,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,Blaze,,Iron Fist,,,0.5,6.2
+391,Monferno,Fire,Fighting,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Blaze,,Iron Fist,Chimchar,Beginner Rank,0.9,22
+392,Infernape,Fire,Fighting,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Blaze,,Iron Fist,Monferno,Ace Rank,1.2,55
+393,Piplup,Water,,5,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Torrent,,Defiant,,,0.4,5.2
+394,Prinplup,Water,,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Torrent,,Defiant,Piplup,Amateur Rank,0.8,23
+395,Empoleon,Water,Steel,8,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Torrent,,Defiant,Prinplup,Ace Rank,1.7,84.5
+396,Starly,Normal,Flying,4,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Keen Eye,,Reckless,,,0.3,2
+397,Staravia,Normal,Flying,5,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,1,⬤,Intimidate,,Reckless,Starly,Beginner Rank,0.6,15.5
+398,Staraptor,Normal,Flying,8,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Intimidate,,Reckless,Staravia,Ace Rank,1.2,24.9
+399,Bidoof,Normal,,5,2,⬤⬤,1,⬤,1,⬤,1,⬤,1,⬤,Simple,Unaware,Moody,,,0.5,20
+400,Bibarel,Normal,Water,7,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Simple,Unaware,Moody,Bidoof,Beginner Rank,1,31.5
+401,Kricketot,Bug,,3,1,⬤,1,⬤,1,⬤,1,⬤,1,⬤,Shed Skin,,Run Away,,,0.3,2.2
+402,Kricketune,Bug,,7,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Swarm,,Technician,Kricketot,Beginner Rank,1,25.5
+403,Shinx,Electric,,4,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Rivalry,Intimidate,Guts,,,0.5,9.5
+404,Luxio,Electric,,6,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Rivalry,Intimidate,Guts,Shinx,Beginner Rank,0.9,30.5
+405,Luxray,Electric,,8,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Rivalry,Intimidate,Guts,Luxio,Ace Rank,1.4,42
+406,Budew,Grass,Poison,4,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,Natural Cure,Poison Point,Leaf Guard,,,0.2,1.2
+407,Roserade,Grass,Poison,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Natural Cure,Poison Point,Technician,Roselia,Shiny Stone,0.9,14.5
+408,Cranidos,Rock,,6,4,⬤⬤⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Mold Breaker,,Sheer Force,,,0.9,31.5
+409,Rampardos,Rock,,9,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Mold Breaker,,Sheer Force,Cranidos,Ace Rank,1.6,102.5
+410,Shieldon,Rock,Steel,3,1,⬤,1,⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,Sturdy,,Soundproof,,,0.5,57
+411,Bastiodon,Rock,Steel,6,2,⬤⬤,1,⬤,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,Sturdy,,Soundproof,Shieldon,Ace Rank,1.3,149.5
+412,Plant Cloak Burmy,Bug,,4,1,⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Shed Skin,,Overcoat,,,0.2,3.4
+412,Sandy Cloak Burmy,Bug,,4,1,⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Shed Skin,,Overcoat,,,0.2,3.4
+412,Trash Cloak Burmy,Bug,,4,1,⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Shed Skin,,Overcoat,,,0.2,3.4
+413,Plant Cloak Wormadam,Bug,Grass,6,2,⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Anticipation,,Overcoat,Burmy-Trash Cloak (Female Only),Amateur Rank,0.5,6.5
+413,Sandy Cloak Wormadam,Bug,Ground,6,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Anticipation,,Overcoat,Wormadam-Plant Cloak (Female Only),Amateur Rank,0.5,6.5
+413,Trash Cloak Wormadam,Bug,Steel,6,2,⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Anticipation,,Overcoat,Wormadam-Sandy Cloak (Female Only),Amateur Rank,0.5,6.5
+414,Mothim,Bug,Flying,7,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Swarm,,Tinted Lens,Burmy (Male Only),Amateur Rank,0.9,23.3
+415,Combee,Bug,Flying,3,1,⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Honey Gather,,Hustle,,,0.3,5.5
+416,Vespiquen,Bug,Flying,7,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Pressure,,Unnerve,Combee (Female Only),Amateur Rank,1.2,38.5
+417,Pachirisu,Electric,,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Run Away,Pickup,Volt Absorb,,,0.4,3.9
+418,Buizel,Water,,5,2,⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,1,⬤,Swift Swim,,Water Veil,,,0.7,29.5
+419,Floatzel,Water,,8,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Swift Swim,,Water Veil,Buizel,Amateur Rank,1.1,33.5
+420,Cherubi,Grass,,4,1,⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Chlorophyll,,,,,0.4,3.3
+421,Cherrim,Grass,,7,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Flower Gift,,,Cherubi,Amateur Rank,0.5,9.3
+422,Shellos,Water,,7,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Sticky Hold,Storm Drain,Sand Force,,,0.3,6.3
+423,Gastrodon,Water,Ground,11,3,⬤⬤⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Sticky Hold,Storm Drain,Sand Force,Shellos,Ace Rank,0.9,29.9
+424,Ambipom,Normal,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Technician,Pickup,Skill Link,Aipom,Ace Rank,1.2,20.3
+425,Drifloon,Ghost,Flying,9,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Aftermath,Unburden,Flare Boost,,,0.4,1.2
+426,Drifblim,Ghost,Flying,15,3,⬤⬤⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,Aftermath,Unburden,Flare Boost,Drifloon,Amateur Rank,1.2,15
+427,Buneary,Normal,,5,2,⬤⬤,3,⬤⬤⬤,1,⬤,1,⬤,2,⬤⬤,Run Away,Klutz,Limber,,,0.4,5.5
+428,Lopunny,Normal,,6,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Cute Charm,Klutz,Limber,Buneary,Max Friendship,1.2,33.3
+428,Mega Lopunny,Normal,Fighting,6,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Scrappy,,,,,1.3,28.3
+429,Mismagius,Ghost,,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Levitate,,,Misdreavus,Dusk Stone,0.9,4.4
+430,Honchkrow,Dark,Flying,10,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Insomnia,Super Luck,Moxie,Murkrow,Dusk Stone,0.9,27.3
+431,Glameow,Normal,,4,2,⬤⬤,3,⬤⬤⬤,1,⬤,1,⬤,1,⬤,Limber,Own Tempo,Keen Eye,,,0.5,3.9
+432,Purugly,Normal,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Thick Fat,Own Tempo,Defiant,Glameow,Ace Rank,1,43.8
+433,Chingling,Psychic,,4,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Levitate,,,,,0.2,0.6
+434,Stunky,Poison,Dark,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,1,⬤,Stench,Aftermath,Keen Eye,,,0.4,19.2
+435,Skuntank,Poison,Dark,10,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Stench,Aftermath,Keen Eye,Stunky,Ace Rank,1,38
+436,Bronzor,Steel,Psychic,5,1,⬤,1,⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,Levitate,Heatproof,Heavy Metal,,,0.5,60.5
+437,Bronzong,Steel,Psychic,6,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Levitate,Heatproof,Heavy Metal,Bronzor,Ace Rank,1.3,187
+438,Bonsly,Rock,,5,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,Sturdy,Rock Head,Rattled,,,0.5,15
+439,Mime Jr.,Psychic,Fairy,2,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Soundproof,Filter,Technician,,,0.6,13
+440,Happiny,Normal,,10,1,⬤,1,⬤,1,⬤,1,⬤,2,⬤⬤,Natural Cure,Serene Grace,Friend Guard,,,0.6,24.4
+441,Chatot,Normal,Flying,7,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,1,⬤,Keen Eye,Tangled Feet,Big Pecks,,,0.5,1.9
+442,Spiritomb,Ghost,Dark,5,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Pressure,,Infiltrator,,,1,108
+443,Gible,Dragon,Ground,5,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Sand Veil,,Rough Skin,,,0.7,20.5
+444,Gabite,Dragon,Ground,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Sand Veil,,Rough Skin,Gible,Amateur Rank,1.4,56
+445,Garchomp,Dragon,Ground,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Sand Veil,,Rough Skin,Gabite,Pro Rank,1.9,95
+445,Mega Garchomp,Dragon,Ground,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Sand Force,,,,,1.9,95
+446,Munchlax,Normal,,13,3,⬤⬤⬤,1,⬤,1,⬤,1,⬤,3,⬤⬤⬤,Pickup,Thick Fat,Gluttony,,,0.6,105
+447,Riolu,Fighting,,4,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Steadfast,Inner Focus,Prankster,,,0.7,20.2
+448,Lucario,Fighting,Steel,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Steadfast,Inner Focus,Justified,Riolu,Max Friendship,1.2,54
+448,Mega Lucario,Fighting,Steel,7,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,Adaptability,,,,,1.3,57.5
+449,Hippopotas,Ground,,6,2,⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,1,⬤,Sand Stream,,Sand Force,,,0.8,49.5
+450,Hippowdon,Ground,,10,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Sand Stream,,Sand Force,Hippopotas,Ace Rank,2,300
+451,Skorupi,Poison,Bug,4,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,Battle Armor,Sniper,Keen Eye,,,0.8,12
+452,Drapion,Poison,Dark,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Battle Armor,Sniper,Keen Eye,Skorupi,Ace Rank,1.3,61.5
+453,Croagunk,Poison,Fighting,4,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Anticipation,Dry Skin,Poison Touch,,,0.7,23
+454,Toxicroak,Poison,Fighting,8,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Anticipation,Dry Skin,Poison Touch,Croagunk,Ace Rank,1.3,44.4
+455,Carnivine,Grass,,7,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Levitate,,,,,1.4,27
+456,Finneon,Water,,4,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Swift Swim,Storm Drain,Water Veil,,,0.4,7
+457,Lumineon,Water,,6,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Swift Swim,Storm Drain,Water Veil,Finneon,Ace Rank,1.2,24
+458,Mantyke,Water,Flying,4,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,Swift Swim,Water Absorb,Water Veil,,,1,65
+459,Snover,Ice,Grass,6,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Snow Warning,,Soundproof,,,1,50.5
+460,Abomasnow,Ice,Grass,9,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Snow Warning,,Soundproof,Snover,Ace Rank,2.2,135.5
+461,Mega Abomasnow,Ice,Grass,9,4,⬤⬤⬤⬤,1,⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Snow Warning,,,,,2.7,185
+461,Weavile,Dark,Ice,7,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Pressure,,Pickpocket,Sneasel,Razor Claw,1.1,34
+462,Magnezone,Electric,Steel,7,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Magnet Pull,Sturdy,Analytic,Magneton,Thunder Stone,1.2,180
+463,Lickilicky,Normal,,11,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Own Tempo,Oblivious,Cloud Nine,Lickitung,Ace Rank,1.7,140
+464,Rhyperior,Ground,Rock,11,4,⬤⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,Lightning Rod,Solid Rock,Reckless,Rhydon,Pro Ranktector,2.4,282.8
+465,Tangrowth,Grass,,10,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Chlorophyll,Leaf Guard,Regenerator,Tangela,Ace Rank,2,128.6
+466,Electivire,Electric,,7,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Motor Drive,,Vital Spirit,Electabuzz,Electirizer,1.8,138.6
+467,Magmortar,Fire,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Flame Body,,Vital Spirit,Magmar,Magmarizer,1.6,68
+468,Togekiss,Fairy,Flying,8,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Hustle,Serene Grace,Super Luck,Togetic,Shiny Stone,1.5,38
+469,Yanmega,Bug,Flying,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Speed Boost,Tinted Lens,Frisk,Yanma,Ace Rank,1.9,51.5
+470,Leafeon,Grass,,6,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,Leaf Guard,,Chlorophyll,Eevee,Leaf Stone,1,25.5
+471,Glaceon,Ice,,6,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Snow Cloak,,Ice Body,Eevee,Ice Stone,0.8,25.9
+472,Gliscor,Ground,Flying,7,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Hyper Cutter,Sand Veil,Poison Heal,Gligar,Razor Fang,2,42.5
+473,Mamoswine,Ice,Ground,11,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Oblivious,Snow Cloak,Thick Fat,Piloswine,Pro Rank,2.5,291
+474,Porygon-Z,Normal,,8,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Adaptability,Download,Analytic,Poyrgon2,Dubious Disc,0.9,34
+475,Gallade,Psychic,Fighting,6,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Steadfast,,Justified,Kirlia,Dawn Stone,1.6,52
+475,Mega Gallade,Psychic,Fighting,6,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Inner Focus,,,,,1.6,56.4
+476,Probopass,Rock,Steel,6,2,⬤⬤,1,⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Sturdy,Magnet Pull,Sand Force,Nosepass,Thunder Stone,1.4,340
+477,Dusknoir,Ghost,,4,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,Pressure,,Frisk,Dusclops,Reaper Cloth,2.2,106.6
+478,Froslass,Ice,Ghost,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Snow Cloak,,Cursed Body,Snover,Dawn Stone (Female Only),1.3,26.6
+479,Rotom,Electric,Ghost,5,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Levitate,,,,,0.3,0.3
+479,Heat Rotom,Electric,Fire,5,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Levitate,,,,,0.3,0.3
+479,Wash Rotom,Electric,Water,5,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Levitate,,,,,0.3,0.3
+479,Frost Rotom,Electric,Ice,5,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Levitate,,,,,0.3,0.3
+479,Fan Rotom,Electric,Flying,5,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Levitate,,,,,0.3,0.3
+479,Mow Rotom,Electric,Grass,5,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Levitate,,,,,0.3,0.3
+480,Uxie,Psychic,,7,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Levitate,,,,,0.3,0.3
+481,Mesprit,Psychic,,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Levitate,,,,,0.3,0.3
+482,Azelf,Psychic,,7,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,Levitate,,,,,0.3,0.3
+483,Dialga,Steel,Dragon,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Pressure,,Telepathy,,,5.4,683
+483,Origin Forme Dialga,Steel,Dragon,10,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Pressure,,Telepathy,,,7,850
+484,Palkia,Water,Dragon,9,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Pressure,,Telepathy,,,4.2,336
+484,Origin Forme Palkia,Water,Dragon,9,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Pressure,,Telepathy,,,6.3,660
+485,Heatran,Fire,Steel,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Flash Fire,,Flame Body,,,1.7,430
+486,Regigigas,Normal,,11,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Slow Start,,,,,3.7,420
+487,Altered Forme Giratina,Ghost,Dragon,15,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Pressure,,Telepathy,,,4.5,750
+487,Origin Forme Giratina,Ghost,Dragon,15,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Levitate,,,,,6.9,650
+488,Cresselia,Psychic,,12,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Levitate,,,,,1.5,85.6
+489,Phione,Water,,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Hydration,,,,,0.4,3.1
+490,Manaphy,Water,,10,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Hydration,,,,,0.3,1.4
+491,Darkrai,Dark,,7,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Bad Dreams,,,,,1.5,50.5
+492,Land Forme Shaymin,Grass,,10,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Natural Cure,,,,,0.2,2.1
+492,Sky Forme Shaymin,Grass,Flying,10,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Serene Grace,,,,,0.4,5.2
+493,Arceus,Normal,,12,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Multitype,,,,,3.2,320
+494,Victini,Psychic,Fire,10,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Victory Star,,,,,0.4,4
+495,Snivy,Grass,,4,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Overgrow,,Contrary,,,0.6,8.1
+496,Servine,Grass,,6,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Overgrow,,Contrary,Snivy,Amateur Rank,0.8,16
+497,Serperior,Grass,,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Overgrow,,Contrary,Servine,Ace Rank,3.3,63
+498,Tepig,Fire,,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Blaze,,Thick Fat,,,0.5,9.9
+499,Pignite,Fire,Fighting,9,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Blaze,,Thick Fat,Tepig,Amateur Rank,1,55.5
+500,Emboar,Fire,Fighting,11,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Blaze,,Reckless,Pignite,Ace Rank,1.6,150
+501,Oshawott,Water,,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Torrent,,Shell Armor,,,0.5,5.9
+502,Dewott,Water,,7,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Torrent,,Shell Armor,Oshawott,Amateur Rank,0.8,24.5
+503,Samurott,Water,,9,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Torrent,,Shell Armor,Dewott,Ace Rank,1.5,94.6
+503,Hisuian Samurott,Water,Dark,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Torrent,,Sharpness,,Ace Rank,1.5,58.2
+504,Patrat,Normal,,4,2,⬤⬤,1,⬤,1,⬤,1,⬤,1,⬤,Run Away,Keen Eye,Analytic,,,0.5,11.6
+505,Watchog,Normal,,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Illuminate,Keen Eye,Analytic,Patrat,Amateur Rank,1.1,27
+506,Lillipup,Normal,,4,2,⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Vital Spirit,Pickup,Run Away,,,0.4,4.1
+507,Herdier,Normal,,6,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Intimidate,Sand Rush,Scrappy,Lillipup,Amateur Rank,0.9,14.7
+508,Stoutland,Normal,,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Intimidate,Sand Rush,Scrappy,Herdier,Ace Rank,1.2,61
+509,Purrloin,Dark,,4,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Limber,Unburden,Prankster,,,0.4,10.1
+510,Liepard,Dark,,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Limber,Unburden,Prankster,Purrloin,Amateur Rank,1.1,37.5
+511,Pansage,Grass,,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Gluttony,,Overgrow,,,0.6,10.5
+512,Simisage,Grass,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Gluttony,,Overgrow,Pansage,Leaf Stone,1.1,30.5
+513,Pansear,Fire,,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Gluttony,,Blaze,,,0.6,11
+514,Simisear,Fire,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Gluttony,,Blaze,Pansear,Fire Stone,1,28
+515,Panpour,Water,,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Gluttony,,Torrent,,,0.6,13.5
+516,Simipour,Water,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Gluttony,,Torrent,Panpour,Water Stone,1,29
+517,Munna,Psychic,,7,1,⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Forewarn,Synchronize,Telepathy,,,0.6,23.3
+518,Musharna,Psychic,,11,2,⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Forewarn,Synchronize,Telepathy,Munna,Moon Stone,1.1,60.5
+519,Pidove,Normal,Flying,5,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Big Pecks,Super Luck,Rivalry,,,0.3,2.1
+520,Tranquill,Normal,Flying,6,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,Big Pecks,Super Luck,Rivalry,Pidove,Amateur Rank,0.6,15
+521,Unfezant,Normal,Flying,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Big Pecks,Super Luck,Rivalry,Tranquill,Ace Rank,1.2,29
+522,Blitzle,Electric,,4,2,⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,1,⬤,Lightning Rod,Motor Drive,Sap Sipper,,,0.8,29.8
+523,Zebstrika,Electric,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Lightning Rod,Motor Drive,Sap Sipper,Blitzle,Amateur Rank,1.6,79.5
+524,Roggenrola,Rock,,5,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,1,⬤,Sturdy,,Sand Force,,,0.4,18
+525,Boldore,Rock,,7,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,Sturdy,,Sand Force,Roggenrola,Amateur Rank,0.9,102
+526,Gigalith,Rock,,8,4,⬤⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Sturdy,,Sand Force,Boldore,Link Cable,1.7,260
+527,Woobat,Psychic,Flying,6,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Unaware,Klutz,Simple,,,0.4,2.1
+528,Swoobat,Psychic,Flying,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Unaware,Klutz,Simple,Woobat,Max Friendship,0.9,10.5
+529,Drilbur,Ground,,6,3,⬤⬤⬤,2,⬤⬤,1,⬤,1,⬤,2,⬤⬤,Sand Rush,Sand Force,Mold Breaker,,,0.3,8.5
+530,Excadrill,Ground,Steel,11,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Sand Rush,Sand Force,Mold Breaker,Drilbur,Ace Rank,0.7,40.4
+531,Audino,Normal,,10,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Healer,Regenerator,Klutz,,,1.1,31
+531,Mega Audino,Normal,Fairy,10,2,⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Healer,,,,,1.5,32
+532,Timburr,Fighting,,7,3,⬤⬤⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Guts,Sheer Force,Iron Fist,,,0.6,12.5
+533,Gurdurr,Fighting,,8,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,Guts,Sheer Force,Iron Fist,Timburr,Amateur Rank,1.2,40
+534,Conkeldurr,Fighting,,10,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Guts,Sheer Force,Iron Fist,Gurdurr,Link Cable,1.4,87
+535,Tympole,Water,,5,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Swift Swim,Hydration,Water Absorb,,,0.5,4.5
+536,Palpitoad,Water,Ground,7,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Swift Swim,Hydration,Water Absorb,Tympole,Amateur Rank,0.8,17
+537,Seismitoad,Water,Ground,10,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Swift Swim,Poison Touch,Water Absorb,Palpitoad,Ace Rank,1.5,62
+538,Throh,Fighting,,12,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,Guts,Inner Focus,Mold Breaker,,,1.3,55.5
+539,Sawk,Fighting,,7,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,Sturdy,Inner Focus,Mold Breaker,,,1.4,51
+540,Sewaddle,Bug,Grass,4,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Swarm,Chlorophyll,Overcoat,,,0.3,2.5
+541,Swadloon,Bug,Grass,5,2,⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Leaf Guard,Chlorophyll,Overcoat,Sewaddle,Amateur Rank,0.5,7.3
+542,Leavanny,Bug,Grass,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Swarm,Chlorophyll,Overcoat,Swadloon,Max Friendship,1.2,20.5
+543,Venipede,Bug,Poison,3,2,⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,Poison Point,Swarm,Speed Boost,,,0.4,5.3
+544,Whirlipede,Bug,Poison,4,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,Poison Point,Swarm,Speed Boost,Venipede,Amateur Rank,1.2,58.5
+545,Scolipede,Bug,Poison,6,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Poison Point,Swarm,Speed Boost,Whirlipede,Ace Rank,2.5,200.5
+546,Cottonee,Grass,Fairy,4,1,⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Prankster,Infiltrator,Chlorophyll,,,0.3,0.6
+547,Whimsicott,Grass,Fairy,6,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Prankster,Infiltrator,Chlorophyll,Cottonee,Sun Stone,0.7,6.6
+548,Petilil,Grass,,4,1,⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Chlorophyll,Own Tempo,Leaf Guard,,,0.5,6.6
+549,Lilligant,Grass,,7,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Chlorophyll,Own Tempo,Leaf Guard,Petilil,Sun Stone,1.1,16.3
+549,Hisuian Lilligant,Grass,Fighting,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Chlorophyll,Hustle,Leaf Guard,Petilil,Sun Stone,1.2,19.2
+550,Red Striped Form Basculin,Water,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Reckless,Adaptability,Mold Breaker,,,1,18
+550,Blue Striped Form Basculin,Water,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Rock Head,Adaptability,Mold Breaker,,,1,18
+550,White Striped Form Basculin,Water,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Rattled,Adaptability,Mold Breaker,,,1,18
+551,Sandile,Ground,Dark,5,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Intimidate,Moxie,Anger Point,,,0.7,15.2
+552,Krokorok,Ground,Dark,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Intimidate,Moxie,Anger Point,Sandile,Ace Rank,1,33.4
+553,Krookodile,Ground,Dark,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Intimidate,Moxie,Anger Point,Krokorok,Pro Rank,1.5,96.3
+554,Darumaka,Fire,,7,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Hustle,,Inner Focus,,,0.6,37.5
+554,Galarian Darumaka,Ice,,7,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Hustle,,Inner Focus,,,0.7,40
+555,Darmanitan,Fire,,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Sheer Force,,Zen Mode,Darumaka,Ace Rank,1.3,92.9
+555,Zen Mode Darmanitan,Fire,Psychic,10,1,⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Zen Mode,,,Darumaka,Ace Rank,1.3,92.9
+555,Galarian Darmanitan,Ice,,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Gorilla Tactics,,Zen Mode,Darumaka-Galarian,Ice Stone,1.7,120
+555,Zen Mode Galarian Darmanitan,Ice,Fire,10,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Zen Mode,,,Darumaka-Galarian,Ice Stone,1.7,120
+556,Maractus,Grass,,7,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Water Absorb,Chlorophyll,Storm Drain,,,1,28
+557,Dwebble,Bug,Rock,5,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,1,⬤,1,⬤,Sturdy,Shell Armor,Weak Armor,,,0.3,14.5
+558,Crustle,Bug,Rock,7,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Sturdy,Shell Armor,Weak Armor,Dwebble,Ace Rank,1.4,200
+559,Scraggy,Dark,Fighting,5,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Shed Skin,Moxie,Intimidate,,,0.6,11.8
+560,Scrafty,Dark,Fighting,6,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Shed Skin,Moxie,Intimidate,Scraggy,Ace Rank,1.1,30
+561,Sigilyph,Psychic,Flying,7,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Wonder Skin,Magic Guard,Tinted Lens,,,1.4,14
+562,Yamask,Ghost,,3,1,⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Mummy,,,,,0.5,1.5
+562,Galarian Yamask,Ground,Ghost,3,2,⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,Wandering Spirit,,,,,0.5,1.5
+563,Cofagrigus,Ghost,,5,2,⬤⬤,1,⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Mummy,,,Yamask,Ace Rank,1.7,76.5
+564,Tirtouga,Water,Rock,5,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Solid Rock,Sturdy,Swift Swim,,,0.7,16.5
+565,Carracosta,Water,Rock,7,3,⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Solid Rock,Sturdy,Swift Swim,Tirtouga,Ace Rank,1.2,81
+566,Archen,Rock,Flying,5,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Defeatist,,,,,0.5,9.5
+567,Archeops,Rock,Flying,7,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Defeatist,,,Archen,Ace Rank,1.4,32
+568,Trubbish,Poison,,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Stench,Sticky Hold,Aftermath,,,0.6,31
+569,Garbodor,Poison,,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Stench,Weak Armor,Aftermath,Trubbish,Ace Rank,1.9,107.3
+569,Mega Garbodor,Poison,,8,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Toxic Debris,,,,,1.9,107.3
+570,Zorua,Dark,,4,2,⬤⬤,2,⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,Illusion,,,,,0.7,12.5
+570,Hisuian Zorua,Normal,Ghost,3,2,⬤⬤,2,⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,Illusion,,,,,0.7,12.5
+571,Zoroark,Dark,,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,Illusion,,,Zorua,Ace Rank,1.6,81.1
+571,Hisuian Zoroark,Normal,Ghost,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,Illusion,,,Zorua-Hisuian,Ace Rank,1.6,73
+572,Minccino,Normal,,5,2,⬤⬤,3,⬤⬤⬤,1,⬤,1,⬤,1,⬤,Cute Charm,Technician,Skill Link,,,0.4,5.8
+573,Cinccino,Normal,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Cute Charm,Technician,Skill Link,Minccino,Shiny Stone,0.5,7.5
+574,Gothita,Psychic,,4,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Frisk,Competitive,Shadow Tag,,,0.4,5.8
+575,Gothorita,Psychic,,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Frisk,Competitive,Shadow Tag,Gothita,Ace Rank,0.7,18
+576,Gothitelle,Psychic,,7,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Frisk,Competitive,Shadow Tag,Gothorita,Pro Rank,1.5,44
+577,Solosis,Psychic,,4,1,⬤,1,⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,Overcoat,Magic Guard,Regenerator,,,0.3,1
+578,Duosion,Psychic,,6,1,⬤,1,⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,Overcoat,Magic Guard,Regenerator,Solosis,Ace Rank,0.6,8
+579,Reuniclus,Psychic,,11,2,⬤⬤,1,⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Overcoat,Magic Guard,Regenerator,Duosion,Pro Rank,1,20.1
+580,Ducklett,Water,Flying,6,1,⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Keen Eye,Big Pecks,Hydration,,,0.5,5.5
+581,Swanna,Water,Flying,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Keen Eye,Big Pecks,Hydration,Ducklett,Ace Rank,1.3,24.2
+582,Vanillite,Ice,,3,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Ice Body,Snow Cloak,Weak Armor,,,0.4,5.7
+583,Vanillish,Ice,,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Ice Body,Snow Cloak,Weak Armor,Vanillite,Ace Rank,1.1,41
+584,Vanilluxe,Ice,,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Ice Body,Snow Cloak,Weak Armor,Vanillish,Pro Rank,1.3,57.5
+585,Deerling,Normal,Grass,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,1,⬤,Chlorophyll,Sap Sipper,Serene Grace,,,0.6,19.5
+586,Sawsbuck,Normal,Grass,8,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Chlorophyll,Sap Sipper,Serene Grace,Deerling,Ace Rank,1.9,92.5
+587,Emolga,Electric,Flying,5,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Static,,Motor Drive,,,0.4,5
+588,Karrablast,Bug,,5,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Swarm,Shed Skin,No Guard,,,0.5,5.9
+589,Escavalier,Bug,Steel,7,4,⬤⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Swarm,Shell Armor,Overcoat,Karrablast,Link Cable,1,33
+590,Foongus,Grass,Poison,6,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Effect Spore,,Regenerator,,,0.2,1
+591,Amoonguss,Grass,Poison,11,3,⬤⬤⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Effect Spore,,Regenerator,Foongus,Ace Rank,0.6,10.5
+592,Frillish,Water,Ghost,5,1,⬤,1,⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Water Absorb,Cursed Body,Damp,,,1.2,33
+593,Jellicent,Water,Ghost,10,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Water Absorb,Cursed Body,Damp,Frillish,Ace Rank,2.2,135
+594,Alomomola,Water,,16,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,Healer,Hydration,Regenerator,,,1.2,31.6
+595,Joltik,Bug,Electric,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Compound Eyes,Unnerve,Swarm,,,0.1,0.6
+596,Galvantula,Bug,Electric,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Compound Eyes,Unnerve,Swarm,Joltik,Ace Rank,0.8,14.3
+597,Ferroseed,Grass,Steel,4,2,⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,Iron Barbs,,,,,0.6,18.8
+598,Ferrothorn,Grass,Steel,7,3,⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Iron Barbs,,Anticipation,Ferroseed,Ace Rank,1,110
+599,Klink,Steel,,4,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Plus,Minus,Clear Body,,,0.3,21
+600,Klang,Steel,,6,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Plus,Minus,Clear Body,Klink,Ace Rank,0.6,51
+601,Klinklang,Steel,,6,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Plus,Minus,Clear Body,Klang,Pro Rank,0.6,81
+602,Tynamo,Electric,,3,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Levitate,,,,,0.2,0.3
+603,Eelektrik,Electric,,6,3,⬤⬤⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Levitate,,,Tynamo,Ace Rank,1.2,22
+604,Eelektross,Electric,,8,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Levitate,,,Eelektrik,Thunder Stone,2.1,80.5
+605,Elgyem,Psychic,,5,2,⬤⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Telepathy,Synchronize,Analytic,,,0.5,9
+606,Beheeyem,Psychic,,7,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Telepathy,Synchronize,Analytic,Elgyem,Pro Rank,1,34.5
+607,Litwick,Ghost,Fire,5,1,⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Flash Fire,Flame Body,Infiltrator,,,0.3,3.1
+608,Lampent,Ghost,Fire,6,1,⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Flash Fire,Flame Body,Infiltrator,Litwick,Pro Rank,0.6,13
+609,Chandelure,Ghost,Fire,6,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Flash Fire,Flame Body,Infiltrator,Lampent,Dusk Stone,1,34.3
+610,Axew,Dragon,,4,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,Rivalry,Mold Breaker,Unnerve,,,0.6,18
+611,Fraxure,Dragon,,6,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Rivalry,Mold Breaker,Unnerve,Axew,Ace Rank,1,36
+612,Haxorus,Dragon,,7,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Rivalry,Mold Breaker,Unnerve,Fraxure,Pro Rank,1.8,105.5
+613,Cubchoo,Ice,,5,2,⬤⬤,1,⬤,1,⬤,2,⬤⬤,1,⬤,Snow Cloak,Slush Rush,Rattled,,,0.5,8.5
+614,Beartic,Ice,,9,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Snow Cloak,Slush Rush,Swift Swim,Cubchoo,Ace Rank,2.6,260
+615,Cryogonal,Ice,,8,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Levitate,,,,,1.1,148
+616,Shelmet,Bug,,5,1,⬤,1,⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,Hydration,Shell Armor,Overcoat,,,0.4,7.7
+617,Accelgor,Bug,,8,2,⬤⬤,4,⬤⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,Hydration,Sticky Hold,Unburden,Shelmet,Link Cable,0.8,25.3
+618,Stunfisk,Ground,Electric,10,2,⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Static,Limber,Sand Veil,,,0.7,11
+618,Galarian Stunfisk,Ground,Steel,10,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Mimicry,,,,,0.7,20.5
+619,Mienfoo,Fighting,,4,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Inner Focus,Regenerator,Reckless,,,0.9,20
+620,Mienshao,Fighting,,6,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Inner Focus,Regenerator,Reckless,,,1.4,35.5
+621,Druddigon,Dragon,,7,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Rough Skin,Sheer Force,Mold Breaker,Mienshao,Pro Rank,1.6,139
+622,Golett,Ground,Ghost,5,3,⬤⬤⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Iron Fist,Klutz,No Guard,,,1,92
+623,Golurk,Ground,Ghost,8,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Iron Fist,Klutz,No Guard,Golett,Pro Rank,2.8,330
+624,Pawniard,Dark,Steel,4,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,Defiant,Inner Focus,Pressure,,,0.5,10.2
+625,Bisharp,Dark,Steel,6,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Defiant,Inner Focus,Pressure,Pawniard,Pro Rank,1.6,70
+626,Bouffalant,Normal,,9,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,Reckless,Sap Sipper,Soundproof,,,1.6,94.6
+627,Rufflet,Normal,Flying,7,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Keen Eye,Sheer Force,Hustle,,,0.5,10.5
+628,Braviary,Normal,Flying,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Keen Eye,Sheer Force,Defiant,Rufflet,Pro Rank,1.5,41
+628,Hisuian Braviary,Psychic,Flying,11,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Keen Eye,Sheer Force,Tinted Lens,Rufflet,Pro Rank,1.7,43.4
+629,Vullaby,Dark,Flying,7,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Big Pecks,Overcoat,Weak Armor,,,0.5,9
+630,Mandibuzz,Dark,Flying,11,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Big Pecks,Overcoat,Weak Armor,Vullaby,Pro Rank,1.2,39.5
+631,Heatmor,Fire,,8,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Gluttony,Flash Fire,White Smoke,,,1.4,58
+632,Durant,Bug,Steel,5,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Swarm,Hustle,Truant,,,0.3,33
+633,Deino,Dark,Dragon,5,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Hustle,,,,,0.8,17.3
+634,Zweilous,Dark,Dragon,7,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Hustle,,,Deino,Pro Rank,1.4,50
+635,Hydreigon,Dark,Dragon,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Levitate,,,Zweilous,Elite Rank,1.8,160
+636,Larvesta,Bug,Fire,5,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Flame Body,,Swarm,,,1.1,28.8
+637,Volcarona,Bug,Fire,8,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Flame Body,,Swarm,Larvesta,Elite Rank,1.6,46
+638,Cobalion,Steel,Fighting,9,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Justified,,,,,2.1,250
+639,Terrakion,Rock,Fighting,9,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Justified,,,,,1.9,260
+640,Virizion,Grass,Fighting,9,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Justified,,,,,2,200
+641,Incarnate Forme Tornadus,Flying,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Prankster,,Defiant,,,1.5,63
+641,Therian Forme Tornadus,Flying,,7,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Regenerator,,,,,1.4,63
+642,Incarnate Forme Thundurus,Electric,Flying,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Prankster,,Defiant,,,1.5,61
+642,Therian Forme Thundurus,Electric,Flying,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Volt Absorb,,,,,3,61
+643,Reshiram,Dragon,Fire,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Turboblaze,,,,,3.2,330
+644,Zekrom,Dragon,Electric,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Teravolt,,,,,2.9,345
+645,Incarnate Forme Landorus,Ground,Flying,8,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Sand Force,,Sheer Force,,,1.5,68
+645,Therian Forme Landorus,Ground,Flying,8,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Intimidate,,,,,1.3,68
+646,Kyurem,Dragon,Ice,12,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Pressure,,,,,3,325
+646,White Kyurem,Dragon,Ice,12,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Turboblaze,,,,,3.6,325
+646,Black Kyurem,Dragon,Ice,12,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Teravolt,,,,,3.3,325
+647,Ordinary Form Keldeo,Water,Fighting,9,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Justified,,,,,1.4,48.5
+647,Resolute Form Keldeo,Water,Fighting,9,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Justified,,,,,1.4,48.5
+648,Aria Forme Meloetta,Normal,Psychic,10,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Serene Grace,,,,,0.6,6.5
+648,Pirouette Forme Meloetta,Normal,Fighting,10,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Serene Grace,,,,,0.6,6.5
+649,Genesect,Bug,Steel,7,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Download,,,,,1.5,82.5
+650,Chespin,Grass,,5,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Overgrow,,Bulletproof,,,0.4,9
+651,Quilladin,Grass,,6,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Overgrow,,Bulletproof,Chespin,Amateur Rank,0.7,29
+652,Chesnaught,Grass,Fighting,8,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Overgrow,,Bulletproof,Quilladin,Ace Rank,1.6,90
+653,Fennekin,Fire,,4,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,Blaze,,Magician,,,0.4,9.4
+654,Braixen,Fire,,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Blaze,,Magician,Fennekin,Amateur Rank,1,14.5
+655,Delphox,Fire,Psychic,7,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Blaze,,Magician,Braixen,Ace Rank,1.5,39
+656,Froakie,Water,,4,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Torrent,,Protean,,,0.3,7
+657,Frogadier,Water,,5,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Torrent,,Protean,Froakie,Amateur Rank,0.6,10.9
+658,Greninja,Water,Dark,7,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Torrent,Battle Bond,Protean,Frogadier,Ace Rank,1.5,40
+659,Bunnelby,Normal,,3,1,⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Pickup,Cheek Pouch,Huge Power,,,0.4,5
+660,Diggersby,Normal,Ground,8,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Pickup,Cheek Pouch,Huge Power,Bunnelby,Amateur Rank,1,42.4
+661,Fletchling,Normal,Flying,4,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Big Pecks,,Gale Wings,,,0.3,1.7
+662,Fletchinder,Fire,Flying,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Flame Body,,Gale Wings,Fletchling,Amateur Rank,0.7,16
+663,Talonflame,Fire,Flying,7,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Flame Body,,Gale Wings,Fletchinder,Ace Rank,1.2,24.5
+664,Scatterbug,Bug,,3,1,⬤,1,⬤,1,⬤,1,⬤,1,⬤,Shield Dust,Compound Eyes,Friend Guard,,,0.3,2.5
+665,Spewpa,Bug,,4,1,⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Shed Skin,,Friend Guard,Scatterbug,Beginner Rank,0.3,8.4
+666,Vivillon,Bug,Flying,8,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Shield Dust,Compound Eyes,Friend Guard,Spewpa,Amateur Rank,1.2,17
+667,Litleo,Fire,Normal,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Rivalry,Unnerve,Moxie,,,0.6,13.5
+668,Pyroar,Fire,Normal,8,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Rivalry,Unnerve,Moxie,Litleo,Ace Rank,1.5,81.5
+669,Flabébé,Fairy,,4,1,⬤,1,⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,Flower Veil,,Symbiosis,,,0.1,0.1
+670,Floette,Fairy,,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Flower Veil,,Symbiosis,Flabébé,Amateur Rank,0.2,0.9
+670,Eternal Flower Floette,Fairy,,7,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Flower Veil,,,,,0.2,0.9
+671,Florges,Fairy,,7,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Flower Veil,,Symbiosis,Floette,Shiny Stone,0.9,31
+672,Skiddo,Grass,,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Sap Sipper,,Grass Pelt,,,1.1,10
+673,Gogoat,Grass,,12,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Sap Sipper,,Grass Pelt,Skiddo,Ace Rank,1.7,91
+674,Pancham,Fighting,,6,3,⬤⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Iron Fist,Mold Breaker,Scrappy,,,0.6,8
+675,Pangoro,Fighting,Dark,9,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Iron Fist,Mold Breaker,Scrappy,Pancham,Ace Rank,2.1,136
+676,Furfrou,Normal,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Fur Coat,,,,,1.2,28
+677,Espurr,Psychic,,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Keen Eye,Infiltrator,Own Tempo,,,0.3,3.5
+678,Meowstic♂,Psychic,,7,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Keen Eye,Infiltrator,Prankster,Espurr,Amateur Rank,0.6,8.5
+678,Meowstic♀,Psychic,,7,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Keen Eye,Infiltrator,Competitive,Espurr,Amateur Rank,0.6,8.5
+679,Honedge,Steel,Ghost,4,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,1,⬤,No Guard,,,,,0.8,2
+680,Doublade,Steel,Ghost,5,3,⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,No Guard,,,Honedge,Ace Rank,0.8,4.5
+681,Shield Forme Aegislash,Steel,Ghost,6,2,⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,Stance Change,,,Doublade,Dusk Stone,1.7,53
+681,Blade Forme Aegislash,Steel,Ghost,6,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,Stance Change,,,Doublade,Dusk Stone,1.7,53
+682,Spritzee,Fairy,,7,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Healer,,Aroma Veil,,,0.2,0.5
+683,Aromatisse,Fairy,,10,2,⬤⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Healer,,Aroma Veil,Spritzee,Sachet,0.8,15.5
+684,Swirlix,Fairy,,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Sweet Veil,,Unburden,,,0.4,3.5
+685,Slurpuff,Fairy,,8,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Sweet Veil,,Unburden,Swirlix,Whipped Dream,0.8,5
+686,Inkay,Dark,Psychic,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Contrary,Suction Cups,Infiltrator,,,0.4,3.5
+687,Malamar,Dark,Psychic,8,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Contrary,Suction Cups,Infiltrator,Inkay,Ace Rank,1.5,47
+688,Binacle,Rock,Water,4,2,⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Tough Claws,Sniper,Pickpocket,,,0.5,31
+689,Barbaracle,Rock,Water,7,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Tough Claws,Sniper,Pickpocket,Binacle,Ace Rank,1.3,96
+690,Skrelp,Poison,Water,5,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Poison Point,Poison Touch,Adaptability,,,0.5,7.3
+691,Dragalge,Poison,Dragon,6,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Poison Point,Poison Touch,Adaptability,Skrelp,Pro Rank,1.8,81.5
+692,Clauncher,Water,,5,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Mega Launcher,,,,,0.5,8.3
+693,Clawitzer,Water,,7,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Mega Launcher,,,Clauncher,Ace Rank,1.3,35.3
+694,Helioptile,Electric,Normal,4,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Dry Skin,Sand Veil,Solar Power,,,0.5,6
+695,Heliolisk,Electric,Normal,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Dry Skin,Sand Veil,Solar Power,Helioptile,Sun Stone,1,21
+696,Tyrunt,Rock,Dragon,5,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Strong Jaw,,Sturdy,,,0.8,26
+697,Tyrantrum,Rock,Dragon,8,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,Strong Jaw,,Rock Head,Tyrunt,Ace Rank,2.5,270
+698,Amaura,Rock,Ice,7,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Refrigerate,,Snow Warning,,,1.3,25.2
+699,Aurorus,Rock,Ice,12,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Refrigerate,,Snow Warning,Amaura,Ace Rank,2.7,225
+700,Sylveon,Fairy,,9,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Cute Charm,,Pixilate,Aurorus,Max Friendship,1,23.5
+701,Hawlucha,Fighting,Flying,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Limber,Unburden,Mold Breaker,,,0.8,21.5
+702,Dedenne,Electric,Fairy,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Cheek Pouch,Pickup,Plus,,,0.2,2.2
+703,Carbink,Rock,Fairy,5,2,⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,Clear Body,,Sturdy,,,0.3,5.7
+704,Goomy,Dragon,,4,2,⬤⬤,1,⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,Sap Sipper,Hydration,Gooey,,,0.3,2.8
+705,Sliggoo,Dragon,,6,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Sap Sipper,Hydration,Gooey,Goomy,Ace Rank,0.8,17.5
+705,Hisuian Sliggoo,Dragon,Steel,5,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Sap Sipper,Shell Armor,Gooey,Goomy,Ace Rank,0.7,68.5
+706,Goodra,Dragon,,9,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Sap Sipper,Hydration,Gooey,Sliggoo,Pro Rank,2,150.5
+706,Hisuian Goodra,Dragon,Steel,8,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Sap Sipper,Shell Armor,Gooey,Sliggoo-Hisuian,Pro Rank,1.7,334.1
+707,Klefki,Steel,Fairy,5,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Prankster,,Magician,,,0.2,3
+708,Phantump,Ghost,Grass,4,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Natural Cure,Frisk,Harvest,,,0.4,7
+709,Trevenant,Ghost,Grass,8,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Natural Cure,Frisk,Harvest,Phantump,Link Cable,1.5,71
+710,Pumpkaboo,Ghost,Grass,4,2,⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Pickup,Frisk,Insomnia,,,0.4,5
+711,Gourgeist,Ghost,Grass,6,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Pickup,Frisk,Insomnia,Pumpkaboo,Link Cable,1.7,39
+712,Bergmite,Ice,,5,2,⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,1,⬤,Own Tempo,Ice Body,Sturdy,,,1,99.5
+713,Avalugg,Ice,,9,3,⬤⬤⬤,1,⬤,5,⬤⬤⬤⬤⬤,1,⬤,2,⬤⬤,Own Tempo,Ice Body,Sturdy,Bergmite,Ace Rank,2,505
+713,Hisuian Avalugg,Ice,Rock,9,4,⬤⬤⬤⬤,1,⬤,5,⬤⬤⬤⬤⬤,1,⬤,1,⬤,Strong Jaw,Ice Body,Sturdy,Avalugg,Ace Rank,1.4,262.4
+714,Noibat,Flying,Dragon,4,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Frisk,Infiltrator,Telepathy,,,0.5,8
+715,Noivern,Flying,Dragon,8,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Frisk,Infiltrator,Telepathy,Noibat,Pro Rank,1.5,85
+716,Xerneas,Fairy,,12,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Fairy Aura,,,,,3,215
+717,Yveltal,Dark,Flying,12,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Dark Aura,,,,,5.8,203
+718,10% Forme Zygarde,Dragon,Ground,5,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Aura Break,Power Construct,,,,1.2,33.5
+718,50% Forme Zygarde,Dragon,Ground,10,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Aura Break,Power Construct,,,,5,305
+718,Complete Forme Zygarde,Dragon,Ground,21,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Power Construct,,,,,4.5,610
+719,Diancie,Rock,Fairy,5,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Clear Body,,,,,0.7,8.8
+719,Mega Diancie,Rock,Fairy,5,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Magic Bounce,,,,,1.1,27.8
+720,Confined Hoopa,Psychic,Ghost,8,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Magician,,,,,0.5,9
+720,Unbound Hoopa,Psychic,Ghost,8,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Magician,,,,,6.5,490
+721,Volcanion,Fire,Water,8,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Water Absorb,,,,,1.7,195
+722,Rowlet,Grass,Flying,6,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Overgrow,,Long Reach,,,0.3,1
+723,Dartrix,Grass,Flying,7,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Overgrow,,Long Reach,Rowlet,Amateur Rank,0.7,16
+724,Decidueye,Grass,Ghost,7,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Overgrow,,Long Reach,Dartrix,Ace Rank,1.6,36.6
+724,Hisuian Decidueye,Grass,Fighting,8,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Overgrow,,Scrappy,Dartrix,Ace Rank,1.6,37
+725,Litten,Fire,,4,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Blaze,,Intimidate,,,0.4,4.3
+726,Torracat,Fire,,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Blaze,,Intimidate,Litten,Amateur Rank,0.7,25
+727,Incineroar,Fire,Dark,9,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Blaze,,Intimidate,Torracat,Ace Rank,1.8,83
+728,Popplio,Water,,5,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Torrent,,Liquid Voice,,,0.4,7.5
+729,Brionne,Water,,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Torrent,,Liquid Voice,Popplio,Amateur Rank,0.6,17.5
+730,Primarina,Water,Fairy,8,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Torrent,,Liquid Voice,Brionne,Ace Rank,1.8,44
+731,Pikipek,Normal,Flying,3,3,⬤⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Keen Eye,Skill Link,Pickup,,,0.3,1.2
+732,Trumbeak,Normal,Flying,5,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Keen Eye,Skill Link,Pickup,Pikipek,Beginner Rank,0.6,14.8
+733,Toucannon,Normal,Flying,8,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Keen Eye,Skill Link,Sheer Force,Trumbeak,Amateur Rank,1.1,26
+734,Yungoos,Normal,,4,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Stakeout,Strong Jaw,Adaptability,,,0.4,6
+735,Gumshoos,Normal,,8,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Stakeout,Strong Jaw,Adaptability,Yungoos,Amateur Rank,0.7,14.2
+736,Grubbin,Bug,,4,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Swarm,,,,,0.4,4.4
+737,Charjabug,Bug,Electric,5,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Battery,,,Grubbin,Amateur Rank,0.5,10.5
+738,Vikavolt,Bug,Electric,7,2,⬤⬤,1,⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Levitate,,,Charjabug,Thunder Stone,1.5,45
+739,Crabrawler,Fighting,,4,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Hyper Cutter,Iron Fist,Anger Point,,,0.6,7
+740,Crabominable,Fighting,Ice,9,4,⬤⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Hyper Cutter,Iron Fist,Anger Point,Crabrawler,Ice Stone,1.7,180
+741,Baile Style Oricorio,Fire,Flying,7,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Dancer,,,,,0.6,3.4
+741,Pau Style Oricorio,Electric,Flying,7,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Dancer,,,,,0.6,3.4
+741,Pom Style Oricorio,Psychic,Flying,7,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Dancer,,,,,0.6,3.4
+741,Sensu Style Oricorio,Ghost,Flying,7,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Dancer,,,,,0.6,3.4
+742,Cutiefly,Bug,Fairy,4,2,⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,1,⬤,Honey Gather,Shield Dust,Sweet Veil,,,0.1,0.2
+743,Ribombee,Bug,Fairy,6,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Honey Gather,Shield Dust,Sweet Veil,Cutiefly,Amateur Rank,0.2,0.5
+744,Rockruff,Rock,,4,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Keen Eye,Vital Spirit,Steadfast,,,0.5,9.2
+745,Midday Form Lycanroc,Rock,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Keen Eye,Sand Rush,Steadfast,Rockruff,Amateur Rank,0.8,25
+745,Midnight Form Lycanroc,Rock,,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Keen Eye,Vital Spirit,No Guard,Lycanroc-Midday,Amateur Rank,1.1,25
+745,Dusk Form Lycanroc,Rock,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Tough Claws,,,Lycanroc-Midnight,Amateur Rank,0.8,25
+746,Solo Form Wishiwashi,Water,,4,1,⬤,1,⬤,1,⬤,1,⬤,1,⬤,Schooling,,,,,0.2,0.3
+746,School Form Wishiwashi,Water,,4,4,⬤⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Schooling,,,,,8.2,78.6
+747,Mareanie,Poison,Water,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Merciless,Limber,Regenerator,,,0.4,8
+748,Toxapex,Poison,Water,5,2,⬤⬤,1,⬤,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,Merciless,Limber,Regenerator,Mareanie,Ace Rank,0.7,14.5
+749,Mudbray,Ground,,7,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Own Tempo,Stamina,Inner Focus,,,1,110
+750,Mudsdale,Ground,,10,4,⬤⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Own Tempo,Stamina,Inner Focus,Mudbray,Ace Rank,2.5,920
+751,Dewpider,Water,Bug,3,1,⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Water Bubble,,Water Absorb,,,0.3,4
+752,Araquanid,Water,Bug,6,2,⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,Water Bubble,,Water Absorb,Dewpider,Amateur Rank,1.8,82
+753,Fomantis,Grass,,4,2,⬤⬤,1,⬤,1,⬤,2,⬤⬤,1,⬤,Leaf Guard,,Contrary,,,0.3,1.5
+754,Lurantis,Grass,,7,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Leaf Guard,,Contrary,Fomantis,Ace Rank,0.9,18.5
+755,Morelull,Grass,Fairy,4,1,⬤,1,⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Illuminate,Effect Spore,Rain Dish,,,0.2,1.5
+756,Shiinotic,Grass,Fairy,6,2,⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Illuminate,Effect Spore,Rain Dish,Morelull,Amateur Rank,1,11.5
+757,Salandit,Poison,Fire,4,1,⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,1,⬤,Corrosion,,Oblivious,,,0.6,4.8
+758,Salazzle,Poison,Fire,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Corrosion,,Oblivious,Salandit,Ace Rank,1.2,22.2
+759,Stufful,Normal,Fighting,7,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Fluffy,Klutz,Cute Charm,,,0.5,6.8
+760,Bewear,Normal,Fighting,12,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Fluffy,Klutz,Cute Charm,Stufful,Amateur Rank,2.1,135
+761,Bounsweet,Grass,,4,1,⬤,1,⬤,1,⬤,1,⬤,1,⬤,Leaf Guard,Oblivious,Sweet Veil,,,0.3,3.2
+762,Steenee,Grass,,5,1,⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Leaf Guard,Oblivious,Sweet Veil,Bounsweet,Amateur Rank,0.7,8.2
+763,Tsareena,Grass,,7,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Leaf Guard,Queenly Majesty,Sweet Veil,Steenee,Ace Rank,1.2,21.4
+764,Comfey,Fairy,,5,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Flower Veil,Triage,Natural Cure,,,0.1,0.3
+765,Oranguru,Normal,Psychic,9,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Inner Focus,Telepathy,Symbiosis,,,1.5,76
+766,Passimian,Fighting,,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,Receiver,,Defiant,,,2,82.8
+767,Wimpod,Bug,Water,2,1,⬤,3,⬤⬤⬤,1,⬤,1,⬤,1,⬤,Wimp Out,,,,,0.5,12
+768,Golisopod,Bug,Water,7,4,⬤⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Emergency Exit,,,Wimpod,Ace Rank,2,108
+769,Sandygast,Ghost,Ground,5,2,⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Water Compaction,,Sand Veil,,,0.5,70
+770,Palossand,Ghost,Ground,8,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Water Compaction,,Sand Veil,Sandygast,Pro Rank,1.3,250
+771,Pyukumuku,Water,,5,2,⬤⬤,1,⬤,4,⬤⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,Innards Out,,Unaware,,,0.3,1.2
+772,Type: Null,Normal,,9,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Battle Armor,,,,,1.9,120.5
+773,Silvally,Normal,,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,RKS System,,,Type: Null,Max Friendship,2.3,100.5
+774,Shell Form Minior,Rock,Flying,6,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Shields Down,,,,,0.3,40
+774,Core Minior,Rock,Flying,6,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Shields Down,,,,,0.3,0.3
+775,Komala,Normal,,6,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Comatose,,,,,0.4,19.9
+776,Turtonator,Fire,Dragon,6,3,⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Shell Armor,,,,,2,212
+777,Togedemaru,Electric,Steel,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Iron Barbs,Lightning Rod,Sturdy,,,0.3,3.3
+778,Mimikyu,Ghost,Fairy,5,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Disguise,,,,,0.2,0.7
+779,Bruxish,Water,Psychic,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Dazzling,Strong Jaw,Wonder Skin,,,0.9,19
+780,Drampa,Normal,Dragon,7,2,⬤⬤,1,⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Berserk,Sap Sipper,Cloud Nine,,,3,185
+781,Dhelmise,Ghost,Grass,7,4,⬤⬤⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Steelworker,,,,,3.9,210
+782,Jangmo-o,Dragon,,4,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Bulletproof,Soundproof,Overcoat,,,0.6,29.7
+783,Hakamo-o,Dragon,Fighting,5,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Bulletproof,Soundproof,Overcoat,Jangmo-o,Ace Rank,1.2,47
+784,Kommo-o,Dragon,Fighting,7,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Bulletproof,Soundproof,Overcoat,Hakamo-o,Pro Rank,1.6,78.2
+785,Tapu Koko,Electric,Fairy,7,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Electric Surge,,Telepathy,,,1.8,20.5
+786,Tapu Lele,Psychic,Fairy,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Psychic Surge,,Telepathy,,,1.2,18.6
+787,Tapu Bulu,Grass,Fairy,7,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Grassy Surge,,Telepathy,,,1.9,45.5
+788,Tapu Fini,Water,Fairy,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Misty Surge,,Telepathy,,,1.3,21.2
+789,Cosmog,Psychic,,4,1,⬤,1,⬤,1,⬤,1,⬤,1,⬤,Unaware,,,,,0.2,0.1
+790,Cosmoem,Psychic,,4,1,⬤,1,⬤,4,⬤⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,Sturdy,,,Cosmog,Pro Rank,0.1,999.9
+791,Solgaleo,Psychic,Steel,13,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Full Metal Body,,,Cosmoem,Elite Rank,3.4,230
+792,Lunala,Psychic,Ghost,13,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Shadow Shield,,,Solgaleo,Elite Rank,4,120
+793,Nihilego,Rock,Poison,10,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Beast Boost,,,,,1.2,55.5
+794,Buzzwole,Bug,Fighting,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,Beast Boost,,,,,2.4,333.6
+795,Pheromosa,Bug,Fighting,7,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,1,⬤,Beast Boost,,,,,1.8,25
+796,Xurkitree,Electric,,8,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,Beast Boost,,,,,3.8,100
+797,Celesteela,Steel,Flying,9,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Beast Boost,,,,,9.2,999.9
+798,Kartana,Grass,Steel,5,5,⬤⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,1,⬤,Beast Boost,,,,,0.3,0.1
+799,Guzzlord,Dark,Dragon,22,3,⬤⬤⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Beast Boost,,,,,5.5,888
+800,Necrozma,Psychic,,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Prism Armor,,,,,2.4,230
+800,Dusk Mane Necrozma,Psychic,Steel,9,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Prism Armor,,,,,3.8,460
+800,Dawn Wings Necrozma,Psychic,Ghost,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Prism Armor,,,,,4.2,350
+800,Ultra Necrozma,Psychic,Dragon,9,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Neuroforce,,,,,7.5,230
+801,Magearna,Steel,Fairy,8,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Soul-Heart,,,,,1,80.5
+802,Marshadow,Fighting,Ghost,9,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Technician,,,,,0.7,22.2
+803,Poipole,Poison,,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Beast Boost,,,,,0.6,2
+804,Naganadel,Poison,Dragon,7,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,Beast Boost,,,Poipole,Elite Rank,3.6,150
+805,Stakataka,Rock,Steel,6,4,⬤⬤⬤⬤,1,⬤,5,⬤⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Beast Boost,,,,,5.5,820
+806,Blacephalon,Fire,Ghost,5,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Beast Boost,,,,,1.8,13
+807,Zeraora,Electric,,8,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Volt Absorb,,,,,1.5,44
+808,Meltan,Steel,,4,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,1,⬤,Magnet Pull,,,,,0.2,8
+809,Melmetal,Steel,,13,4,⬤⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Iron Fist,,,Meltan,Hex Nut,2.5,800
+809,Mega Melmetal,Steel,,13,5,⬤⬤⬤⬤⬤,2,⬤⬤,5,⬤⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Iron Fist,,,,,2.5,800
+810,Grookey,Grass,,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,Overgrow,,Grassy Surge,,,0.3,5
+811,Thwackey,Grass,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Overgrow,,Grassy Surge,Grookey,Amateur Rank,0.7,14
+812,Rillaboom,Grass,,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Overgrow,,Grassy Surge,Thwackey,Ace Rank,7,90
+812,Mega Rillaboom,Grass,Normal,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Grassy Surge,,,,,7,90
+813,Scorbunny,Fire,,5,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Blaze,,Libero,,,0.3,4.5
+814,Raboot,Fire,,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Blaze,,Libero,Scorbunny,Amateur Rank,0.6,9
+815,Cinderace,Fire,,8,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Blaze,,Libero,Raboot,Ace Rank,1.4,33
+815,Mega Cinderace,Fire,Fighting,8,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Libero,,,,,1.4,33
+816,Sobble,Water,,5,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Torrent,,Sniper,,,0.3,4
+817,Drizzile,Water,,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Torrent,,Sniper,Sobble,Amateur Rank,0.7,12
+818,Inteleon,Water,,7,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,Torrent,,Sniper,Drizzle,Ace Rank,1.9,45
+818,Mega Inteleon,Water,Dark,7,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Sniper,,,,,1.9,45
+819,Skwovet,Normal,,7,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Cheek Pouch,,Gluttony,,,0.3,2.5
+820,Greedent,Normal,,12,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Cheek Pouch,,Gluttony,Skwovet,Amateur Rank,0.6,6
+821,Rookidee,Flying,,3,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Keen Eye,Unnerve,Big Pecks,,,0.2,2
+822,Corvisquire,Flying,,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Keen Eye,Unnerve,Big Pecks,Rookidee,Amateur Rank,0.8,16
+823,Corviknight,Flying,Steel,9,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Pressure,Unnerve,Mirror Armor,Corvisquire,Ace Rank,2.2,75
+823,Mega Corviknight,Flying,Steel,9,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Wind Rider,,,,,2.2,75
+824,Blipbug,Bug,,2,1,⬤,2,⬤⬤,1,⬤,1,⬤,2,⬤⬤,Swarm,Compound Eyes,Telepathy,,,0.4,8
+825,Dottler,Bug,Psychic,5,1,⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Swarm,Compound Eyes,Telepathy,Blipbug,Beginner Rank,0.4,19
+826,Orbeetle,Bug,Psychic,6,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Swarm,Frisk,Telepathy,Dottler,Ace Rank,0.4,41
+826,Mega Orbeetle,Bug,Psychic,6,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Tinted Lens,,,,,0.4,41
+827,Nickit,Dark,,4,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,Run Away,Unburden,Stakeout,,,0.6,9
+828,Thievul,Dark,,7,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Run Away,Unburden,Stakeout,Nickit,Amateur Rank,1.2,20
+829,Gossifleur,Grass,,4,1,⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Cotton Down,Regenerator,Effect Spore,,,0.4,2
+830,Eldegoss,Grass,,6,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,Cotton Down,Regenerator,Effect Spore,Gossifleur,Amateur Rank,0.5,2
+831,Wooloo,Normal,,4,1,⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Fluffy,Run Away,Bulletproof,,,0.6,6
+832,Dubwool,Normal,,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Fluffy,Steadfast,Bulletproof,Wooloo,Amateur Rank,1.3,45
+833,Chewtle,Water,,5,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Strong Jaw,Shell Armor,Swift Swim,,,0.3,8.5
+834,Drednaw,Water,Rock,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Strong Jaw,Shell Armor,Swift Swim,Chewtle,Amateur Rank,1,115
+1000,Mega Drednaw,Water,Rock,9,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Strong Jaw,,,,,1,115
+835,Yamper,Electric,,5,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Ball Fetch,,Rattled,,,0.3,14
+836,Boltund,Electric,,6,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Strong Jaw,,Competitive,Yamper,Amateur Rank,1,34
+837,Rolycoly,Rock,,3,1,⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Steam Engine,Heatproof,Flash Fire,,,0.3,12
+838,Carkol,Rock,Fire,8,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Steam Engine,Flame Body,Flash Fire,Rolycoly,Amateur Rank,1.1,78
+839,Coalossal,Rock,Fire,11,3,⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Steam Engine,Flame Body,Flash Fire,Carkol,Ace Rank,2.8,310
+839,Mega Coalossal,Rock,Fire,11,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Steam Engine,,,,,2.8,310
+840,Applin,Grass,Dragon,4,1,⬤,1,⬤,3,⬤⬤⬤,1,⬤,1,⬤,Ripen,Gluttony,Bulletproof,,,0.2,0.5
+841,Flapple,Grass,Dragon,7,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Ripen,Gluttony,Hustle,Applin,Tart Apple,0.3,1
+841,Mega Flapple,Grass,Dragon,7,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Dragon's Maw,,,,,0.3,1
+842,Appletun,Grass,Dragon,11,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Ripen,Gluttony,Thick Fat,Applin,Sweet Apple,0.4,13
+842,Mega Appletun,Grass,Dragon,11,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Contrary,,,,,0.4,13
+843,Silicobra,Ground,,5,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,Sand Spit,Shed Skin,Sand Veil,,,2.2,8
+844,Sandaconda,Ground,,7,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,Sand Spit,Shed Skin,Sand Veil,Silicobra,Ace Rank,3.8,65
+844,Mega Sandaconda,Ground,,7,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Sand Stream,,,,,3.8,65
+845,Cramorant,Flying,Water,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Gulp Missile,,,,,0.8,18
+846,Arrokuda,Water,,4,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Swift Swim,,Propeller Tail,,,0.5,1
+847,Barraskewda,Water,,6,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Swift Swim,,Propeller Tail,Arrokuda,Amateur Rank,1.3,30
+848,Toxel,Electric,Poison,4,1,⬤,1,⬤,1,⬤,2,⬤⬤,1,⬤,Rattled,Static,Klutz,,,0.4,11
+849,Toxtricity,Electric,Poison,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Punk Rock,Plus,Technician,Toxel,Ace Rank,1.6,40
+849,Mega Toxtricity,Electric,Poison,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Punk Rock,,,,,1.6,40
+850,Sizzlipede,Fire,Bug,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Flash Fire,White Smoke,Flame Body,,,0.7,1
+851,Centiskorch,Fire,Bug,10,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Flash Fire,White Smoke,Flame Body,Sizzlipede,Amateur Rank,3,120
+851,Mega Centiskorch,Fire,Bug,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Flash Fire,,,,,3,120
+852,Clobbopus,Fighting,,5,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Limber,,Technician,,,0.6,4
+853,Grapploct,Fighting,,8,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Limber,,Technician,Clobbopus,Ace Rank,1.6,39
+854,Sinistea,Ghost,,4,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Weak Armor,,Cursed Body,,,0.1,0.2
+855,Polteageist,Ghost,,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Weak Armor,,Cursed Body,Sinistea,Tea Pot,0.1,0.2
+856,Hatenna,Psychic,,4,1,⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Healer,Anticipation,Magic Bounce,,,0.4,3
+857,Hattrem,Psychic,,5,1,⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Healer,Anticipation,Magic Bounce,Hatenna,Ace Rank,0.6,5
+858,Hatterene,Psychic,Fairy,5,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Healer,Anticipation,Magic Bounce,Hattrem,Pro Rank,2.1,5
+858,Mega Hatterene,Psychic,Fairy,5,3,⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Magic Bounce,,,,,2.1,5
+859,Impidimp,Dark,Fairy,4,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Prankster,Frisk,Pickpocket,,,0.4,5
+860,Morgrem,Dark,Fairy,6,2,⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Prankster,Frisk,Pickpocket,Impidimp,Ace Rank,0.8,12
+861,Grimmsnarl,Dark,Fairy,9,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Prankster,Frisk,Pickpocket,Morgrem,Pro Rank,1.5,61
+861,Mega Grimmsnarl,Dark,Fairy,9,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Prankster,,,,,1.5,61
+862,Obstagoon,Dark,Normal,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Reckless,Guts,Defiant,Linoone-Galarian,Ace Rank,1.6,46
+863,Perrserker,Steel,,7,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Battle Armor,Tough Claws,Steely Spirit,Meowth-Galarian,Amateur Rank,0.8,28
+864,Cursola,Ghost,,6,3,⬤⬤⬤,1,⬤,2,⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Weak Armor,,Perish Body,Corsola-Galarian,Ace Rank,1,0.4
+865,Sirfetch'd,Fighting,,6,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Steadfast,,Scrappy,Farfetch'd-Galarian,Perform 3 Critical Hits,0.8,117
+866,Mr. Rime,Psychic,Ice,8,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Tangled Feet,Screen Cleaner,Ice Body,Mr.Mime-Galarian,Pro Rank,1.5,58
+867,Runerigus,Ground,Ghost,5,3,⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Wandering Spirit,,,Yamask-Galarian,Ace Rank,1.6,66
+868,Milcery,Fairy,,4,1,⬤,1,⬤,1,⬤,2,⬤⬤,2,⬤⬤,Sweet Veil,,Aroma Veil,,,0.2,0.3
+869,Alcremie,Fairy,,6,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Sweet Veil,,Aroma Veil,Milcery,Mixed Sweets,0.3,0.5
+869,Mega Alcremie,Fairy,,6,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Aroma Veil,,,,,0.3,0.5
+870,Falinks,Fighting,,6,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Battle Armor,,Defiant,,,3,62
+871,Pincurchin,Electric,,4,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Lightning Rod,,Electric Surge,,,0.3,1
+872,Snom,Ice,Bug,3,1,⬤,1,⬤,1,⬤,2,⬤⬤,1,⬤,Shield Dust,,Ice Scales,,,0.3,4
+873,Frosmoth,Ice,Bug,7,2,⬤⬤,2,⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Shield Dust,,Ice Scales,Snom,Max Friendship,1.3,42
+874,Stonjourner,Rock,,10,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,1,⬤,1,⬤,Power Spot,,,,,2.5,520
+875,Ice Face Eiscue,Ice,,7,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Ice Face,,,,,1.4,89
+875,Noice Eiscue,Ice,,7,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Ice Face,,,,,1.4,89
+876,Indeedee♂,Psychic,Normal,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Inner Focus,Synchronize,Psychic Surge,,,0.9,28
+876,Indeedee♀,Psychic,Normal,7,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Own Tempo,Synchronize,Psychic Surge,,,0.9,28
+877,Morpeko,Electric,Dark,5,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Hunger Switch,,,,,0.3,3
+878,Cufant,Steel,,7,3,⬤⬤⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Sheer Force,,Heavy Metal,,,1.2,100
+879,Copperajah,Steel,,12,4,⬤⬤⬤⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Sheer Force,,Heavy Metal,Cufant,Ace Rank,3,1000
+879,Mega Copperajah,Steel,,12,4,⬤⬤⬤⬤,1,⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Sheer Force,,,,,3,1000
+880,Dracozolt,Electric,Dragon,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Volt Absorb,Hustle,Sand Rush,,,1.8,190
+881,Arctozolt,Electric,Ice,9,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Volt Absorb,Static,Slush Rush,,,2.3,150
+882,Dracovish,Water,Dragon,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Water Absorb,Strong Jaw,Sand Rush,,,2.3,215
+883,Arctovish,Water,Ice,9,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Water Absorb,Ice Body,Slush Rush,,,2,175
+884,Duraludon,Steel,Dragon,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,Light Metal,Heavy Metal,Stalwart,,,1.8,40
+884,Mega Duraludon,Steel,Dragon,7,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Stalwart,,,,,1.8,40
+885,Dreepy,Dragon,Ghost,2,2,⬤⬤,3,⬤⬤⬤,1,⬤,1,⬤,1,⬤,Clear Body,Infiltrator,Cursed Body,,,0.5,2
+886,Drakloak,Dragon,Ghost,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Clear Body,Infiltrator,Cursed Body,Dreepy,Pro Rank,1.4,11
+887,Dragapult,Dragon,Ghost,8,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Clear Body,Infiltrator,Cursed Body,Drakloak,Elite Rank,3,50
+888,Zacian,Fairy,,9,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Intrepid Sword,,,,,2.8,110
+888,Crowned Zacian,Fairy,Steel,9,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Intrepid Sword,,,,,2.8,355
+889,Zamazenta,Fighting,,9,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Dauntless Shield,,,,,2.9,210
+889,Crowned Zamazenta,Fighting,Steel,9,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Dauntless Shield,,,,,2.9,785
+890,Eternatus,Poison,Dragon,14,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Pressure,,,,,20,950
+890,Eternamax Eternatus,Poison,Dragon,25,3,⬤⬤⬤,4,⬤⬤⬤⬤,5,⬤⬤⬤⬤⬤,4,⬤⬤⬤⬤,5,⬤⬤⬤⬤⬤,Pressure,,,,,20,959
+891,Kubfu,Fighting,,6,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Inner Focus,,,,,0.6,12
+892,Single Strike Style Urshifu,Fighting,Dark,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Unseen Fist,,,Kubfu,Scroll of Darkness,1.9,105
+892,Mega Single Strike Style Urshifu,Fighting,Dark,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Unseen Fist,,,,,1.9,105
+892,Rapid Strike Style Urshifu,Fighting,Water,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Unseen Fist,,,Urshifu-Single Strike-Mega,Scroll of Waters,1.9,105
+892,Mega Rapid Strike Style Urshifu,Fighting,Water,10,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Unseen Fist,,,,,1.9,105
+893,Zarude,Dark,Grass,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Leaf Guard,,,,,1.8,70
+894,Regieleki,Electric,,8,3,⬤⬤⬤,5,⬤⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Transistor,,,,,1.2,145
+895,Regidrago,Dragon,,20,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Dragon's Maw,,,,,2.1,200
+896,Glastrier,Ice,,10,4,⬤⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Chilling Neigh,,,,,2.2,800
+897,Spectrier,Ghost,,10,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Grim Neigh,,,,,2,44.5
+898,Calyrex,Psychic,Grass,10,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Unnerve,,,,,1.1,7.7
+898,Ice Rider Calyrex,Psychic,Ice,10,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,As One,,,,,2.4,809.1
+898,Shadow Rider Calyrex,Psychic,Ghost,10,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,As One,,,,,2.4,53.6
+899,Wyrdeer,Normal,Psychic,10,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Intimidate,Frisk,Sap Sipper,Stantler,Amateur Rank,1.8,95.1
+900,Kleavor,Bug,Rock,7,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Swarm,Sheer Force,Sharpness,Scyther,Black Augurite,1.8,89
+901,Ursaluna,Ground,Normal,13,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Guts,Bulletproof,Unnerve,Ursaring,Peat Block,2.4,290
+902,Basculegion♂,Water,Ghost,12,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Swift Swim,Adaptability,Mold Breaker,Basculin-White Stripe,Receive Recoil damage,3,110
+902,Basculegion♀,Water,Ghost,12,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Swift Swim,Adaptability,Mold Breaker,Basculin-White Stripe,Receive Recoil damage,3,110
+903,Sneasler,Fighting,Poison,8,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,1,⬤,3,⬤⬤⬤,Pressure,Unburden,Poison Touch,Sneasel-Hisuian,Razor Claw,1.3,43
+904,Overqwil,Dark,Poison,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Poison Point,Swift Swim,Intimidate,Qwilfish-Hisuian,Ace Rank,2.5,60.5
+905,Incarnate Forme Enamorus,Fairy,Flying,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Cute Charm,,Contrary,,,1.6,48
+905,Therian Forme Enamorus,Fairy,Flying,7,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Overcoat,,,,,1.6,48
+906,Sprigatito,Grass,,4,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Overgrow,,Protean,,,0.4,4.1
+907,Floragato,Grass,,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Overgrow,,Protean,Sprigatito,Amateur Rank,0.9,12.2
+908,Meowscarada,Grass,Dark,7,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Overgrow,,Protean,Floragato,Ace Rank,1.5,31.2
+909,Fuecoco,Fire,,6,2,⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,1,⬤,Blaze,,Unaware,,,0.4,9.8
+910,Crocalor,Fire,,8,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Blaze,,Unaware,Fuecoco,Amateur Rank,1,30.7
+911,Skeledirge,Fire,Ghost,10,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Blaze,,Unaware,Crocalor,Ace Rank,1.6,326.5
+912,Quaxly,Water,,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Torrent,,Moxie,,,0.5,6.1
+913,Quaxwell,Water,,7,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Torrent,,Moxie,Quaxly,Amateur Rank,1.2,21.5
+914,Quaquaval,Water,Fighting,8,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Torrent,,Moxie,Quaxwell,Ace Rank,1.8,61.9
+915,Lechonk,Normal,,5,2,⬤⬤,1,⬤,1,⬤,1,⬤,2,⬤⬤,Aroma Veil,Gluttony,Thick Fat,,,0.5,10.2
+916,Oinkologne♂,Normal,,11,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Lingering Aroma,Gluttony,Thick Fat,Lechonk,Amateur Rank,1,120
+916,Oinkologne♀,Normal,,11,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Aroma Veil,Gluttony,Thick Fat,Lechonk,Amateur Rank,1,120
+917,Tarountula,Bug,,3,1,⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Insomnia,,Stakeout,,,0.3,4
+918,Spidops,Bug,,6,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Insomnia,,Stakeout,Tarountula,Beginner Rank,1,16.5
+919,Nymble,Bug,,3,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Swarm,,Tinted Lens,,,0.2,1
+920,Lokix,Bug,Dark,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Swarm,,Tinted Lens,Nymble,Amateur Rank,1,17.5
+921,Pawmi,Electric,,4,2,⬤⬤,2,⬤⬤,1,⬤,1,⬤,1,⬤,Static,Natural Cure,Iron Fist,,,0.3,2.5
+922,Pawmo,Electric,Fighting,6,3,⬤⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,1,⬤,Volt Absorb,Natural Cure,Iron Fist,Pawmi,Amateur Rank,0.4,6.5
+923,Pawmot,Electric,Fighting,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Volt Absorb,Natural Cure,Iron Fist,Pawmo,Max Loyalty,0.9,41
+924,Tandemaus,Normal,,5,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Run Away,Pickup,Own Tempo,,,0.3,1.8
+925,Maushold,Normal,,7,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Friend Guard,Cheek Pouch,Technician,Tandemaus,Amateur Rank,0.3,2.3
+926,Fidough,Fairy,,3,2,⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Own Tempo,,Klutz,,,0.3,10.9
+927,Dachsbun,Fairy,,5,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Well-Baked Body,,Aroma Veil,Fidough,Amateur Rank,0.5,14.9
+928,Smoliv,Grass,Normal,4,1,⬤,1,⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Early Bird,,Harvest,,,0.3,6.5
+929,Dolliv,Grass,Normal,5,2,⬤⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Early Bird,,Harvest,Smoliv,Amateur Rank,0.6,11.9
+930,Arboliva,Grass,Normal,7,2,⬤⬤,1,⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Seed Sower,,Harvest,Dolliv,Ace Rank,1.4,48.2
+931,White Plumage Squawkabilly,Normal,Flying,8,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Intimidate,Hustle,Sheer Force,,,0.6,2.4
+931,Yellow Plumage Squawkabilly,Normal,Flying,8,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Intimidate,Hustle,Sheer Force,,,0.6,2.4
+931,Green Plumage Squawkabilly,Normal,Flying,8,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Intimidate,Hustle,Guts,,,0.6,2.4
+931,Blue Plumage Squawkabilly,Normal,Flying,8,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Intimidate,Hustle,Guts,,,0.6,2.4
+932,Nacli,Rock,,5,2,⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,1,⬤,Purifying Salt,Sturdy,Clear Body,,,0.4,16
+933,Naclstack,Rock,,6,2,⬤⬤,1,⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,Purifying Salt,Sturdy,Clear Body,Nacli,Amateur Rank,0.6,105
+934,Garganacl,Rock,,10,3,⬤⬤⬤,1,⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Purifying Salt,Sturdy,Clear Body,Naclstack,Ace Rank,2.3,240
+935,Charcadet,Fire,,4,2,⬤⬤,1,⬤,1,⬤,2,⬤⬤,1,⬤,Flash Fire,,Flame Body,,,0.6,10.5
+936,Armarouge,Fire,Psychic,8,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Flash Fire,,Weak Armor,Charcadet,Auspicious Armor,1.5,85
+937,Ceruledge,Fire,Ghost,7,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Flash Fire,,Weak Armor,Armarouge,Malicious Armor,1.6,62
+938,Tadbulb,Electric,,6,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Own Tempo,Static,Damp,,,0.3,0.4
+939,Bellibolt,Electric,,10,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Electromorphosis,Static,Damp,Tadbulb,Thunder Stone,1.2,113
+940,Wattrel,Electric,Flying,4,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Wind Power,Volt Absorb,Competitive,,,0.4,3.6
+941,Kilowattrel,Electric,Flying,7,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Wind Power,Volt Absorb,Competitive,Wattrel,Amateur Rank,1.4,38.6
+942,Maschiff,Dark,,6,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Intimidate,Run Away,Stakeout,,,0.5,16
+943,Mabosstiff,Dark,,8,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Intimidate,Guard Dog,Stakeout,Maschiff,Ace Rank,1.1,61
+944,Shroodle,Poison,Normal,4,2,⬤⬤,3,⬤⬤⬤,1,⬤,1,⬤,1,⬤,Unburden,Pickpocket,Prankster,,,0.2,0.7
+945,Grafaiai,Poison,Normal,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Unburden,Poison Touch,Prankster,Shroodle,Amateur Rank,0.7,27.2
+946,Bramblin,Grass,Ghost,4,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Wind Rider,,Infiltrator,,,0.6,0.6
+947,Brambleghast,Grass,Ghost,5,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Wind Rider,,Infiltrator,Bramblin,Max Loyalty,1.2,6
+948,Toedscool,Ground,Grass,4,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,Mycelium Might,,,,,0.9,33
+949,Toedscruel,Ground,Grass,8,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Mycelium Might,,,Toedscool,Ace Rank,1.9,58
+950,Klawf,Rock,,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,Anger Shell,Shell Armor,Regenerator,,,1.3,79
+951,Capsakid,Grass,,5,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,Chlorophyll,Insomnia,Klutz,,,0.3,3
+952,Scovillain,Grass,Fire,6,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Chlorophyll,Insomnia,Moody,Capsakid,Fire Stone,0.9,15
+953,Rellor,Bug,,4,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Compound Eyes,,Shed Skin,,,0.2,1
+954,Rabsca,Bug,Psychic,7,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Synchronize,,Telepathy,Rellor,Max Loyalty,0.3,3.5
+955,Flittle,Psychic,,3,1,⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,1,⬤,Anticipation,Frisk,Speed Boost,,,0.2,1.5
+956,Espathra,Psychic,,9,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Opportunist,Frisk,Speed Boost,Flittle,Ace Rank,1.9,90
+957,Tinkatink,Fairy,Steel,5,2,⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Mold Breaker,Own Tempo,Pickpocket,,,0.4,8.9
+958,Tinkatuff,Fairy,Steel,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Mold Breaker,Own Tempo,Pickpocket,Tinkatink,Amateur Rank,0.7,59.1
+959,Tinkaton,Fairy,Steel,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Mold Breaker,Own Tempo,Pickpocket,Tinkatuff,Ace Rank,0.7,112.8
+960,Wiglett,Water,,1,2,⬤⬤,3,⬤⬤⬤,1,⬤,1,⬤,1,⬤,Gooey,Rattled,Sand Veil,,,1.2,1.8
+961,Wugtrio,Water,,3,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Gooey,Rattled,Sand Veil,Wiglett,Amateur Rank,1.2,5.4
+962,Bombirdier,Flying,Dark,7,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Big Pecks,Keen Eye,Rocky Payload,,,1.5,42.9
+963,Finizen,Water,,7,2,⬤⬤,3,⬤⬤⬤,1,⬤,2,⬤⬤,1,⬤,Water Veil,,,,,1.3,60.2
+964,Zero Form Palafin,Water,,10,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Zero to Hero,,,Finizen,Ace Rank,1.3,60.2
+964,Hero Form Palafin,Water,,10,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Zero to Hero,,,Finizen,Ace Rank,1.8,97.4
+965,Varoom,Steel,Poison,4,2,⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Overcoat,,Slow Start,,,1,35
+966,Revavroom,Steel,Poison,8,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Overcoat,,Filter,Varoom,Ace Rank,1.8,120
+967,Cyclizar,Dragon,Normal,7,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Shed Skin,,Regenerator,,,1.6,63
+968,Orthworm,Steel,,7,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,Earth Eater,,Sand Veil,,,2.5,310
+969,Glimmet,Rock,Poison,4,1,⬤,2,⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,Toxic Debris,,Corrosion,,,0.7,8
+970,Glimmora,Rock,Poison,8,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Toxic Debris,,Corrosion,Glimmet,Ace Rank,1.5,45
+971,Greavard,Ghost,,5,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,2,⬤⬤,Pickup,,Fluffy,,,0.6,35
+972,Houndstone,Ghost,,7,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Sand Rush,,Fluffy,Greavard,Ace Rank,2,15
+973,Flamigo,Flying,Fighting,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Scrappy,Tangled Feet,Costar,,,1.6,37
+974,Cetoddle,Ice,,10,2,⬤⬤,1,⬤,2,⬤⬤,1,⬤,1,⬤,Thick Fat,Snow Cloak,Sheer Force,,,1.2,45
+975,Cetitan,Ice,,17,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Thick Fat,Slush Rush,Sheer Force,Cetoddle,Ice Stone,4.5,700
+976,Veluza,Water,Psychic,9,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Mold Breaker,,Sharpness,,,2.5,90
+977,Dondozo,Water,,15,3,⬤⬤⬤,1,⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Unaware,Oblivious,Water Veil,,,12,220
+978,Curly Form Tatsugiri,Dragon,Water,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Commander,,Storm Drain,,,0.3,8
+978,Droopy Form Tatsugiri,Dragon,Water,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Commander,,Storm Drain,,,0.3,8
+978,Stretchy Form Tatsugiri,Dragon,Water,6,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Commander,,Storm Drain,,,0.3,8
+979,Annihilape,Fighting,Ghost,11,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Vital Spirit,Inner Focus,Defiant,Primape,Ace Rank,1.2,56
+980,Clodsire,Poison,Ground,13,3,⬤⬤⬤,1,⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Poison Point,Water Absorb,Unaware,Wooper-Paldean,Amateur Rank,1.8,223
+981,Farigiraf,Normal,Psychic,12,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Cud Chew,Armor Tail,Sap Sipper,Girafirig,Ace Rank,3.2,160
+982,Dudunsparce,Normal,,12,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Serene Grace,Run Away,Rattled,Dunsparce,Ace Rank,3.6,39.2
+983,Kingambit,Dark,Steel,10,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Defiant,Supreme Overlord,Pressure,Bisharp,Leader's Crest,2,120
+984,Great Tusk,Ground,Fighting,11,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,Protosynthesis,,,,,2.2,320
+985,Scream Tail,Fairy,Psychic,11,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Protosynthesis,,,,,1.2,8
+986,Brute Bonnet,Grass,Dark,11,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Protosynthesis,,,,,1.2,21
+987,Flutter Mane,Ghost,Fairy,5,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Protosynthesis,,,,,1.4,4
+988,Slither Wing,Bug,Fighting,8,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Protosynthesis,,,,,3.2,92
+989,Sandy Shocks,Electric,Ground,8,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Protosynthesis,,,,,2.3,60
+990,Iron Treads,Ground,Steel,9,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,Quark Drive,,,,,0.9,240
+991,Iron Bundle,Ice,Water,5,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,Quark Drive,,,,,0.6,11
+992,Iron Hands,Fighting,Electric,15,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,Quark Drive,,,,,1.8,380.7
+993,Iron Jugulis,Dark,Flying,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Quark Drive,,,,,1.3,111
+994,Iron Moth,Fire,Poison,8,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Quark Drive,,,,,1.2,36
+995,Iron Thorns,Rock,Electric,10,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Quark Drive,,,,,1.6,303
+996,Frigibax,Dragon,Ice,6,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,1,⬤,2,⬤⬤,Thermal Exchange,,Ice Body,,,0.5,17
+997,Arctibax,Dragon,Ice,9,3,⬤⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,2,⬤⬤,Thermal Exchange,,Ice Body,Frigibax,Amateur Rank,0.8,30
+998,Baxcalibur,Dragon,Ice,11,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Thermal Exchange,,Ice Body,Arctibax,Pro Rank,2.1,210
+999,Gimmighoul,Ghost,,4,1,⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Rattled,,,,,0.3,5
+999,Roaming Gimmighoul,Ghost,,4,1,⬤,1,⬤,2,⬤⬤,3,⬤⬤⬤,2,⬤⬤,Run Away,,,,,0.1,0.1
+1000,Gholdengo,Steel,Ghost,8,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Good as Gold,,,Gimmighoul,Gimmighoul Coin,1.2,30
+1001,Wo-Chien,Dark,Grass,8,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,Tablets of Ruin,,,,,1.5,74.2
+1002,Chien-Pao,Dark,Ice,8,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,Sword of Ruin,,,,,1.9,152.2
+1003,Ting-Lu,Dark,Ground,15,3,⬤⬤⬤,2,⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Vessel of Ruin,,,,,2.7,699.7
+1004,Chi-Yu,Dark,Fire,5,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,Beads of Ruin,,,,,0.4,4.9
+1005,Roaring Moon,Dragon,Dark,10,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,2,⬤⬤,3,⬤⬤⬤,Protosynthesis,,,,,2,380
+1006,Iron Valiant,Fairy,Fighting,7,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,2,⬤⬤,Quark Drive,,,,,1.4,35
+1007,Koraidon,Fighting,Dragon,10,4,⬤⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,Orichalcum Pulse,,,,,2.5,303
+1008,Miraidon,Electric,Dragon,10,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Hadron Engine,,,,,3.5,240
+1009,Walking Wake,Water,Dragon,9,3,⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,4,⬤⬤⬤⬤,3,⬤⬤⬤,Protosynthesis,,,,,3.5,280
+1010,Iron Leaves,Grass,Psychic,9,4,⬤⬤⬤⬤,3,⬤⬤⬤,3,⬤⬤⬤,2,⬤⬤,3,⬤⬤⬤,Quark Drive,,,,,1.5,125
